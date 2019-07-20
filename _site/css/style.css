@@ -264,3 +264,42 @@ ul {
 .small-links {
   align-self: flex-end;
 }
+
+.fullscreenvideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  z-index: -1;
+}
+
+.inlineVideo {
+  width: 50%;
+  height: auto;
+  z-index: 5;
+}
+
+.rightvideo {
+  width: 50%;
+  height: 80vh;
+  padding: 20px;
+  background-color: red;
+  z-index: 5;
+  position: relative;
+  overflow: hidden;
+}
+
+.rightvideo video {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+
+}
+
+
+.bg-transparent {
+  background: transparent;
+}
