@@ -18,10 +18,19 @@ body {
   padding: 0;
   font-family: "GT America";
   color: #1D2632;
+  background-color: #EAECF0;
 }
 
 a {
   color: #1D2632;
+}
+
+@media screen and (max-width: 30em) {
+
+  .f-mobileheadline {
+    font-size: 4rem;
+  }
+
 }
 
 ::placeholder {
@@ -188,25 +197,62 @@ ul {
   background-size: 20px 18px;
 }
 
-.arrow-icon {
+.icon-hold {
   position: relative;
 }
 
-.arrow-icon:before {
+.icon0:before {
   content: ' ';
-  width: 9px;
-  height: 14px;
+  width: 48px;
+  height: 48px;
   display: block;
-  background-image: url('../assets/callout.svg');
-  background-size: 9px 14px;
+  background-image: url('../assets/icon0.svg');
+  background-size: 48px 48px;
   position: absolute;
-  left: -40px;
-  top: 0;
+  left: -90px;
+  top: 30px;
+}
+
+.icon2:before {
+  content: ' ';
+  width: 48px;
+  height: 48px;
+  display: block;
+  background-image: url('../assets/icon2.svg');
+  background-size: 48px 48px;
+  position: absolute;
+  left: -90px;
+  top: 30px;
+}
+
+.icon1:before {
+  content: ' ';
+  width: 48px;
+  height: 48px;
+  display: block;
+  background-image: url('../assets/icon1.svg');
+  background-size: 48px 48px;
+  position: absolute;
+  left: -90px;
+  top: 30px;
+}
+
+
+@media screen and (max-width: 30em) {
+  .icon0 {
+    display: none;
+  }
+  .icon1 {
+    display: none;
+  }
+  .icon2 {
+    display: none;
+  }
 }
 
 .subhead {
   width: 100%;
-  top: 44px;
+  top: 22px;
   left: 0;
   text-align: center;
 }
@@ -267,39 +313,42 @@ ul {
 
 .fullscreenvideo {
   position: fixed;
-  right: 0;
+  left: 0;
   bottom: 0;
-  min-width: 100%;
-  min-height: 100%;
+  width: 100%;
+  min-height: 100vh;
   z-index: -1;
+  object-fit: cover;
+  object-position: center;
 }
-
-.inlineVideo {
-  width: 50%;
-  height: auto;
-  z-index: 5;
-}
-
-.rightvideo {
-  width: 50%;
-  height: 100vh;
-  padding: 20px;
-  background-color: red;
-  z-index: 5;
-  position: relative;
-  overflow: hidden;
-}
-
-.rightvideo video {
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  min-width: 100%;
-  min-height: 100%;
-
-}
-
 
 .bg-transparent {
   background: transparent;
+}
+
+/* Header */
+
+nav a {
+  text-decoration: none;
+}
+
+nav .initial svg path {
+  fill: white;
+}
+
+nav .initial a {
+  color: white;
+}
+
+nav .scrolled svg path {
+  fill: #1D2632;
+}
+
+nav .scrolled a {
+  color: #1D2632;
+}
+
+.arrowdown {
+  position: absolute;
+  bottom: 22px;
 }

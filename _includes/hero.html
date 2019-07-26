@@ -1,23 +1,13 @@
-<nav class="w-100 fixed z-9999">
-  <div class="ph4 pv2 flex w-100 justify-between items-center">
-    <div class="logo pv2">
-      <img src="assets/logo-white.svg" alt="Upholdings">
-    </div>
-    <div class="flex pv2 items-center space-between white">
-      <div class="mh2 f6">The Difference</div>
-      <div class="mh2 f6">Approach</div>
-      <div class="ml2 f6 mr4">Our Story</div>
-      <button class="2f6 link dim br2 ph3 pv2 lh-copy dib black bg-white br-pill">Contact Us</button>
-    </div>
-  </div>
-</nav>
+{% include header.html %}
 
-<div class="flex w-100 min-vh-100 items-center justify-start bg-transparent relative">
-  <video autoplay muted loop class="fullscreenvideo">
-    <source src="assets/video1.mp4" type="video/mp4">
-  </video>
-  <div data-aos="fade-in" data-aos-delay="200" class="ph5-ns white">
-    <h1 class="f-subheadline super mb0">Modern Investing.</h1>
+<div id="home" class="flex w-100 min-vh-100 items-center justify-center bg-transparent relative">
+  <div data-aos="fade-in" data-aos-delay="200" class="w-100 mw9 ph5-ns ph4 ph4-m white tl-ns tc">
+    <h1 class="f-headline f-mobileheadline  super mb0">Modern Investing.</h1>
     <h4 class="f4 o-80 lh-copy measure">Compound your capital faster by investing into the best companies building our future.</h4>
   </div>
+  <video autoplay muted loop class="fullscreenvideo bg-blue center">
+    <source src="assets/video1.mp4" type="video/mp4">
+  </video>
+  <a class="fixed arrowdown" href="#difference"><img src="assets/arrow-down.svg" /></a>
+
 </div>
