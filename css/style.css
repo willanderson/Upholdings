@@ -66,7 +66,10 @@ h1,h2,h3,h4 {
   object-position: 0 0;
 }
 
-
+.calc-vh {
+  height: 100vh; 
+  height: calc(var(--vh, 1vh) * 100);
+}
 
 button {
   border-color: none;
@@ -209,8 +212,8 @@ ul {
   background-image: url('../assets/icon0.svg');
   background-size: 48px 48px;
   position: absolute;
-  left: -90px;
-  top: 30px;
+  left: -72px;
+  top: 20px;
 }
 
 .icon2:before {
@@ -221,8 +224,8 @@ ul {
   background-image: url('../assets/icon2.svg');
   background-size: 48px 48px;
   position: absolute;
-  left: -90px;
-  top: 30px;
+  left: -72px;
+  top: 20px;
 }
 
 .icon1:before {
@@ -233,8 +236,8 @@ ul {
   background-image: url('../assets/icon1.svg');
   background-size: 48px 48px;
   position: absolute;
-  left: -90px;
-  top: 30px;
+  left: -72px;
+  top: 20px;
 }
 
 
@@ -328,24 +331,42 @@ ul {
 
 /* Header */
 
+nav {
+  transition: all 250ms ease-out;
+  transition-property: color,fill,stroke,background-color,box-shadow,-webkit-box-shadow;
+}
+
 nav a {
   text-decoration: none;
 }
 
-nav .initial svg path {
-  fill: white;
+nav svg path {
+  fill: inherit;
+  transition-property: color,fill,stroke,background-color,box-shadow,-webkit-box-shadow;
 }
 
-nav .initial a {
+nav a {
+  color: inherit;
+}
+
+.initial {
+  background-color: transparent;
+  box-shadow: none;
   color: white;
 }
 
-nav .scrolled svg path {
-  fill: #1D2632;
+.initial svg {
+  fill: white;
 }
 
-nav .scrolled a {
+.scrolled {
+  box-shadow: 0 2px 4px 0 rgba(76,76,75,.1);
+  background-color: rgba(255, 255, 255, 0.99);
   color: #1D2632;
+}
+
+.scrolled svg {
+  fill: #1D2632;
 }
 
 .arrowdown {

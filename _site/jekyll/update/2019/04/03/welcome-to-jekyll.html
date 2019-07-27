@@ -11,8 +11,8 @@
     <link rel="stylesheet" type="text/css" href="css/style.css" />
 </head>
 <body id="top">
-    <nav class="w-100 fixed z-9999">
-  <div id="navbar" class="ph5-ns ph3 ph3-m pv2 flex w-100 justify-between items-center initial">
+    <nav id="navbar" class="w-100 fixed z-9999 initial">
+  <div class="ph5-ns ph3 ph3-m pv2 flex w-100 justify-between items-center">
     <a href="#top" class="logo pv2">
       <svg width="175" height="45" viewBox="0 0 175 45" fill="none" xmlns="http://www.w3.org/2000/svg">
         <path fill-rule="evenodd" clip-rule="evenodd"
@@ -24,8 +24,6 @@
       </svg>
     </a>
     <div class="flex-ns pv2 items-center space-between">
-      <a href="#difference" class="mh2 f6 dn dn-m db-l dim">The Difference</a>
-      <a href="#approach" class="mh2 f6 dn dn-m db-l dim">Approach</a>
       <a href="#story" class="ml2 f6 mr4 dn dn-m db-l dim">Our Story</a>
       <button class="f6 link dim br2 ph3 pv2 lh-copy dn dib-m dib-l white bg-green br-pill">Contact Us</button>
     </div>
@@ -33,21 +31,21 @@
 </nav>
 
 
-<div id="home" class="flex w-100 min-vh-100 items-center justify-center bg-transparent relative">
-  <div data-aos="fade-in" data-aos-delay="200" class="w-100 mw9 ph5-ns ph4 ph4-m white tl-ns tc">
-    <h1 class="f-headline f-mobileheadline  super mb0">Modern Investing.</h1>
-    <h4 class="f4 o-80 lh-copy measure">Compound your capital faster by investing into the best companies building our future.</h4>
+<div id="home" class="flex w-100 calc-vh items-center justify-center bg-transparent relative">
+  <div class="w-100 mw9 ph5-ns ph4 ph4-m white tl-ns tc">
+    <h1 data-aos="fade-up" data-aos-delay="300" data-aos-duration="500" class="f-headline f-mobileheadline  super mb0">Modern Investing.</h1>
+    <h4 data-aos="fade-up" data-aos-delay="600" class="f4 o-80 lh-copy measure">Compound your capital faster by investing into the best companies building our future.</h4>
   </div>
-  <video autoplay muted loop class="fullscreenvideo bg-blue center">
-    <source src="assets/video1.mp4" type="video/mp4">
+  <video playsinline autoplay muted loop class="fullscreenvideo bg-blue center">
+    <source src="https://player.vimeo.com/external/350425045.hd.mp4?s=1e1710a8d0737b10b0ed2bb5991f5a0ae4a65b41&profile_id=175" type="video/mp4">
   </video>
   <a id="downarrow" class="fixed arrowdown" href="#difference"><img src="assets/arrow-down.svg" /></a>
 
 </div>
 
-    <div id="difference" class="flex flex-column w-100 items-start justify-start bg-blue pv6-l pv4 ph5-ns ph4 ph4-m">
+    <div id="difference" class="flex flex-column w-100 items-start justify-start bg-blue pv5-l pv4 ph5-ns ph4 ph4-m">
   <div class="w-100 center mw9">
-    <div data-aos="fade-up" class="super center f3 f2-m f1-l measure db mt3 mb0-ns mb3 lh-copy black"><span class="b">We invest towards the future. </span>Every generation, there are new market forces—driven by technology, regulatory, and social changes—that enable well positioned
+    <div data-aos="fade-up" class="super center f3 f2-m f2-l measure db mt3 mb0-ns mb3 lh-copy black"><span class="b">We invest towards the future. </span>Every generation, there are new market forces—driven by technology, regulatory, and social changes—that enable well positioned
       companies to deliver above average earnings growth. That’s our focus.
     </div>
   </div>
@@ -57,27 +55,27 @@
         <div class="w-50-l w-100 vh-25-ns flex flex-column items-start justify-center icon-hold">
           <img class="dn-ns mv2" src="assets/icon0.svg" />
           <div class="header super mb2 f3 icon0">Internet-Connected Assets</div>
-          <div class="f4 lh-copy off-black measure">The global proliferation of always-on mobile devices has connected our houses, cars, and cash to the internet. New services are improving the productivity of our assets, creating a variety of investable opportunities.</div>
+          <div class="f4 lh-copy off-black measure">The proliferation of always-on mobile devices has connected our houses, cars, and cash to the internet, resulting in the creation of new services like homesharing. Growing demand for these services is driving earnings for the companies and assets powering these new networks.</div>
         </div>
       </div>
       <div data-aos="fade-up" class="mb5 mb4-ns w-100 flex justify-end-ns">
         <div class="w-50-l w-100 vh-25-ns flex flex-column items-start justify-center icon-hold">
           <img class="dn-ns mv2" src="assets/icon1.svg" />
           <div class="header super mb2 f3 icon1">A More Personal Web</div>
-          <div class="f4 lh-copy off-black measure">The global proliferation of always-on mobile devices has connected our houses, cars, and cash to the internet. New services are improving the productivity of our assets, creating a variety of investable opportunities.</div>
+          <div class="f4 lh-copy off-black measure">After spending the last decade uploading our memories and preferences onto the web, we are now experiencing limitless personalization. Business models built around the individual are thriving: self-expression, collaboration, and targeted advertising.</div>
         </div>
       </div>
       <div data-aos="fade-up" class="mb5 w-100 flex justify-end-ns">
         <div class="w-50-l w-100 vh-25-ns flex flex-column items-start justify-center icon-hold">
           <img class="dn-ns mv2" src="assets/icon2.svg" />
-          <div class="header super mb2 f3 icon2">The All-Digital Enterprise</div>
-          <div class="f4 lh-copy off-black measure">The global proliferation of always-on mobile devices has connected our houses, cars, and cash to the internet. New services are improving the productivity of our assets, creating a variety of investable opportunities.</div>
+          <div class="header super mb2 f3 icon2">The All Digital Enterprise</div>
+          <div class="f4 lh-copy off-black measure">Processing power, storage, and applications have all moved into the cloud. Great investment opportunities are emerging in both the businesses providing these services as well as those poised to benefit the most from their use.</div>
         </div>
       </div>
   </div>
 </div>
 
-    <div id="approach" class="bg-black w-100 pv2 ph3 relative vh-50-ns vh-100-m vh-100 flex items-center">
+    <div id="approach" class="bg-black w-100 pv4 ph3 relative vh-75-ns vh-100-m vh-100 flex items-center">
   <div class="f7 fw6 ttu tracked mt3 mb2 white w-60 center absolute subhead">Our Approach</div>
 
   <div class="cf center mw9 pv5-l pv4 mt5-ns mt0-m">
@@ -142,7 +140,7 @@
 </body>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.js"></script>
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-<script src="js/jquery.drawsvg.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vivus/0.4.4/vivus.js" integrity="sha256-pyMBGYQlTVb2TWLjzcv65PMcv0TADP8ME149Z+wDhFg=" crossorigin="anonymous"></script>
 <script src="js/velocity.min.js"></script>
 <script src="js/velocity.ui.js"></script>
 <script src="js/app.js"></script>

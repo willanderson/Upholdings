@@ -5,9 +5,10 @@ $(document).ready(function() {
   $(window).on('scroll', function() {
     var st = $(this).scrollTop();
     target.css({
-      'opacity': 1 - st / 200
+      'opacity': 1 - st / 50
     });
   });
+
 
 
   $('a[href^="#"]').click(function() {
@@ -18,8 +19,7 @@ $(document).ready(function() {
     $window = $(window);
 
   $window.scroll(function() {
-    console.log($window.scrollTop())
-    if ($window.scrollTop() >= distance) {
+    if ($window.scrollTop() >= 1) {
       $("#navbar").removeClass("initial")
       $("#navbar").addClass("scrolled")
     } else {
@@ -27,6 +27,15 @@ $(document).ready(function() {
       $("#navbar").addClass("initial")
     }
   });
+
+  let vh = window.innerHeight * 0.01;
+  document.documentElement.style.setProperty('--vh', `${vh}px`);
+
+window.addEventListener('resize', () => {
+  let vh = window.innerHeight * 0.01;
+  document.documentElement.style.setProperty('--vh', `${vh}px`);
+});
+
 
 
 });
