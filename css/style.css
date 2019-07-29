@@ -67,7 +67,7 @@ h1,h2,h3,h4 {
 }
 
 .calc-vh {
-  height: 100vh; 
+  height: 100vh;
   height: calc(var(--vh, 1vh) * 100);
 }
 
@@ -225,7 +225,7 @@ ul {
   background-size: 48px 48px;
   position: absolute;
   left: -72px;
-  top: 20px;
+  top: 34px;
 }
 
 .icon1:before {
@@ -237,18 +237,18 @@ ul {
   background-size: 48px 48px;
   position: absolute;
   left: -72px;
-  top: 20px;
+  top: 38px;
 }
 
 
-@media screen and (max-width: 30em) {
-  .icon0 {
+@media screen and (max-width: 60em) {
+  .icon0:before {
     display: none;
   }
-  .icon1 {
+  .icon1:before {
     display: none;
   }
-  .icon2 {
+  .icon2:before {
     display: none;
   }
 }
