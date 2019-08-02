@@ -89,6 +89,10 @@ ul {
   padding: 0;
 }
 
+.fontsize18 {
+  font-size: 18px;
+}
+
 
 .caslon {
   font-family: "Big Caslon";
@@ -213,7 +217,20 @@ ul {
   background-size: 48px 48px;
   position: absolute;
   left: -72px;
-  top: 20px;
+  top: 0;
+}
+
+
+.icon1:before {
+  content: ' ';
+  width: 48px;
+  height: 48px;
+  display: block;
+  background-image: url('../assets/icon1.svg');
+  background-size: 48px 48px;
+  position: absolute;
+  left: -72px;
+  top: 10px;
 }
 
 .icon2:before {
@@ -225,19 +242,7 @@ ul {
   background-size: 48px 48px;
   position: absolute;
   left: -72px;
-  top: 34px;
-}
-
-.icon1:before {
-  content: ' ';
-  width: 48px;
-  height: 48px;
-  display: block;
-  background-image: url('../assets/icon1.svg');
-  background-size: 48px 48px;
-  position: absolute;
-  left: -72px;
-  top: 38px;
+  top: 20px;
 }
 
 
@@ -372,4 +377,8 @@ nav a {
 .arrowdown {
   position: absolute;
   bottom: 22px;
+}
+
+.Background-esq3f2-0.gbMXpc {
+  background-color: transparent !important;
 }
