@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: willanderson.github.io/
+  repo: willanderson.github.io/UpHoldings
   branch: master
   site_domain: clever-agnesi-535f93.netlify.com
 
