@@ -12,8 +12,16 @@ $(document).ready(function() {
 
 
 
-  $('a[href^="#"]').click(function() {
-    $(this.hash).velocity('scroll');
+  $('a[href^="#"]').click(function(e) {
+    e.preventDefault();
+    var offset = 80;
+    var target = this.hash;
+    if ($(this).data('offset') != undefined) offset = $(this).data('offset');
+    $('html, body').stop().animate({
+      'scrollTop': $(target).offset().top - offset
+    }, 500, 'swing', function() {
+      // window.location.hash = target;
+    });
   });
 
   var distance = $('#difference').offset().top - 40,
@@ -37,20 +45,19 @@ $(document).ready(function() {
     document.documentElement.style.setProperty('--vh', `${vh}px`);
   });
 
-  $( "#launchform" ).click(function() {
-    $( "#form" ).addClass( "active" );
-    $( "body" ).addClass( "noscroll" );
+  $("#launchform").click(function() {
+    $("#form").addClass("active");
+    $("body").addClass("noscroll");
   });
 
-  $( "#launchformfooter" ).click(function() {
-    $( "#form" ).addClass( "active" );
-    $( "body" ).addClass( "noscroll" );
+  $("#launchformfooter").click(function() {
+    $("#form").addClass("active");
+    $("body").addClass("noscroll");
   });
 
-  $( "#closebutton" ).click(function() {
-    $( "#form" ).removeClass( "active" );
-    $( "body" ).removeClass( "noscroll" );
-    console.log("hello");
+  $("#closebutton").click(function() {
+    $("#form").removeClass("active");
+    $("body").removeClass("noscroll");
   });
 
 
