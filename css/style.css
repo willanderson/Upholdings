@@ -230,7 +230,7 @@ ul {
   background-size: 48px 48px;
   position: absolute;
   left: -72px;
-  top: 10px;
+  top: -15px;
 }
 
 .icon2:before {
@@ -242,7 +242,7 @@ ul {
   background-size: 48px 48px;
   position: absolute;
   left: -72px;
-  top: 20px;
+  top: -15px;
 }
 
 
@@ -381,4 +381,25 @@ nav a {
 
 .Background-esq3f2-0.gbMXpc {
   background-color: transparent !important;
+}
+
+#closebutton {
+  right: 40px;
+  top: 40px;
+  z-index: 999;
+}
+
+.formoverlay {
+  visibility: hidden;
+  opacity: 0;
+  transition: 500ms all ease;
+}
+
+.active {
+  visibility: visible;
+  opacity: 1;
+}
+
+.noscroll {
+  overflow: hidden;
 }

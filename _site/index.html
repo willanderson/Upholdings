@@ -11,8 +11,34 @@
     <link rel="stylesheet" type="text/css" href="css/style.css" />
 </head>
 <body id="top">
+<div id="form" class="w-100 calc-vh fixed z-9999 formoverlay">
+  <div class="white fixed pointer" id="closebutton"><svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M13.5 1.5L12.5 0.5L7 6L1.5 0.5L0.5 1.5L6 7L0.5 12.5L1.5 13.5L7 8L12.5 13.5L13.5 12.5L8 7L13.5 1.5Z" fill="white"/>
+</svg>
+</div>
+  <div class="typeform-widget" data-url="https://willanderson653118.typeform.com/to/NW053a" data-transparency="1" data-hide-headers=true data-hide-footer=true data-submit-close-delay="0" style="width: 100%; height: 100%;"></div>
+</div>
 
-<nav id="navbar" class="w-100 fixed z-9999 initial">
+
+<script>
+  (function() {
+    var qs, js, q, s, d = document,
+      gi = d.getElementById,
+      ce = d.createElement,
+      gt = d.getElementsByTagName,
+      id = "typef_orm",
+      b = "https://embed.typeform.com/";
+    if (!gi.call(d, id)) {
+      js = ce.call(d, "script");
+      js.id = id;
+      js.src = b + "embed.js";
+      q = gt.call(d, "script")[0];
+      q.parentNode.insertBefore(js, q)
+    }
+  })()
+</script>
+
+<nav id="navbar" class="w-100 fixed z-999 initial">
   <div class="ph5-ns ph3 ph3-m pv2 flex w-100 justify-between items-center">
     <a href="#top" class="logo pv2">
       <svg width="175" height="45" viewBox="0 0 175 45" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -26,7 +52,8 @@
     </a>
     <div class="flex-ns pv2 items-center space-between">
       <a href="#story" class="ml2 f6 mr4 dn dn-m db-l dim">Our Story</a>
-      <button href="https://willanderson653118.typeform.com/to/NW053a" data-mode="popup" data-hide-headers=true data-hide-footer=true data-submit-close-delay="5" target="_blank" class="typeform-share button pointer f6 link br2 ph3 pv2 lh-copy dn dib-m dib-l white bg-green br-pill">Contact Us</button>
+      <button id="launchformfooter" class="pointer f6 link br2 ph3 pv2 lh-copy dn dn-m dib-l white bg-green br-pill">Contact Us</button>
+      <button href="https://willanderson653118.typeform.com/to/NW053a" data-mode="popup"  class="typeform-share button pointer f6 link br2 ph3 pv2 lh-copy dn-l db-m db white bg-green br-pill ">Contact Us</button>
     </div>
   </div>
 </nav>
@@ -51,22 +78,22 @@
   </div>
 
   <div class="mt6-l mt5 w-100 col center">
-      <div data-aos="fade-up" class="mb5-m mb5-l mb4 w-100 flex justify-end-ns flex-start ">
-        <div class="w-50-l w-100 vh-25-ns flex flex-column items-start justify-center icon-hold">
+      <div data-aos="fade-up" class="mb5-m mb5-l mb4 w-100 flex justify-end-ns flex-start">
+        <div class="w-50-l w-100 flex flex-column items-start justify-center icon-hold">
           <img class="db dn-l mv2" src="assets/icon0.svg" />
           <div class="header super mb2 f3 icon0">Internet-Connected Assets</div>
           <div class="fontsize18 lh-copy off-black measure">The proliferation of always-on mobile devices has connected our houses, cars, and cash to the internet, resulting in new services like homesharing and mobile payments. Growing demand for these services is driving earnings for the companies and assets powering these new networks.</div>
         </div>
       </div>
       <div data-aos="fade-up" class="mb5-m mb5-l mb4 w-100 flex justify-end-ns">
-        <div class="w-50-l w-100 vh-25-ns flex flex-column items-start justify-center icon-hold">
+        <div class="w-50-l w-100 flex flex-column items-start justify-center icon-hold">
           <img class="db dn-l mv2" src="assets/icon1.svg" />
-          <div class="header super mb2 f3 icon1">A More Personal Web</div>
+          <div class="header super mb2 f3 icon1 ">A More Personal Web</div>
           <div class="fontsize18 lh-copy off-black measure">After spending the last decade uploading our memories and preferences onto the web, we have entered a new era of personalization. Business models built around the individual are thriving: self-expression, targeted advertising, and collaboration tools.</div>
         </div>
       </div>
       <div data-aos="fade-up" class="mb5-m mb5-l mb4 w-100 flex justify-end-ns">
-        <div class="w-50-l w-100 vh-25-ns flex flex-column items-start justify-center icon-hold">
+        <div class="w-50-l w-100 flex flex-column items-start justify-center icon-hold">
           <img class="db dn-l mv2" src="assets/icon2.svg" />
           <div class="header super mb2 f3 icon2">The All Digital Enterprise</div>
           <div class="fontsize18 lh-copy off-black measure">Processing power, storage, and applications have all moved into the cloud. Great investment opportunities are emerging in both the businesses providing these services as well as those poised to benefit the most from their use.</div>
@@ -130,7 +157,8 @@
   <div class="animated-hero"></div>
   <div class="center flex flex-column justify-center z-999 mw9 ph5-ns ph4 ph4-m">
     <h1 class="f-subheadline f-mobileheadline super mb0 tc">Get in Touch</h1>
-    <button href="https://willanderson653118.typeform.com/to/NW053a" data-mode="popup" data-hide-headers=true data-hide-footer=true data-submit-close-delay="5" target="_blank" class="typeform-share button f6 link dim br2 ph5 pv3 br-pill dib white bg-green center pointer fw6 mt3">Contact Us</button>
+    <button id="launchform" class="f6 link dim br2 ph5 pv3 br-pill dn dn-m dib-l white bg-green center pointer fw6 mt3">Contact Us</button>
+    <button href="https://willanderson653118.typeform.com/to/NW053a" data-mode="popup" class="typeform-share button f6 link dim br2 ph5 pv3 br-pill dn-l db-m dib white bg-green center pointer fw6 mt3">Contact Us</button>
   </div>
 </div>
 

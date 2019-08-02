@@ -37,6 +37,24 @@ $(document).ready(function() {
     document.documentElement.style.setProperty('--vh', `${vh}px`);
   });
 
+  $( "#launchform" ).click(function() {
+    $( "#form" ).addClass( "active" );
+    $( "body" ).addClass( "noscroll" );
+  });
+
+  $( "#launchformfooter" ).click(function() {
+    $( "#form" ).addClass( "active" );
+    $( "body" ).addClass( "noscroll" );
+  });
+
+  $( "#closebutton" ).click(function() {
+    $( "#form" ).removeClass( "active" );
+    $( "body" ).removeClass( "noscroll" );
+    console.log("hello");
+  });
+
+
+
 
 
 });
