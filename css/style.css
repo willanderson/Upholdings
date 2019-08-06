@@ -93,6 +93,11 @@ ul {
   font-size: 18px;
 }
 
+@media screen and (min-width: 60em) {
+  .min-700 {
+    min-width: 800px;
+  }
+}
 
 .caslon {
   font-family: "Big Caslon";
@@ -166,7 +171,8 @@ ul {
 }
 
 .cantwell img {
-  width: 260px;
+  width: 30%;
+  min-width: 260px;
   height: auto;
 }
 
@@ -374,6 +380,22 @@ nav a {
   fill: #1D2632;
 }
 
+
+.bottom {
+  background-color: transparent;
+  box-shadow: none;
+}
+
+.right-links {
+  opacity: 1;
+  transition: all 250ms ease-out;
+}
+
+.bottom .right-links {
+  opacity: 0;
+}
+
+
 .arrowdown {
   position: absolute;
   bottom: 22px;
@@ -398,6 +420,11 @@ nav a {
 .active {
   visibility: visible;
   opacity: 1;
+}
+
+#navbar {
+  opacity: 1;
+  transition: 250ms all ease;
 }
 
 .noscroll {

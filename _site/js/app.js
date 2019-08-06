@@ -1,6 +1,7 @@
 $(document).ready(function() {
 
 
+
   var target = $('#downarrow');
 
   $(window).on('scroll', function() {
@@ -27,22 +28,15 @@ $(document).ready(function() {
   var distance = $('#difference').offset().top - 40,
     $window = $(window);
 
-  $window.scroll(function() {
-    if ($window.scrollTop() >= 1) {
-      $("#navbar").removeClass("initial")
-      $("#navbar").addClass("scrolled")
-    } else {
-      $("#navbar").removeClass("scrolled")
-      $("#navbar").addClass("initial")
-    }
-  });
 
   let vh = window.innerHeight * 0.01;
+  let bottom = $(document).height();
   document.documentElement.style.setProperty('--vh', `${vh}px`);
 
   window.addEventListener('resize', () => {
     let vh = window.innerHeight * 0.01;
     document.documentElement.style.setProperty('--vh', `${vh}px`);
+    let bottom = $(document).height();
   });
 
   $("#launchform").click(function() {
@@ -59,6 +53,25 @@ $(document).ready(function() {
     $("#form").removeClass("active");
     $("body").removeClass("noscroll");
   });
+
+
+    $window.scroll(function() {
+      if (($window.scrollTop() >= 1) && ($window.scrollTop() + $(window).height() == $(document).height())) {
+        $("#navbar").removeClass("initial")
+        $("#navbar").addClass("bottom")
+        console.log("bottom")
+      } else if (($window.scrollTop() >= 1) && ($window.scrollTop() + $(window).height() < $(document).height())) {
+        $("#navbar").removeClass("bottom")
+        $("#navbar").addClass("scrolled")
+        console.log("scrolled")
+      }
+      else {
+        $("#navbar").removeClass("scrolled")
+        $("#navbar").addClass("initial")
+        console.log("top")
+      }
+    });
+
 
 
 
