@@ -1,6 +1,6 @@
 ---
-layout: homepage
-hero_h1: Modern Investing
+title: Homepage
+hero_h1: Test
 hero_p: Compound your capital faster by investing into the best companies building
   our future.
 manifesto: We invest towards the future. Every generation, there are new market forces—driven
@@ -40,5 +40,6 @@ bio: |
   He observed that in all successful online businesses, a higher standard of transparency, quality, and price is an absolute must. Upholdings was borne out of the frustration that legacy investment funds have yet to adjust to this new reality.
 
   Upholdings is currently only open to accredited investors, but will eventually be accessible via a tax- and fee-efficient ETF.
+layout: homepage
 ---
 
