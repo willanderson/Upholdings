@@ -1,0 +1,21 @@
+---
+title: Upholdings
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+email: your-email@example.com
+description: Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for Google search
+  results) and in your feed.xml site description.
+baseurl: 
+url: 
+markdown: kramdown
+theme: minima
+homepage_mov: https://player.vimeo.com/external/350425045.hd.mp4?s=1e1710a8d0737b10b0ed2bb5991f5a0ae4a65b41&profile_id=175
+plugins:
+- jekyll-feed

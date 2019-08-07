@@ -1,0 +1,432 @@
+@font-face {
+  font-family: 'GT Super';
+  src: url('../assets/fonts/GTSuperDisplay-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GT America';
+  src: url('../assets/fonts/GT-America-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "GT America";
+  color: #1D2632;
+  background-color: #EAECF0;
+}
+
+a {
+  color: #1D2632;
+}
+
+@media screen and (max-width: 30em) {
+
+  .f-mobileheadline {
+    font-size: 4rem;
+  }
+
+}
+
+::placeholder {
+  color: #A7AFB9;
+}
+
+h1,h2,h3,h4 {
+  font-weight: normal;
+}
+
+.grey {
+   color: #667281
+}
+
+.black {
+  color: #1D2632;
+}
+
+.bg-black {
+  background-color: #1D2632;
+}
+
+.off-black {
+  color: #667281;
+}
+
+.bg-off-black {
+  background-color: #667281;
+}
+
+.obj-contain {
+  object-fit: contain;
+  object-position: 0 0;
+}
+
+.calc-vh {
+  height: 100vh;
+  height: calc(var(--vh, 1vh) * 100);
+}
+
+button {
+  border-color: none;
+  border-width: 0px;
+  border-style: none;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+.fontsize18 {
+  font-size: 18px;
+}
+
+@media screen and (min-width: 60em) {
+  .min-700 {
+    min-width: 800px;
+  }
+}
+
+.caslon {
+  font-family: "Big Caslon";
+}
+
+.super {
+  font-family: "GT Super"
+}
+
+.bg-blue {
+  background-color: #EAECF0;
+}
+
+.bg-white {
+  background-color: #fff;
+}
+
+.bg-green {
+  background-color: #69BF85;
+}
+
+.submit {
+  position: relative;
+}
+
+.submit {
+  width: 64px;
+  height: 64px;
+  position: absolute;
+  background-image:url(https://assets-global.website-files.com/583347ca8f6c7ee058111b3b/5b74866816d8f280d8c4abaf_arrow-large-white.svg);
+  background-position: 50% 50%;
+  background-size: 14px;
+  background-repeat: no-repeat;
+  font-size: 0.001px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  row-gap: 40px;
+}
+
+[class*="bar"] {
+  grid-row-start: 1;
+  grid-row-end: 101;
+  border-radius: 6px 6px 0 0;
+  text-align: center;
+  display: flex;
+  justify-content: end;
+  align-items: flex-end;
+  position: relative;
+}
+
+.chart {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-column-gap: 40px;
+  height: 300px;
+  width: 100vw;
+  max-width: 600px;
+}
+
+.bar-2 {
+  grid-row-start: 50;
+  background-color: #777D84;
+}
+
+.label {
+  position: absolute;
+  bottom: -32px;
+}
+
+.cantwell img {
+  width: 30%;
+  min-width: 260px;
+  height: auto;
+}
+
+/* Slick Stuff */
+
+.slick-dotted.slick-slider {
+  margin-bottom: 0px;
+}
+
+.slick-dots {
+  bottom : -25px;
+  left: -80px;
+  width: 60%;
+}
+
+.slick-dots li.slick-active button:before {
+  color: white;
+  opacity: 1;
+}
+
+.slick-dots li button:before {
+  color: white;
+}
+
+.slick-next {
+  right: 40px;
+}
+
+.slick-next:before {
+  content: ' ';
+  width: 20px;
+  height: 18px;
+  display: block;
+  background-image: url('../assets/next.svg');
+  background-size: 20px 18px;
+}
+
+.icon-hold {
+  position: relative;
+}
+
+.icon0:before {
+  content: ' ';
+  width: 48px;
+  height: 48px;
+  display: block;
+  background-image: url('../assets/icon0.svg');
+  background-size: 48px 48px;
+  position: absolute;
+  left: -72px;
+  top: 0;
+}
+
+
+.icon1:before {
+  content: ' ';
+  width: 48px;
+  height: 48px;
+  display: block;
+  background-image: url('../assets/icon1.svg');
+  background-size: 48px 48px;
+  position: absolute;
+  left: -72px;
+  top: -10px;
+}
+
+.icon2:before {
+  content: ' ';
+  width: 48px;
+  height: 48px;
+  display: block;
+  background-image: url('../assets/icon2.svg');
+  background-size: 48px 48px;
+  position: absolute;
+  left: -72px;
+  top: -10px;
+}
+
+
+@media screen and (max-width: 60em) {
+  .icon0:before {
+    display: none;
+  }
+  .icon1:before {
+    display: none;
+  }
+  .icon2:before {
+    display: none;
+  }
+}
+
+.subhead {
+  width: 100%;
+  top: 22px;
+  left: 0;
+  text-align: center;
+}
+
+.animated-hero {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+	color: #fff;
+  background: radial-gradient(1440px at 76.12% 49.98%, #FFFFFF 10%, rgba(231, 240, 250, 0) 100%), #E7E9ED;
+	background-size: 400% 400%;
+	-webkit-animation: Gradient 15s ease infinite;
+	-moz-animation: Gradient 15s ease infinite;
+	animation: Gradient 15s ease infinite;
+}
+
+@-webkit-keyframes Gradient {
+	0% {
+		background-position: 0% 50%
+	}
+	50% {
+		background-position: 100% 50%
+	}
+	100% {
+		background-position: 0% 50%
+	}
+}
+
+@-moz-keyframes Gradient {
+	0% {
+		background-position: 0% 50%
+	}
+	50% {
+		background-position: 100% 50%
+	}
+	100% {
+		background-position: 0% 50%
+	}
+}
+
+@keyframes Gradient {
+	0% {
+		background-position: 0% 50%
+	}
+	50% {
+		background-position: 100% 50%
+	}
+	100% {
+		background-position: 0% 50%
+	}
+}
+
+.small-links {
+  align-self: flex-end;
+}
+
+.fullscreenvideo {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  min-height: 100vh;
+  z-index: -1;
+  object-fit: cover;
+  object-position: center;
+}
+
+.bg-transparent {
+  background: transparent;
+}
+
+/* Header */
+
+nav {
+  transition: all 250ms ease-out;
+  transition-property: color,fill,stroke,background-color,box-shadow,-webkit-box-shadow;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+nav svg path {
+  fill: inherit;
+  transition-property: color,fill,stroke,background-color,box-shadow,-webkit-box-shadow;
+}
+
+nav a {
+  color: inherit;
+}
+
+.initial {
+  background-color: transparent;
+  box-shadow: none;
+  color: white;
+}
+
+.initial svg {
+  fill: white;
+}
+
+.scrolled {
+  box-shadow: 0 2px 4px 0 rgba(76,76,75,.1);
+  background-color: rgba(255, 255, 255, 0.99);
+  color: #1D2632;
+}
+
+.scrolled svg {
+  fill: #1D2632;
+}
+
+
+.bottom {
+  background-color: transparent;
+  box-shadow: none;
+}
+
+.right-links {
+  opacity: 1;
+  transition: all 250ms ease-out;
+}
+
+.bottom .right-links {
+  opacity: 0;
+}
+
+
+.arrowdown {
+  position: absolute;
+  bottom: 22px;
+}
+
+.Background-esq3f2-0.gbMXpc {
+  background-color: transparent !important;
+}
+
+#closebutton {
+  right: 40px;
+  top: 40px;
+  z-index: 999;
+}
+
+.formoverlay {
+  visibility: hidden;
+  opacity: 0;
+  transition: 500ms all ease;
+}
+
+.active {
+  visibility: visible;
+  opacity: 1;
+}
+
+#navbar {
+  opacity: 1;
+  transition: 250ms all ease;
+}
+
+.noscroll {
+  overflow: hidden;
+}
