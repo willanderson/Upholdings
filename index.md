@@ -28,7 +28,7 @@ approachB_p: We select for business models that can accumulate market share for 
   to come. As long term investors, we aim to grow with our investments.
 approachC_h3: Rooted in Value
 approachC_p: We pay entry multiples that afford a high chance for future share appreciation,
-  and also ensure companies can generate double digit returns on newly invested capital.
+  and target double digit returns on newly invested capital.
 bio: |
   Robert founded Upholdings in 2019 to generate benchmark beating returns for the next generation of investors.
 
