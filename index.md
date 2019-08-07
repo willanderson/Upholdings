@@ -1,6 +1,6 @@
 ---
 title: Homepage
-hero_h1: Test
+hero_h1: Modern Investing
 hero_p: Compound your capital faster by investing into the best companies building
   our future.
 manifesto: We invest towards the future. Every generation, there are new market forces—driven
