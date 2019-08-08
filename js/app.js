@@ -56,7 +56,7 @@ $(document).ready(function() {
 
 
     $window.scroll(function() {
-      if (($window.scrollTop() >= 1) && ($window.scrollTop() + $(window).height() == $(document).height())) {
+      if (($window.scrollTop() >= 1) && ($window.scrollTop() + $(window).innerHeight() == $(document).height())) {
         $("#navbar").removeClass("initial")
         $("#navbar").addClass("bottom")
         console.log("bottom")
