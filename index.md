@@ -32,9 +32,9 @@ approachC_p: We pay entry multiples that afford a high chance for future share a
 bio: |
   Robert founded Upholdings in 2019 to generate benchmark beating returns for the next generation of investors.
 
-  He began his career working under Roger McNamee, helping to scout through new opportunities created by the early rise of the internet. In 2013, he joined Everlane to help scale an online-first retailer into an internationally recognized brand.
+  He began his career working under Roger McNamee, helping to scout through new opportunities created by the early rise of the internet. He then joined Everlane to help scale an online-first retailer into an internationally recognized brand.
 
-  He observed that in all successful online businesses, a higher standard of transparency, quality, and price is a requirement. Upholdings was borne out of the opportunity to do exactly that with investing.
+  He observed that to be successful online, businesses must deliver a higher standard of transparency, quality, and price. Upholdings was borne out of the opportunity to do exactly that with investing.
 
   Upholdings is currently only open to accredited investors, but will eventually be accessible via a tax- and fee-efficient ETF.
 layout: homepage
