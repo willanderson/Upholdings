@@ -12,6 +12,10 @@
   font-style: normal;
 }
 
+.child {
+  width: 100%;
+}
+
 
 body {
   margin: 0;
