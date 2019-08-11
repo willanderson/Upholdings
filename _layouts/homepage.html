@@ -13,7 +13,7 @@ layout: default
   <video playsinline autoplay muted loop class="fullscreenvideo bg-blue center">
     <source src="{{ site.homepage_mov }}" type="video/mp4">
   </video>
-  <a id="downarrow" class="fixed arrowdown" href="#difference"><img src="assets/arrow-down.svg" onerror="this.onerror=null; this.src='arrow-down.png'" /></a>
+  <a id="downarrow" class="fixed arrowdown" href="#difference"><img src="assets/arrow-down.svg" onerror="this.onerror=null;this.src='assets/arrow-down.png'" /></a>
 </div>
 
 <!-- Chapter 2 -->
@@ -77,12 +77,10 @@ layout: default
     <div class="f7 fw6 ttu tracked mt3 mb2 black w-100 ">Founder, CIO</div>
     <div class="cf">
       <div class="fl w-100 flex flex-column flex-row-l">
-        <img class="mr4 obj-contain mt4" src="assets/headshot.png" />
-        <div class="flex flex-column">
-          <div class="f5 w-100 lh-copy off-black mt4 child">
+        <img class="mr4 obj-contain mt4 child" src="assets/headshot.png" />
+          <div class="f5 w-100 lh-copy off-black mt4">
             {{ string_with_newlines | newline_to_br | replace_first: "<br />", " " }}
           </div>
-        </div>
       </div>
     </div>
   </div>
