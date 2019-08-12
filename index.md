@@ -34,7 +34,7 @@ bio: |
 
   He began his career working under Roger McNamee, helping to scout through new opportunities created by the early rise of the internet. He then joined Everlane to help scale an online-first retailer into an internationally recognized brand.
 
-  He observed that to be successful online, businesses must deliver a higher standard of transparency, quality, and price. Upholdings was borne out of the opportunity to do exactly that with investments.
+  He observed that to be successful online, businesses must deliver a higher standard of transparency, quality, and price. Upholdings was borne out of the opportunity to do exactly that with investing.
 
   Upholdings is currently only open to accredited investors, but will eventually be accessible via a tax- and fee-efficient ETF.
 layout: homepage
