@@ -16,11 +16,10 @@
   width: 100%;
 }
 
-
 body {
   margin: 0;
   padding: 0;
-  font-family: "GT America";
+  font-family: "GT America", "Helvetica", sans-serif;
   color: #1D2632;
   background-color: #EAECF0;
 }
@@ -30,11 +29,9 @@ a {
 }
 
 @media screen and (max-width: 30em) {
-
   .f-mobileheadline {
     font-size: 4rem;
   }
-
 }
 
 ::-webkit-input-placeholder {
@@ -57,12 +54,12 @@ a {
   color: #A7AFB9;
 }
 
-h1,h2,h3,h4 {
+h1, h2, h3, h4 {
   font-weight: normal;
 }
 
 .grey {
-   color: #667281
+  color: #667281
 }
 
 .black {
@@ -83,9 +80,9 @@ h1,h2,h3,h4 {
 
 .obj-contain {
   -o-object-fit: contain;
-     object-fit: contain;
+  object-fit: contain;
   -o-object-position: 0 0;
-     object-position: 0 0;
+  object-position: 0 0;
 }
 
 .calc-vh {
@@ -126,7 +123,7 @@ ul {
 }
 
 .super {
-  font-family: "GT Super"
+  font-family: "GT Super", serif;
 }
 
 .bg-blue {
@@ -149,7 +146,7 @@ ul {
   width: 64px;
   height: 64px;
   position: absolute;
-  background-image:url(https://assets-global.website-files.com/583347ca8f6c7ee058111b3b/5b74866816d8f280d8c4abaf_arrow-large-white.svg);
+  background-image: url(https://assets-global.website-files.com/583347ca8f6c7ee058111b3b/5b74866816d8f280d8c4abaf_arrow-large-white.svg);
   background-position: 50% 50%;
   background-size: 14px;
   background-repeat: no-repeat;
@@ -166,7 +163,7 @@ ul {
 
 [class*="bar"] {
   -ms-grid-row: 1;
-      grid-row-start: 1;
+  grid-row-start: 1;
   -ms-grid-row-span: 100;
   grid-row-end: 101;
   border-radius: 6px 6px 0 0;
@@ -175,11 +172,11 @@ ul {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: end;
-      -ms-flex-pack: end;
-          justify-content: end;
+  -ms-flex-pack: end;
+  justify-content: end;
   -webkit-box-align: end;
-      -ms-flex-align: end;
-          align-items: flex-end;
+  -ms-flex-align: end;
+  align-items: flex-end;
   position: relative;
 }
 
@@ -196,7 +193,7 @@ ul {
 
 .bar-2 {
   -ms-grid-row: 50;
-      grid-row-start: 50;
+  grid-row-start: 50;
   background-color: #777D84;
 }
 
@@ -208,17 +205,19 @@ ul {
 .cantwell img {
   width: 30%;
   min-width: 260px;
+  max-width: 100%;
+  align-self: flex-start;
   height: auto;
+  flex-shrink: 0;
 }
 
 /* Slick Stuff */
-
 .slick-dotted.slick-slider {
   margin-bottom: 0px;
 }
 
 .slick-dots {
-  bottom : -25px;
+  bottom: -25px;
   left: -80px;
   width: 60%;
 }
@@ -261,7 +260,6 @@ ul {
   top: 0;
 }
 
-
 .icon1:before {
   content: ' ';
   width: 48px;
@@ -286,14 +284,15 @@ ul {
   top: -10px;
 }
 
-
 @media screen and (max-width: 60em) {
   .icon0:before {
     display: none;
   }
+
   .icon1:before {
     display: none;
   }
+
   .icon2:before {
     display: none;
   }
@@ -312,67 +311,80 @@ ul {
   height: 100%;
   top: 0;
   left: 0;
-	color: #fff;
+  color: #fff;
   background: -o-radial-gradient(76.12% 49.98%, 1440px, #FFFFFF 10%, rgba(231, 240, 250, 0) 100%), #E7E9ED;
   background: radial-gradient(1440px at 76.12% 49.98%, #FFFFFF 10%, rgba(231, 240, 250, 0) 100%), #E7E9ED;
-	background-size: 400% 400%;
-	-webkit-animation: Gradient 15s ease infinite;
-	animation: Gradient 15s ease infinite;
+  background-size: 400% 400%;
+  -webkit-animation: Gradient 15s ease infinite;
+  animation: Gradient 15s ease infinite;
 }
 
 @-webkit-keyframes Gradient {
-	0% {
-		background-position: 0% 50%
-	}
-	50% {
-		background-position: 100% 50%
-	}
-	100% {
-		background-position: 0% 50%
-	}
+  0% {
+    background-position: 0% 50%
+  }
+
+  50% {
+    background-position: 100% 50%
+  }
+
+  100% {
+    background-position: 0% 50%
+  }
 }
 
 @keyframes Gradient {
-	0% {
-		background-position: 0% 50%
-	}
-	50% {
-		background-position: 100% 50%
-	}
-	100% {
-		background-position: 0% 50%
-	}
+  0% {
+    background-position: 0% 50%
+  }
+
+  50% {
+    background-position: 100% 50%
+  }
+
+  100% {
+    background-position: 0% 50%
+  }
 }
 
 .small-links {
   -ms-flex-item-align: end;
-      align-self: flex-end;
+  align-self: flex-end;
 }
 
 .fullscreenvideo {
-  position: fixed;
+  position: absolute;
+  top: 0;
   left: 0;
-  bottom: 0;
-  width: 100%;
-  min-height: 100vh;
   z-index: -1;
-  -o-object-fit: cover;
-     object-fit: cover;
-  -o-object-position: center;
-     object-position: center;
+  min-height: 100%;
+  min-width: 100%;
+  -webkit-transform-style: preserve-3d;
 }
+
+.fullscreenvideo video {
+  position: absolute;
+  min-height: 100%;
+  min-width: 100%;
+  height: auto;
+  width: auto;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
 
 .bg-transparent {
   background: transparent;
 }
 
 /* Header */
-
 nav {
   -webkit-transition: all 250ms ease-out;
   -o-transition: all 250ms ease-out;
   transition: all 250ms ease-out;
-  transition-property: color,fill,stroke,background-color,box-shadow,-webkit-box-shadow;
+  transition-property: color, fill, stroke, background-color, box-shadow, -webkit-box-shadow;
 }
 
 nav a {
@@ -381,7 +393,7 @@ nav a {
 
 nav svg path {
   fill: inherit;
-  transition-property: color,fill,stroke,background-color,box-shadow,-webkit-box-shadow;
+  transition-property: color, fill, stroke, background-color, box-shadow, -webkit-box-shadow;
 }
 
 nav a {
@@ -391,7 +403,7 @@ nav a {
 .initial {
   background-color: transparent;
   -webkit-box-shadow: none;
-          box-shadow: none;
+  box-shadow: none;
   color: white;
 }
 
@@ -400,21 +412,22 @@ nav a {
 }
 
 .scrolled {
-  -webkit-box-shadow: 0 2px 4px 0 rgba(76,76,75,.1);
-          box-shadow: 0 2px 4px 0 rgba(76,76,75,.1);
+  -webkit-box-shadow: 0 2px 4px 0 rgba(76, 76, 75, .1);
+  box-shadow: 0 2px 4px 0 rgba(76, 76, 75, .1);
   background-color: rgba(255, 255, 255, 0.99);
   color: #1D2632;
 }
+
+
 
 .scrolled svg {
   fill: #1D2632;
 }
 
-
 .bottom {
   background-color: transparent;
   -webkit-box-shadow: none;
-          box-shadow: none;
+  box-shadow: none;
 }
 
 .right-links {
@@ -427,7 +440,6 @@ nav a {
 .bottom .right-links {
   opacity: 0;
 }
-
 
 .arrowdown {
   position: absolute;
@@ -466,4 +478,19 @@ nav a {
 
 .noscroll {
   overflow: hidden;
+}
+
+
+
+
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+  .initial svg {
+    fill: #1D2632;
+  }
+
+  #navbar {
+    box-shadow: 0 2px 4px 0 rgba(76, 76, 75, .1);
+    background-color:rgba(255, 255, 255, 0.99) !important;
+    color: #1D2632;
+  }
 }
