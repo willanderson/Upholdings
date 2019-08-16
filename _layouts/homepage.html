@@ -6,13 +6,16 @@ layout: default
 
 <!-- Hero -->
 <div id="home" class="flex w-100 calc-vh items-center justify-center bg-transparent relative">
-  <div class="w-100 mw9 ph5-ns ph4 ph4-m white tl-ns tc">
+  <div class="w-100 mw9 ph5-ns ph4 ph4-m white tl-ns tc z-999">
     <h1 data-aos="fade-up" data-aos-delay="300" data-aos-duration="500" class="f-headline f-mobileheadline  super mb0">{{ page.hero_h1 }}</h1>
     <h4 data-aos="fade-up" data-aos-delay="600" class="f4 o-80 lh-copy measure">{{ page.hero_p }}</h4>
   </div>
-  <video playsinline autoplay muted loop class="fullscreenvideo bg-blue center">
-    <source src="{{ site.homepage_mov }}" type="video/mp4">
-  </video>
+  <div class="fullscreenvideo">
+    <video preload="auto" poster="assets/poster.jpg" playsinline autoplay muted loop class="bg-blue center">
+      <!-- <source src="{{ site.homepage_mov }}" type="video/mp4"> -->
+    </video>
+  </div>
+
   <a id="downarrow" class="fixed arrowdown" href="#difference"><img src="assets/arrow-down.svg" onerror="this.onerror=null;this.src='assets/arrow-down.png'" /></a>
 </div>
 

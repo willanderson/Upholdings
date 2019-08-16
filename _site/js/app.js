@@ -1,6 +1,5 @@
+
 $(document).ready(function() {
-
-
 
   var target = $('#downarrow');
 
@@ -55,22 +54,23 @@ $(document).ready(function() {
   });
 
 
-    $window.scroll(function() {
-      if (($window.scrollTop() >= 1) && ($window.scrollTop() + $(window).innerHeight() == $(document).height())) {
-        $("#navbar").removeClass("initial")
-        $("#navbar").addClass("bottom")
-        console.log("bottom")
-      } else if (($window.scrollTop() >= 1) && ($window.scrollTop() + $(window).height() < $(document).height())) {
-        $("#navbar").removeClass("bottom")
-        $("#navbar").addClass("scrolled")
-        console.log("scrolled")
-      }
-      else {
-        $("#navbar").removeClass("scrolled")
-        $("#navbar").addClass("initial")
-        console.log("top")
-      }
-    });
+
+
+
+
+  $window.scroll(function() {
+    if (($window.scrollTop() >= 1) && ($window.scrollTop() + $(window).innerHeight() == $(document).height())) {
+      $("#navbar").removeClass("initial")
+      $("#navbar").addClass("bottom")
+    } else if (($window.scrollTop() >= 1) && ($window.scrollTop() + $(window).height() < $(document).height())) {
+      $("#navbar").removeClass("bottom")
+      $("#navbar").addClass("scrolled")
+    } else {
+      $("#navbar").removeClass("scrolled")
+      $("#navbar").addClass("initial")
+    }
+  });
+
 
 
 
