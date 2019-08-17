@@ -480,6 +480,10 @@ nav a {
   overflow: hidden;
 }
 
+.noscroll #navbar {
+  z-index: -1;
+}
+
 
 
 
