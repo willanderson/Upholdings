@@ -22,8 +22,8 @@ differenceC_p: Processing power, storage, and applications have all moved into t
   these services as well as those poised to benefit the most from their use.
 approachA_h3: Globally Sourced
 approachA_p: We scour the world for 25 market leading multi-billion-dollar companies,
-  and prefer those that can sell well beyond their own borders.
-approachB_h3: Multi-year Outlook
+  and target those that can sell well beyond their own borders.
+approachB_h3: Multi-Year Outlook
 approachB_p: By partnering with long-term minded investors, we are able to select
   the best business models that can grow faster than the market over time.
 approachC_h3: Disciplined Buyer
