@@ -1,33 +1,33 @@
 ---
 title: Homepage
 hero_h1: Modern Investing.
-hero_p: Compound your capital faster by investing into the best companies building
-  our future.
+hero_p: Start growing your savings by investing in the best companies building our
+  future.
 manifesto: We invest towards the future. Every generation, there are new market forces—driven
-  by technology, regulatory, and social changes—that enable the best positioned companies
-  to deliver above average earnings growth. That’s our focus.
+  by technology, regulatory, and social changes—that rupture legacy business models
+  and allow modern ones to grow in their place. That’s our focus.
 differenceA_h3: Internet-Connected Assets
 differenceA_p: The proliferation of always-on mobile devices has connected our houses,
-  cars, and cash to the internet, resulting in new services like homesharing and mobile
-  payments. Growing demand for these services is driving earnings for the companies
-  and assets powering these new networks.
+  cars, and cash to the web, resulting in new services like homesharing and digital
+  payments. Ever-improving connections - fueled by 5G - will further strengthen the
+  assets underlying these services.
 differenceB_h3: A More Personal Web
-differenceB_p: 'After spending the last decade uploading our memories and preferences
-  onto the web, we have entered a new era of personalization. Business models built
-  around the individual are thriving: self-expression, targeted advertising, and collaboration
-  tools.'
+differenceB_p: 'The rules of operating an online business are being rewritten. Privacy,
+  protection, and personal preferences are now priorities for businesses both big
+  and small. Business models built around the individual will thrive: curated experiences,
+  collaboration, and self-expression.'
 differenceC_h3: The All Digital Enterprise
 differenceC_p: Processing power, storage, and applications have all moved into the
   cloud. Great investment opportunities are emerging in both the businesses providing
   these services as well as those poised to benefit the most from their use.
 approachA_h3: Globally Sourced
-approachA_p: We scour the world for 25-30 market leading multi-billion-dollar companies.
-  The best brands and technology sell well beyond their own borders.
-approachB_h3: Forward-Looking
-approachB_p: We select for business models that can accumulate market share for years
-  to come. As long term investors, we aim to grow with our investments.
-approachC_h3: Rooted in Value
-approachC_p: We pay entry multiples that afford a high chance for future share appreciation,
+approachA_p: We scour the world for 25 market leading multi-billion-dollar companies,
+  and prefer those that can sell well beyond their own borders.
+approachB_h3: Multi-year Outlook
+approachB_p: By partnering with long-term minded investors, we are able to select
+  the best business models that can grow faster than the market over time.
+approachC_h3: Disciplined Buyer
+approachC_p: We pay entry prices that afford a high chance for future share appreciation,
   and target double digit returns on newly invested capital.
 bio: |
   Robert founded Upholdings in 2019 to generate benchmark beating returns for the next generation of investors.
