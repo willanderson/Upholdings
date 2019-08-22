@@ -1,8 +1,8 @@
 ---
 title: Homepage
 hero_h1: Modern Investing.
-hero_p: Start growing your savings by investing in the best companies building our
-  future.
+hero_p: Grow your hard-earned savings by investing into the best companies building
+  our future.
 manifesto: We invest towards the future. Every generation, there are new market forces—driven
   by technology, regulatory, and social changes—that rupture legacy business models
   and allow modern ones to grow in their place. That’s our focus.
