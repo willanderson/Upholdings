@@ -3,9 +3,9 @@ title: Homepage
 hero_h1: Modern Investing.
 hero_p: Grow your hard-earned savings by investing into the best companies building
   our future.
-manifesto: We invest towards the future. Every generation, there are new market forces—driven
-  by technology, regulatory, and social changes—that rupture legacy business models
-  and allow modern ones to grow in their place. That’s our focus.
+manifesto: Every generation, there are new market forces—driven by technology, regulatory,
+  and social changes—that rupture legacy business models and allow modern ones to
+  grow in their place. That’s our focus.
 differenceA_h3: Internet-Connected Assets
 differenceA_p: The proliferation of always-on mobile devices has connected our houses,
   cars, and cash to the web, resulting in new services like homesharing and digital
