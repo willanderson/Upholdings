@@ -9,8 +9,8 @@ manifesto: Every generation, there are new market forces—driven by technology,
 differenceA_h3: Internet-Connected Assets
 differenceA_p: The proliferation of always-on mobile devices has connected our houses,
   cars, and cash to the web, resulting in new services like homesharing and digital
-  payments. Ever-improving connections - fueled by 5G - will further strengthen the
-  assets underlying these services.
+  payments. Ever-improving connections will further strengthen the assets underlying
+  these services.
 differenceB_h3: A More Personal Web
 differenceB_p: 'The rules of operating an online business are being rewritten. Privacy,
   protection, and personal preferences are now priorities for businesses both big
