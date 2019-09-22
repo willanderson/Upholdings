@@ -4,7 +4,7 @@ hero_h1: Modern Investing.
 hero_p: Grow your hard-earned wealth by investing into the best companies building
   our future.
 manifesto: Upholdings is an investment manager built for founders and executives.
-  We exclusively invest in businesses as good as the ones we’ve helped to build.
+  We exclusively invest in businesses as good as the ones we've helped build.
 differenceA_h3: Maximum Growth
 differenceA_p: We are buy and hold investors into 25 of the world’s best public growth
   companies. By following strict investment criteria, stocks are positioned for outperformance
@@ -12,7 +12,7 @@ differenceA_p: We are buy and hold investors into 25 of the world’s best publi
 differenceB_h3: Global Research
 differenceB_p: We use modern web tools and local expert connections to ensure target
   investments are in market-share gaining positions. We transparently share our findings
-  and reasons for investing (or not).
+  and reasons for making investments.
 differenceC_h3: Low Cost
 differenceC_p: Our first investment offering is priced like an ETF, not a hedge fund.
   And our low turnover investment strategy ensures better tax efficiency than traditional
