@@ -1,25 +1,22 @@
 ---
 title: Homepage
 hero_h1: Modern Investing.
-hero_p: Grow your hard-earned savings by investing into the best companies building
+hero_p: Grow your hard-earned wealth by investing into the best companies building
   our future.
-manifesto: Every generation, there are new market forces—driven by technology, regulatory,
-  and social changes—that rupture legacy business models and allow modern ones to
-  grow in their place. That’s our focus.
-differenceA_h3: Internet-Connected Assets
-differenceA_p: The proliferation of always-on mobile devices has connected our houses,
-  cars, and cash to the web, resulting in new services like homesharing and digital
-  payments. Ever-improving connections will further strengthen the assets underlying
-  these services.
-differenceB_h3: A More Personal Web
-differenceB_p: 'The rules of operating an online business are being rewritten. Privacy,
-  protection, and personal preferences are now priorities for businesses both big
-  and small. Business models built around the individual will thrive: curated experiences,
-  collaboration, and self-expression.'
-differenceC_h3: The All Digital Enterprise
-differenceC_p: Processing power, storage, and applications have all moved into the
-  cloud. Great investment opportunities are emerging in both the businesses providing
-  these services as well as those poised to benefit the most from their use.
+manifesto: Upholdings is an investment manager built for founders and executives.
+  We exclusively invest in businesses as good as the ones we’ve helped to build.
+differenceA_h3: Maximum Growth
+differenceA_p: We are buy and hold investors into 25 of the world’s best public growth
+  companies. By following strict investment criteria, stocks are positioned for outperformance
+  for years to come.
+differenceB_h3: Global Research
+differenceB_p: We use modern web tools and local expert connections to ensure target
+  investments are in market-share gaining positions. We transparently share our findings
+  and reasons for investing (or not).
+differenceC_h3: Low Cost
+differenceC_p: Our first investment offering is priced like an ETF, not a hedge fund.
+  And our low turnover investment strategy ensures better tax efficiency than traditional
+  funds.
 approachA_h3: Globally Sourced
 approachA_p: We scour the world for 25 market leading multi-billion-dollar companies,
   and target those that can sell well beyond their own borders.
@@ -29,14 +26,14 @@ approachB_p: By partnering with long-term minded investors, we are able to selec
 approachC_h3: Disciplined Buyer
 approachC_p: We pay entry prices that afford a high chance for future share appreciation,
   and target double digit returns on newly invested capital.
-bio: |
+bio: |-
   Robert founded Upholdings in 2019 to generate benchmark beating returns for the next generation of investors.
 
   He began his career working under Roger McNamee, helping to scout through new opportunities created by the early rise of the internet. He then joined Everlane to help grow an online-first retailer into an internationally recognized brand.
 
-  To be successful online, businesses must deliver a higher standard of transparency, quality, and price. Upholdings was borne out of the opportunity to do exactly that with investing.
+  The best online businesses deliver a higher standard of transparency, quality, and price. Upholdings was borne out of the opportunity to do exactly that with investing.
 
-  Upholdings is currently only open to accredited investors, but will eventually be accessible via a tax- and fee-efficient ETF.
+  Upholdings is currently only open to accredited investors, but will eventually be widely accessible via a tax- and fee-efficient ETF.
 layout: homepage
 ---
 
