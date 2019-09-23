@@ -16,8 +16,7 @@ differenceB_p: We use modern web tools and interview local experts to evaluate t
   the way.
 differenceC_h3: Low Cost
 differenceC_p: Our investment fund is priced like an ETF, not a hedge fund. And low
-  turnover in our holdings means improved tax efficiency than most traditional equity
-  funds.
+  turnover in our holdings means improved tax efficiency for all of our investors.
 approachA_h3: Globally Sourced
 approachA_p: We scour the world for 25 market leading multi-billion-dollar companies,
   and target those that can sell well beyond their own borders.
