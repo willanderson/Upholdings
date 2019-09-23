@@ -11,7 +11,7 @@ differenceA_p: We target double digit returns by buying-and-holding 25 of the wo
   best public growth companies. We use strict investment criteria to acquire stocks
   that can outperform for years to come.
 differenceB_h3: High Quality Research
-differenceB_p: We use modern web tools and speak with local experts to evaluate target
+differenceB_p: We use modern web tools and interview local experts to evaluate target
   investments. We pursue a transparent research process and share our findings along
   the way.
 differenceC_h3: Low Cost
