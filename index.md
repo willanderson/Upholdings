@@ -3,20 +3,20 @@ title: Homepage
 hero_h1: Modern Investing.
 hero_p: Grow your hard-earned wealth by investing into the best companies building
   our future.
-manifesto: Upholdings is an investment manager built for founders and executives.
-  We exclusively invest in businesses as good as the ones we've helped build.
+manifesto: Upholdings is an investment manager for founders and executives. We operate
+  one global fund that invests in companies reshaping their industries through the
+  effective integration of new technologies.
 differenceA_h3: Maximum Growth
-differenceA_p: We are buy and hold investors into 25 of the world’s best public growth
-  companies. By following strict investment criteria, stocks are positioned for outperformance
-  for years to come.
+differenceA_p: We target double digit returns by buying-and-holding 25 of the world’s
+  best public growth companies. We use strict investment criteria to acquire stocks
+  that can outperform for years to come.
 differenceB_h3: Global Research
-differenceB_p: We use modern web tools and local expert connections to ensure target
-  investments are in market-share gaining positions. We transparently share our findings
-  and reasons for making investments.
+differenceB_p: We use modern web tools and local expert connections to evaluate target
+  investments. We transparently share our findings and reasons for making investments.
 differenceC_h3: Low Cost
-differenceC_p: Our first investment offering is priced like an ETF, not a hedge fund.
-  And our low turnover investment strategy ensures better tax efficiency than traditional
-  funds.
+differenceC_p: Our investment fund is priced like an ETF, not a hedge fund. And our
+  low turnover investment strategy ensures better tax efficiency than most traditional
+  equity funds.
 approachA_h3: Globally Sourced
 approachA_p: We scour the world for 25 market leading multi-billion-dollar companies,
   and target those that can sell well beyond their own borders.
