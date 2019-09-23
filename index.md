@@ -15,9 +15,9 @@ differenceB_p: We use modern web tools and speak with local experts to evaluate 
   investments. We pursue a transparent research process and share our findings along
   the way.
 differenceC_h3: Low Cost
-differenceC_p: Our investment fund is priced like an ETF, not a hedge fund. And our
-  low turnover investment strategy ensures better tax efficiency than most traditional
-  equity funds.
+differenceC_p: Our investment fund is priced like an ETF, not a hedge fund. And low
+  turnover in our holdings means improved tax efficiency than most traditional equity
+  funds.
 approachA_h3: Globally Sourced
 approachA_p: We scour the world for 25 market leading multi-billion-dollar companies,
   and target those that can sell well beyond their own borders.
