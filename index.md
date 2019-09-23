@@ -10,9 +10,10 @@ differenceA_h3: Maximum Growth
 differenceA_p: We target double digit returns by buying-and-holding 25 of the world’s
   best public growth companies. We use strict investment criteria to acquire stocks
   that can outperform for years to come.
-differenceB_h3: Global Research
-differenceB_p: We use modern web tools and local expert connections to evaluate target
-  investments. We transparently share our findings and reasons for making investments.
+differenceB_h3: High Quality Research
+differenceB_p: We use modern web tools and speak with local experts to evaluate target
+  investments. We pursue a transparent research process and share our findings along
+  the way.
 differenceC_h3: Low Cost
 differenceC_p: Our investment fund is priced like an ETF, not a hedge fund. And our
   low turnover investment strategy ensures better tax efficiency than most traditional
