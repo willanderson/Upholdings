@@ -3,7 +3,7 @@ title: Homepage
 hero_h1: Modern Investing.
 hero_p: Grow your hard-earned wealth by investing into the best companies building
   our future.
-manifesto: Upholdings is an investment manager for founders and executives. We operate
+manifesto: Upholdings is a wealth manager for founders and executives. We operate
   one global fund that invests in companies reshaping their industries through the
   effective use of new technologies.
 differenceA_h3: Maximum Growth
