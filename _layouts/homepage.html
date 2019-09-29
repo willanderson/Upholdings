@@ -27,21 +27,21 @@ layout: default
   <div class="mt6-l mt5 w-100 col center">
       <div data-aos="fade-up" class="mb5-m mb5-l mb4 w-100 flex justify-end-ns flex-start">
         <div class="w-50-l w-100 flex flex-column items-start justify-center icon-hold">
-          <img class="db dn-l mv2" src="assets/icon0.svg" />
+          <img class="db dn-l mv2" src="assets/trending_up.svg" />
           <div class="header super mb2 f3 icon0">{{ page.differenceA_h3 }}</div>
           <div class="fontsize18 lh-copy off-black measure">{{ page.differenceA_p }}</div>
         </div>
       </div>
       <div data-aos="fade-up" class="mb5-m mb5-l mb4 w-100 flex justify-end-ns">
         <div class="w-50-l w-100 flex flex-column items-start justify-center icon-hold">
-          <img class="db dn-l mv2" src="assets/icon1.svg" />
+          <img class="db dn-l mv2" src="assets/research.svg" />
           <div class="header super mb2 f3 icon1 ">{{ page.differenceB_h3 }}</div>
           <div class="fontsize18 lh-copy off-black measure">{{ page.differenceB_p }}</div>
         </div>
       </div>
       <div data-aos="fade-up" class="mb5-m mb5-l mb4 w-100 flex justify-end-ns">
         <div class="w-50-l w-100 flex flex-column items-start justify-center icon-hold">
-          <img class="db dn-l mv2" src="assets/icon2.svg" />
+          <img class="db dn-l mv2" src="assets/lowcost.svg" />
           <div class="header super mb2 f3 icon2">{{ page.differenceC_h3 }}</div>
           <div class="fontsize18 lh-copy off-black measure">{{ page.differenceC_p }}</div>
         </div>
@@ -51,20 +51,19 @@ layout: default
 
 <!-- Chapter 3 -->
 
-<div id="approach" class="bg-black w-100 pv4 ph3 relative vh-75-l min-vh-100 flex items-center">
-  <div class="f7 fw6 ttu tracked mt3 mb2 white w-60 center absolute subhead">Our Approach</div>
-  <div class="cf center mw9 pv5-l pv4 mt5-ns mt0-m mt5">
-    <div data-aos="fade-in" data-aos-delay="0" class="w-third-l w-100 white fl tc ph4-l ph0 mb5">
-      <div class="header super mb2 f3">{{ page.approachA_h3 }}</div>
-      <div class="body lh-copy measure center fontsize18">{{ page.approachA_p }}</div>
+<div id="criteria" class="bg-black w-100 pv6-ns pv5 ph5-l ph4 relative">
+  <div class="w-100 center mw9 flex flex-row-ns flex-column">
+    <div class="w-50-l w-100 fl mw9 ph4-l pr2">
+      <div class="super f2 f2-l measure white">Investment Criteria</div>
     </div>
-    <div data-aos="fade-in" data-aos-delay="200" class="w-third-l w-100 white fl tc ph4 mb5">
-      <div class="header super mb2 f3">{{ page.approachB_h3 }}</div>
-      <div class="body lh-copy measure center fontsize18">{{ page.approachB_p }}</div>
-    </div>
-    <div data-aos="fade-in" data-aos-delay="400" class="w-third-l w-100 white fl tc ph4">
-      <div class="header super mb2 f3">{{ page.approachC_h3 }}</div>
-      <div class="body lh-copy measure center fontsize18">{{ page.approachC_p }}</div>
+    <div class="w-50-l w-100 col center mt0-ns mt5">
+        <div class="w-100 flex justify-end-ns flex-start">
+          <div class="w-100 flex flex-column items-start justify-center">
+            {% for crit in page.criteria %}
+            <div class="f5 lh-copy white mb4">{{ crit }}</div>
+            {% endfor %}
+          </div>
+        </div>
     </div>
   </div>
 </div>
