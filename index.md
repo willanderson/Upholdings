@@ -27,14 +27,14 @@ approachC_h3: Disciplined Buyer
 approachC_p: We pay entry prices that afford a high chance for future share appreciation,
   and target double digit returns on newly invested capital.
 criteria:
-- 01 — Large addressable market with defensible position
-- 02 — Globally attractive product or service
-- 03 — Identifiable marketing channel advantage
-- 04 — Good balance between purchase frequency and margins
-- 05 — Efficiency in capital allocation
-- 06 — Management that is aligned, ambitious and patient
-- 07 — Does not profit from environmental or societal harm
-- '08 — Entry price that allows for missteps'
+- 01 — Participates in a large industry with a defensible leadership position
+- 02 — Recruits and retains talented people that are patient and ambitious
+- 03 — Develops globally attractive products and services
+- 04 — Considers environmental and societal impacts to the company’s expansion
+- '05 — Operates low cost marketing channels for winning new customers '
+- 06 — Transacts profitably with customers and gives them a reason to come back
+- 07 — Transforms profits into long term shareholder value
+- '08 — Available at a share price that is a clear discount to the company''s potential'
 bio: |-
   Robert founded Upholdings in 2019 to generate benchmark beating returns for the next generation of investors.
 
@@ -42,7 +42,7 @@ bio: |-
 
   The best online businesses deliver a higher standard of transparency, quality, and price. Upholdings was borne out of the opportunity to do exactly that with investing.
 
-  Upholdings is currently only open to accredited investors, but will eventually be widely accessible via a tax- and fee-efficient ETF.
+  Upholdings is currently only open to accredited investors.
 layout: homepage
 ---
 
