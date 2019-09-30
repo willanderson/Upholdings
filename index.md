@@ -13,7 +13,7 @@ differenceA_p: We target double digit returns by buying-and-holding 25 of the wo
 differenceB_h3: High Quality Research
 differenceB_p: We combine modern web tools with expert interviews to evaluate companies
   leading change within their industry. We pursue a transparent research process and
-  share our findings along the way.
+  share our findings.
 differenceC_h3: Low Cost
 differenceC_p: We charge the lowest fees of any comparable investment manager. And
   low turnover in our holdings means improved tax efficiency for all of our investors.
