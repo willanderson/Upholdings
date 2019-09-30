@@ -31,7 +31,7 @@ criteria:
 - 02 — Recruits and retains talented people that are patient and ambitious
 - 03 — Develops globally attractive products and services
 - 04 — Considers environmental and societal impacts to the company’s expansion
-- '05 — Operates low cost marketing channels for winning new customers '
+- '05 — Operates low cost marketing channels to regularly win new customers '
 - 06 — Transacts profitably with customers and gives them a reason to come back
 - 07 — Transforms profits into long term shareholder value
 - '08 — Available at a share price that is a clear discount to the company''s potential'
