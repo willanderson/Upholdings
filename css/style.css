@@ -250,36 +250,38 @@ ul {
 
 .icon0:before {
   content: ' ';
-  width: 28px;
-  height: 28px;
+  width: 32px;
+  height: 32px;
   display: block;
-  background-image: url('../assets/trending-up.svg');
-  background-size: 28px 28px;
+  background-image: url('../assets/trending_up.svg');
+  background-size: 32px 32px;
   position: absolute;
-  left: -48px;
+  left: -44px;
   top: 0;
 }
 
 .icon1:before {
   content: ' ';
-  width: 28px;
-  height: 28px;
+  width: 32px;
+  height: 32px;
   display: block;
-  background-image: url('../assets/book-open.svg');
-  background-size: 28px 28px;
+  background-image: url('../assets/research.svg');
+  background-size: 32px 32px;
   position: absolute;
-  left: -48px;
+  left: -44px;
+  top: 0;
 }
 
 .icon2:before {
   content: ' ';
-  width: 28px;
-  height: 28px;
+  width: 32px;
+  height: 32px;
   display: block;
-  background-image: url('../assets/dollar-sign.svg');
-  background-size: 28px 28px;
+  background-image: url('../assets/lowcost.svg');
+  background-size: 32px 32px;
   position: absolute;
-  left: -48px;
+  left: -44px;
+  top: 0;
 }
 
 @media screen and (max-width: 60em) {
