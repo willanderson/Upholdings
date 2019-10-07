@@ -425,8 +425,12 @@ nav a {
   fill: #1D2632;
 }
 
+.bottom svg {
+  fill: #1D2632;
+}
+
 .bottom {
-  background-color: transparent;
+  background-color: white;
   -webkit-box-shadow: none;
   box-shadow: none;
 }
@@ -436,10 +440,6 @@ nav a {
   -webkit-transition: all 250ms ease-out;
   -o-transition: all 250ms ease-out;
   transition: all 250ms ease-out;
-}
-
-.bottom .right-links {
-  opacity: 0;
 }
 
 .arrowdown {
@@ -484,7 +484,6 @@ nav a {
 .noscroll #navbar {
   z-index: -1;
 }
-
 
 
 

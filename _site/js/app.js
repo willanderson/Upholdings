@@ -1,7 +1,8 @@
-
 $(document).ready(function() {
 
   var target = $('#downarrow');
+
+  const isValidEmail = emailField.checkValidity();
 
   $(window).on('scroll', function() {
     var st = $(this).scrollTop();
@@ -38,25 +39,6 @@ $(document).ready(function() {
     let bottom = $(document).height();
   });
 
-  $("#launchform").click(function() {
-    $("#form").addClass("active");
-    $("body").addClass("noscroll");
-  });
-
-  $("#launchformfooter").click(function() {
-    $("#form").addClass("active");
-    $("body").addClass("noscroll");
-  });
-
-  $("#closebutton").click(function() {
-    $("#form").removeClass("active");
-    $("body").removeClass("noscroll");
-  });
-
-
-
-
-
 
   $window.scroll(function() {
     if (($window.scrollTop() >= 1) && ($window.scrollTop() + $(window).innerHeight() == $(document).height())) {
@@ -71,6 +53,24 @@ $(document).ready(function() {
     }
   });
 
+  var $form = $('form#email-form'),
+  url = 'https://script.google.com/macros/s/AKfycbxJVkVHCpVh2YeUzc-eTFJb0-025BM56w6As5QiTk1U5EPN3CU/exec'
+
+  $('#submit-form').on('click', function(e) {
+    e.preventDefault();
+    $("#submit-form").addClass("dn");
+    $("#load").removeClass("dn");
+    var jqxhr = $.ajax({
+      url: url,
+      method: "GET",
+      dataType: "json",
+      data: $form.serializeObject(),
+      success: function(data) {
+         $("#email-form").hide();
+         $("#success").show();
+      }
+    });
+  })
 
 
 
