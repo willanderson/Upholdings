@@ -250,38 +250,36 @@ ul {
 
 .icon0:before {
   content: ' ';
-  width: 48px;
-  height: 48px;
+  width: 28px;
+  height: 28px;
   display: block;
-  background-image: url('../assets/icon0.svg');
-  background-size: 48px 48px;
+  background-image: url('../assets/trending-up.svg');
+  background-size: 28px 28px;
   position: absolute;
-  left: -72px;
+  left: -48px;
   top: 0;
 }
 
 .icon1:before {
   content: ' ';
-  width: 48px;
-  height: 48px;
+  width: 28px;
+  height: 28px;
   display: block;
-  background-image: url('../assets/icon1.svg');
-  background-size: 48px 48px;
+  background-image: url('../assets/book-open.svg');
+  background-size: 28px 28px;
   position: absolute;
-  left: -72px;
-  top: -10px;
+  left: -48px;
 }
 
 .icon2:before {
   content: ' ';
-  width: 48px;
-  height: 48px;
+  width: 28px;
+  height: 28px;
   display: block;
-  background-image: url('../assets/icon2.svg');
-  background-size: 48px 48px;
+  background-image: url('../assets/dollar-sign.svg');
+  background-size: 28px 28px;
   position: absolute;
-  left: -72px;
-  top: -10px;
+  left: -48px;
 }
 
 @media screen and (max-width: 60em) {
