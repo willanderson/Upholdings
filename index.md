@@ -1,8 +1,8 @@
 ---
 title: Homepage
-hero_h1: Modern Investing.
-hero_p: Grow your hard-earned wealth by investing into the best companies building
-  our future.
+hero:
+  headline: Modern Investing.
+  body: Grow your hard-earned wealth by investing into the best companies building our future.
 manifesto: Upholdings is an investment manager for founders and executives. We operate
   one global fund that invests in companies reshaping their industries through the
   effective use of new technologies.
@@ -31,10 +31,10 @@ criteria:
 - 02 — Recruits and retains talented people that are patient and ambitious
 - 03 — Develops globally attractive products and services
 - 04 — Considers environmental and societal impacts to the company’s expansion
-- '05 — Operates low cost marketing channels to regularly win new customers '
+- 05 — Operates low cost marketing channels to regularly win new customers
 - 06 — Transacts profitably with customers and gives them a reason to come back
 - 07 — Transforms profits into long term shareholder value
-- '08 — Available at a share price that is a clear discount to the company''s potential'
+- 08 — Available at a share price that is a clear discount to the company''s potential
 bio: |-
   Robert founded Upholdings in 2019 to generate benchmark beating returns for the next generation of investors.
 
@@ -43,6 +43,8 @@ bio: |-
   The best online businesses deliver a higher standard of transparency, quality, and price. Upholdings was borne out of the opportunity to do exactly that with investing.
 
   Upholdings is currently only open to accredited investors.
+footer:
+  headline: Learn More
+  body: For a detailed portfolio and our latest investor letter, enter email below
 layout: homepage
 ---
-
