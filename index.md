@@ -35,7 +35,7 @@ criteria:
 - 05 — Operates low cost marketing channels to regularly win new customers
 - 06 — Transacts profitably with customers and gives them a reason to come back
 - 07 — Transforms profits into long term shareholder value
-- '08 — Available at a share price that is a clear discount to the company''''s potential'
+- '08 — Available at a share price that is a clear discount to the company''s potential'
 bio: |-
   Robert founded Upholdings in 2019 to generate benchmark beating returns for the next generation of investors.
 
@@ -46,7 +46,7 @@ bio: |-
   Upholdings is currently only open to accredited investors.
 footer:
   headline: Learn More
-  body: For a detailed portfolio and our latest investor letter, enter email below
+  body: 'For a detailed portfolio and our latest investor letter, email us below:'
 layout: homepage
 ---
 
