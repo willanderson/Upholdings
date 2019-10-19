@@ -31,11 +31,11 @@ criteria:
 - 01 — Participates in a large industry with a defensible leadership position
 - 02 — Recruits and retains talented people that are patient and ambitious
 - 03 — Develops globally attractive products and services
-- 04 — Considers environmental and societal impacts to the company’s expansion
+- 04 — Considers environmental and societal impacts in its expansion
 - 05 — Operates low cost marketing channels to regularly win new customers
-- 06 — Transacts profitably with customers and gives them a reason to come back
+- 06 — Transacts profitably with customers and gives them a reason to return
 - 07 — Transforms profits into long term shareholder value
-- '08 — Available at a share price that is a clear discount to the company''s potential'
+- '08 — Available at a clear discount to the company''s potential'
 bio: |-
   Robert founded Upholdings in 2019 to generate benchmark beating returns for the next generation of investors.
 
