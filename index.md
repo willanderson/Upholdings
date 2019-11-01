@@ -46,7 +46,8 @@ bio: |-
   Upholdings is currently only open to accredited investors.
 footer:
   headline: Learn More
-  body: 'For a detailed portfolio and our latest investor letter, email us below:'
+  body: 'For a detailed portfolio and primer on our investment strategy, email us
+    below:'
 layout: homepage
 ---
 
