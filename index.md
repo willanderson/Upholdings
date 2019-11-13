@@ -5,11 +5,11 @@ hero:
   body: Grow your hard-earned wealth by investing into the best companies building
     our future.
 manifesto: Upholdings is an investment manager for founders and executives. We operate
-  one global fund that invests in companies reshaping their industries through the
-  use of new technologies.
+  one global fund that invests in companies - public and private - reshaping their
+  industries through the use of new technologies.
 differenceA_h3: Maximum Growth
 differenceA_p: We target double digit returns by buying-and-holding 25 of the world’s
-  best public growth companies. We use strict <a href="#criteria">investment criteria</a>
+  best growth companies. We use strict <a href="#criteria">investment criteria</a>
   to acquire stocks that can outperform for years to come.
 differenceB_h3: High Quality Research
 differenceB_p: We combine modern web tools with expert interviews to evaluate companies
