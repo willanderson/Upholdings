@@ -4,13 +4,13 @@ hero:
   headline: Modern Investing.
   body: Grow your hard-earned wealth by investing into the best companies building
     our future.
-manifesto: Upholdings is an investment manager for forward thinkers. We operate one
-  global fund that invests in companies - public and private - reshaping their industries
-  through the use of new technologies.
+manifesto: Upholdings is an investment manager for the next generation of investors.
+  We operate one global fund that invests in companies - public and private - reshaping
+  their industries through the use of new technologies.
 differenceA_h3: Maximum Growth
-differenceA_p: We target double digit returns by buying-and-holding 25 of the world’s
-  best growth companies. We use strict <a href="#criteria">investment criteria</a>
-  to acquire stocks that can outperform for years to come.
+differenceA_p: We target double digit returns by buying-and-holding the world’s best
+  growth companies. We use strict <a href="#criteria">investment criteria</a> to acquire
+  stocks that can outperform for years to come.
 differenceB_h3: High Quality Research
 differenceB_p: We combine modern web tools with expert interviews to evaluate companies
   leading change within their industry. We pursue a transparent research process and
@@ -19,7 +19,7 @@ differenceC_h3: Low Cost
 differenceC_p: We charge the lowest fees of any comparable investment manager. And
   low turnover in our holdings means improved tax efficiency for all of our investors.
 approachA_h3: Globally Sourced
-approachA_p: We scour the world for 25 market leading multi-billion-dollar companies,
+approachA_p: We scour the world for market leading multi-billion-dollar companies,
   and target those that can sell well beyond their own borders.
 approachB_h3: Multi-Year Outlook
 approachB_p: By partnering with long-term minded investors, we are able to select
