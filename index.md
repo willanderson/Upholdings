@@ -6,7 +6,7 @@ hero:
     our future.
 manifesto: Upholdings is an investment manager for the next generation of investors.
   We operate one global fund that invests in companies - public and private - reshaping
-  their industries through the use of new technologies.
+  their industries.
 differenceA_h3: Maximum Growth
 differenceA_p: We target double digit returns by buying-and-holding the world’s best
   growth companies. We use strict <a href="#criteria">investment criteria</a> to acquire
