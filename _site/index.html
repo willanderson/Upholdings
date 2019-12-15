@@ -11,6 +11,7 @@
 
     <link rel="shortcut icon" type="image/png" href="assets/fav.png"/>
     <title>Upholdings</title>
+    <!-- <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css"> -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css" />
     <link rel="stylesheet" href="https://unpkg.com/tachyons@4.9.0/css/tachyons.min.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -43,7 +44,7 @@
     </a>
     <div class="flex-ns pv2 items-center space-between right-links">
       <a href="#email-form" class="ml2 f6 mr4 dn dn-m db-l dim">Our Portfolio</a>
-      <a href="#email-form"> <button class="pointer f6 link br2 ph3 pv2 lh-copy dn dn-m dib-l white bg-green br-pill">Contact Us</button></a>
+      <a href="#mc_embed_signup"> <button class="pointer f6 link br2 ph3 pv2 lh-copy dn dn-m dib-l white bg-green br-pill">Contact Us</button></a>
     </div>
   </div>
 </nav>
@@ -67,14 +68,14 @@
 <!-- Chapter 2 -->
 <div id="difference" class="flex flex-column w-100 items-start justify-start bg-blue pv5-l pv4 ph5-ns ph4 ph4-m">
   <div class="w-100 center mw9">
-    <div data-aos="fade-up" class="super center f3 f2-m f2-l measure db mt3 mb0-ns mb3 lh-copy black">Upholdings is an investment manager for founders and executives. We operate one global fund that invests in companies reshaping their industries through the effective use of new technologies.</div>
+    <div data-aos="fade-up" class="super center f3 f2-m f2-l measure db mt3 mb0-ns mb3 lh-copy black">Upholdings is an investment manager for the next generation of investors. We operate one global fund that invests in companies - public and private - reshaping their industries.</div>
   </div>
   <div class="mt6-l mt5 w-100 col center">
       <div data-aos="fade-up" class="mb5-m mb5-l mb4 w-100 flex justify-end-ns flex-start">
         <div class="w-50-l w-100 flex flex-column items-start justify-center icon-hold">
           <img class="db dn-l mv2" src="assets/trending_up.svg" />
           <div class="header super mb2 f3 icon0">Maximum Growth</div>
-          <div class="fontsize18 lh-copy off-black measure">We target double digit returns by buying-and-holding 25 of the world’s best public growth companies. We use strict <a href="#criteria">investment criteria</a> to acquire stocks that can outperform for years to come.</div>
+          <div class="fontsize18 lh-copy off-black measure">We target double digit returns by buying-and-holding the world’s best growth companies. We use strict <a href="#criteria">investment criteria</a> to acquire stocks that can outperform for years to come.</div>
         </div>
       </div>
       <div data-aos="fade-up" class="mb5-m mb5-l mb4 w-100 flex justify-end-ns">
@@ -111,15 +112,15 @@
             
             <div class="f5 lh-copy white mb4">03 — Develops globally attractive products and services</div>
             
-            <div class="f5 lh-copy white mb4">04 — Considers environmental and societal impacts to the company’s expansion</div>
+            <div class="f5 lh-copy white mb4">04 — Considers environmental and societal impacts in its expansion</div>
             
             <div class="f5 lh-copy white mb4">05 — Operates low cost marketing channels to regularly win new customers</div>
             
-            <div class="f5 lh-copy white mb4">06 — Transacts profitably with customers and gives them a reason to come back</div>
+            <div class="f5 lh-copy white mb4">06 — Transacts profitably with customers and gives them a reason to return</div>
             
             <div class="f5 lh-copy white mb4">07 — Transforms profits into long term shareholder value</div>
             
-            <div class="f5 lh-copy white mb4">08 — Available at a share price that is a clear discount to the company''s potential</div>
+            <div class="f5 lh-copy white mb4">08 — Available at a clear discount to the company's potential</div>
             
           </div>
         </div>
@@ -158,21 +159,45 @@ Upholdings is currently only open to accredited investors.<br />
 <div id="footer" class="flex w-100 min-vh-100 items-center justify-start bg-blue pv4 relative">
   <div class="center flex flex-column justify-center z-999 mw9 ph5-l ph4-m ph3">
     <h1 class="f-subheadline f-mobileheadline super mb0 tc">Learn More</h1>
-    <div class="f5 w-100 lh-copy off-black tc ph4">For a detailed portfolio and our latest investor letter, enter email below</div>
-    <div class="mt4 mh4-l mh0">
-  <form id="email-form" class="center">
-    <fieldset class="cf bn">
+    <div class="f5 w-100 lh-copy off-black tc ph4">For a detailed portfolio and more, email us below:</div>
+    <div id="mc_embed_signup" class="mt4 mh4-l mh0">
+  <form action="https://upholdings.us3.list-manage.com/subscribe/post?u=fc1e7406ff62578d54afc5686&amp;id=3bf57bfe36" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate center" target="_blank" novalidate">
+    <fieldset class="cf bn email-form">
       <div class="cf">
-        <input class="f6 f5-l input-reset bn fl black bg-white pa3 lh-solid w-70-ns w-100" placeholder="Your Email" type="email" name="email" id="emailField" required>
-        <input type="button" class="mt2 mt0-ns f6 f5-l button-reset fl pv3 ph3 dim tc bn bg-animate bg-green white pointer w-100 w-30-ns" id="submit-form" value="Submit">
-        <button class="dn mt2 mt0-ns f6 f5-l button-reset fl pv3 ph2 tc bn bg-green o-50 white pointer w-100 w-30-ns" disabled type="submit" id="load"><i class='fa fa-circle-o-notch fa-spin'></i></button>
+        <input class="f6 f5-l input-reset bn fl black bg-white pa3 lh-solid w-70-ns w-100" placeholder="Your Email" type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" required>
+        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_fc1e7406ff62578d54afc5686_6521a7c518" tabindex="-1" value=""></div>
+        <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="mt2 mt0-ns f6 f5-l button-reset fl pv3 ph3 dim tc bn bg-animate bg-green white pointer w-100 w-30-ns">
       </div>
     </fieldset>
+    <div id="mce-responses" class="clear">
+      <div class="response " id="mce-error-response" style="display:none"></div>
+      <div class="response" id="mce-success-response" style="display:none"></div>
+    </div>
   </form>
   <div id="success" class="dn">
     <div class="f5 w-100 lh-copy off-black tc ph4"><i>Thanks, we’ll be in touch.</i></div>
   </div>
 </div>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
+<script type='text/javascript'>
+  (function($) {
+    window.fnames = new Array();
+    window.ftypes = new Array();
+    fnames[0] = 'EMAIL';
+    ftypes[0] = 'email';
+    fnames[1] = 'FNAME';
+    ftypes[1] = 'text';
+    fnames[2] = 'LNAME';
+    ftypes[2] = 'text';
+    fnames[3] = 'ADDRESS';
+    ftypes[3] = 'address';
+    fnames[4] = 'PHONE';
+    ftypes[4] = 'phone';
+    fnames[5] = 'BIRTHDAY';
+    ftypes[5] = 'birthday';
+  }(jQuery));
+  var $mcj = jQuery.noConflict(true);
+</script>
 
   </div>
 </div>
