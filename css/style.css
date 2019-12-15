@@ -374,8 +374,6 @@ ul {
   object-fit: cover;
 }
 
-
-
 .bg-transparent {
   background: transparent;
 }
@@ -419,8 +417,6 @@ nav a {
   color: #1D2632;
 }
 
-
-
 .scrolled svg {
   fill: #1D2632;
 }
@@ -430,7 +426,7 @@ nav a {
 }
 
 .bottom {
-  background-color: white;
+  background-color: trans;
   -webkit-box-shadow: none;
   box-shadow: none;
 }
@@ -485,8 +481,6 @@ nav a {
   z-index: -1;
 }
 
-
-
 @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
   .initial svg {
     fill: #1D2632;
@@ -494,7 +488,31 @@ nav a {
 
   #navbar {
     box-shadow: 0 2px 4px 0 rgba(76, 76, 75, .1);
-    background-color:rgba(255, 255, 255, 0.99) !important;
+    background-color: rgba(255, 255, 255, 0.99) !important;
     color: #1D2632;
   }
+}
+
+/* Mailchimp */
+#mc_embed_signup input {
+  border-radius: 0px;
+  border-width: 0px;
+}
+
+#mc_embed_signup {
+  background-color: transparent;
+}
+
+#mc-embedded-subscribe {
+  display: inline-block;
+  clear: none;
+}
+
+#mc_embed_signup div#mce-responses {
+  padding: .35em .75em .625em;
+}
+
+
+#mc_embed_signup #mc-embedded-subscribe-form input.mce_inline_error {
+  border: 1px solid #e85c41;
 }

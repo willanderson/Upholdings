@@ -2,7 +2,6 @@ $(document).ready(function() {
 
   var target = $('#downarrow');
 
-  const isValidEmail = emailField.checkValidity();
 
   $(window).on('scroll', function() {
     var st = $(this).scrollTop();
@@ -53,24 +52,22 @@ $(document).ready(function() {
     }
   });
 
-  var $form = $('form#email-form'),
-  url = 'https://script.google.com/macros/s/AKfycbxJVkVHCpVh2YeUzc-eTFJb0-025BM56w6As5QiTk1U5EPN3CU/exec'
-
-  $('#submit-form').on('click', function(e) {
-    e.preventDefault();
-    $("#submit-form").addClass("dn");
-    $("#load").removeClass("dn");
-    var jqxhr = $.ajax({
-      url: url,
-      method: "GET",
-      dataType: "json",
-      data: $form.serializeObject(),
-      success: function(data) {
-         $("#email-form").hide();
-         $("#success").show();
-      }
-    });
-  })
+  // var $form = $('form#email-form'),
+  // url = 'https://script.google.com/macros/s/AKfycbxJVkVHCpVh2YeUzc-eTFJb0-025BM56w6As5QiTk1U5EPN3CU/exec'
+  //
+  // $('#submit-form').on('click', function(e) {
+  //   e.preventDefault();
+  //   var jqxhr = $.ajax({
+  //     url: url,
+  //     method: "GET",
+  //     dataType: "json",
+  //     data: $form.serializeObject(),
+  //     success: function(data) {
+  //        $("#email-form").hide();
+  //        $("#success").show();
+  //     }
+  //   });
+  // })
 
 
 
