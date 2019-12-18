@@ -76,7 +76,7 @@ $(document).ready(function() {
   var observer = new MutationObserver(function(mutations) {
     mutations.forEach(function(mutation) {
       if (target.innerHTML === "Thank you for subscribing!") {
-        target.innerHTML = "Thanks - it will arrive in your inbox in the next minute.";
+        target.innerHTML = "Thanks - check your inbox in the next minute.";
       }
     });
   });
