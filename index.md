@@ -43,7 +43,7 @@ bio: |-
 
   The best online businesses deliver a higher standard of transparency, quality, and price. Upholdings was borne out of the opportunity to do exactly that with investing.
 
-  Upholdings' flagship fund will open to additional investors in 2020. For more details, email us below.
+  Upholdings' flagship fund will open to additional investors in 2020. For more details, contact us below.
 footer:
   headline: Learn More
   body: 'To see our current portfolio and join our waitlist, email us below:'
