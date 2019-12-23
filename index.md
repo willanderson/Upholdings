@@ -39,14 +39,14 @@ criteria:
 bio: |-
   Robert founded Upholdings in 2019 to generate benchmark beating returns for the next generation of investors.
 
-  He began his career working under Roger McNamee, helping to scout through new opportunities created by the early rise of the internet. He then joined Everlane to help grow an online-first retailer into an internationally recognized brand.
+  He began his career working with Roger McNamee, helping to scout through new opportunities created by the internet. He then joined Everlane to help grow an online-first retailer into an internationally recognized brand.
 
   The best online businesses deliver a higher standard of transparency, quality, and price. Upholdings was borne out of the opportunity to do exactly that with investing.
 
-  Upholdings is currently only open to accredited investors.
+  Upholdings' flagship fund will be made available to additional investors in 2020. For more details, sign up below.
 footer:
   headline: Learn More
-  body: 'For a detailed portfolio and more, email us below:'
+  body: 'To see our current portfolio and join our waitlist, email us below:'
 layout: homepage
 ---
 
