@@ -59,11 +59,9 @@ $(document).ready(function() {
   $window.scroll(function() {
     if ($window.scrollTop() > 5) {
       $("#navbar").addClass("scrolled")
-      console.log($window.scrollTop())
     } else {
       $("#navbar").removeClass("scrolled")
       $("#navbar").addClass("initial")
-      console.log("START")
     }
   });
 
