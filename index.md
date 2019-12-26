@@ -5,19 +5,19 @@ hero:
   body: Grow your hard-earned wealth by investing into the best companies building
     our future.
 manifesto: Upholdings is an investment manager for the next generation of investors.
-  We operate one global fund that invests in companies - public and private - reshaping
-  their industries.
+  We operate one global fund that makes investments into companies - public and private
+  - reshaping their industries for the better.
 differenceA_h3: Maximum Growth
 differenceA_p: We target double digit returns by buying-and-holding the world’s best
-  growth companies. We use strict <a href="#criteria">investment criteria</a> to acquire
-  stocks that can outperform for years to come.
+  growth companies. We use strict <a href="#criteria">investment criteria</a> to make
+  investments that can outperform for years to come.
 differenceB_h3: High Quality Research
 differenceB_p: We combine modern web tools with expert interviews to evaluate companies
   leading change within their industry. We pursue a transparent research process and
   share our findings.
 differenceC_h3: Low Cost
 differenceC_p: We charge the lowest fees of any comparable investment manager. And
-  low turnover in our holdings means improved tax efficiency for all of our investors.
+  low turnover in our investments means improved tax efficiency for all of our investors.
 approachA_h3: Globally Sourced
 approachA_p: We scour the world for market leading multi-billion-dollar companies,
   and target those that can sell well beyond their own borders.
@@ -39,9 +39,9 @@ criteria:
 bio: |-
   Robert founded Upholdings in 2019 to generate benchmark beating returns for the next generation of investors.
 
-  He began his career working with Roger McNamee, helping to scout through new opportunities created by the internet. He then joined Everlane to help grow an online-first retailer into an internationally recognized brand.
+  He began his career working with Roger McNamee, helping to scout through new investment opportunities created by the internet. He then joined Everlane to help grow an online-first retailer into an internationally recognized brand.
 
-  The best online businesses deliver a higher standard of transparency, quality, and price. Upholdings was borne out of the opportunity to do exactly that with investing.
+  The best online businesses deliver a higher standard of transparency, quality, and price. Upholdings was borne out of the opportunity to do exactly that for investments.
 
   Upholdings' flagship fund will open to additional investors in 2020. For more details, contact us below.
 footer:
