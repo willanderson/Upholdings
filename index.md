@@ -41,7 +41,7 @@ bio: |-
 
   He began his career working with Roger McNamee, helping to scout through new investment opportunities created by the internet. He then joined Everlane to help grow an online-first retailer into an internationally recognized brand.
 
-  The best online businesses deliver a higher standard of transparency, quality, and price. Upholdings was borne out of the opportunity to do exactly that for investments.
+  The best online businesses deliver a higher standard of transparency, quality, and price. Upholdings was borne out of the opportunity to do exactly that for investing.
 
   Upholdings' flagship fund will open to additional investors in 2020. For more details, contact us below.
 footer:
