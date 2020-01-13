@@ -1,0 +1,38 @@
+<!-- Chapter 3 -->
+
+<div id="criteria" class="bg-black w-100 pv6-ns pv5 ph5-l ph4 relative">
+  <div class="w-100 center mw9 flex flex-row-ns flex-column">
+    <div class="w-50-l w-100 fl mw9 ph4-l pr2">
+      <div class="super f2 f2-l measure white">Investment Criteria</div>
+    </div>
+    <div class="w-50-l w-100 col center mt0-ns mt5">
+        <div class="w-100 flex justify-end-ns flex-start">
+          <div class="w-100 flex flex-column items-start justify-center">
+            {% for crit in page.criteria %}
+            <div class="f5 lh-copy white mb4">{{ crit }}</div>
+            {% endfor %}
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+
+<!-- Chapter 4 -->
+
+{% capture string_with_newlines %}
+    {{ page.bio }}
+{% endcapture %}
+
+<div id="story" class="bg-white w-100 center pt5-l pb6-l pt4 pb5 cantwell">
+  <div class="w-50-l w-100 mw9 center ph4-m ph4 min-700">
+    <div class="f7 fw6 ttu tracked mt3 mb2 black w-100 ">Founder, CIO</div>
+    <div class="cf">
+      <div class="fl w-100 flex flex-column flex-row-l">
+        <img class="mr4 obj-contain mt4 child" src="assets/headshot.jpeg" />
+          <div class="f5 w-100 lh-copy off-black mt4">
+            {{ string_with_newlines | newline_to_br | replace_first: "<br />", " " }}
+          </div>
+      </div>
+    </div>
+  </div>
+</div>
