@@ -9,8 +9,8 @@ manifesto: Upholdings is an investment manager for the next generation of invest
   - reshaping their industries.
 differenceA_h3: Maximum Growth
 differenceA_p: We target double digit returns by buying-and-holding the world’s best
-  growth companies. We use strict <a href="#criteria">investment criteria</a> to make
-  investments that can outperform for years to come.
+  growth companies. We use strict investment criteria to make investments that can
+  outperform for years to come.
 differenceB_h3: High Quality Research
 differenceB_p: We combine modern web tools with expert interviews to evaluate companies
   leading change within their industry. We pursue a transparent research process and
