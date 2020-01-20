@@ -543,7 +543,8 @@ article h1 {
 }
 
 article img {
-  max-width: 960px;
+  max-width: auto;
+  max-height: 500px;
 }
 
 article li {
@@ -570,4 +571,8 @@ article li {
 #share-buttons {
   margin-left: -10px;
   margin-bottom: 16px
+}
+
+.smallform {
+  width: 480px;
 }
