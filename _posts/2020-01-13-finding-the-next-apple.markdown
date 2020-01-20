@@ -1,6 +1,6 @@
 ---
 title: Finding the Next Apple
-date: 2020-01-13 21:46:35 Z
+date: 2020-01-13 21:46:00 Z
 categories:
 - Insights
 summary: Apple has generated X% of the S&P 500’s return over the last decade. Online
@@ -13,10 +13,11 @@ layout: post
 
 You need two things to evaluate great investments: the right questions, and the right tools to find answers to those questions. Below we share approaches that we use at Upholdings to deliver market beating returns, that you can also use.
 
-First, here are the eight most important questions we have for any potential investment:
+### First, here are the eight most important questions we have for any potential investment:
 
-- Does the company compete in a large and attractive market?
-- Can the company attract and retain talented staff?
+**- Does the company compete in a large and attractive market?
+**
+1. [Can the company attract and retain talented staff?](http://www.upholdings.com)
 - Does the company sell globally attractive products and have a pipeline for more?
 - Are environmental and societal impacts considered in the company’s expansion?
 - Is every customer transaction a profitable one for the company?
