@@ -1,6 +1,6 @@
 ---
 title: Finding the Next Apple - From Home!
-date: 2020-01-20 21:46:00 Z
+date: 2020-01-13 21:46:00 Z
 categories:
 - Insights
 summary: A $1,000 investment in Apple 20 years ago is worth $87,000 today. Online

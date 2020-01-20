@@ -1,5 +1,5 @@
 ---
-permalink: "/posts/"
+permalink: "/insights/"
 layout: posts
 ---
 
