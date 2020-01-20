@@ -1,5 +1,5 @@
 ---
-title: Finding the Next Apple - From Home!
+title: Find the Next Apple - From Home!
 date: 2020-01-13 21:46:00 Z
 categories:
 - Insights
@@ -13,13 +13,13 @@ layout: post
 
 Every investor needs two things to evaluate a potential investment: (1) the right questions, and (2) tools to answer those questions. Below are examples from Upholdings that we employ to deliver market beating returns.
 
-### Our eight questions:
+### **Our eight questions:**
 
 1. Does the company compete in a large market with a defensible position?
 
 2. Are the staff talented and motivated to keep growing with the company?
 
-3. Do the products lead their category in domestic and international markets? 
+3. Do the products lead their category in domestic and international markets?
 
 4. Is leadership actively considering societal impacts from the company’s expansion?
 
@@ -33,7 +33,7 @@ Every investor needs two things to evaluate a potential investment: (1) the righ
 
 Company-released financial statements, annual reports, and transcripts are an excellent place to start answering those questions. But to figure out if it's not just a good investment, but really a great investment, we have to go a step further.
 
-### Alternative Data You Can Access From Home:
+### **Alternative Data You Can Access From Home:**
 
 * LinkedIn Premium has a tool that tells you how quickly a company is growing its employee base what types of employees they are hiring: is the company hiring salespeople and growing revenue, or is the company in investment-mode and hiring more engineers to build things?
 
@@ -45,10 +45,10 @@ Company-released financial statements, annual reports, and transcripts are an ex
 
 * Google Alerts: setup an alert to receive a daily digest on all the news that’s coming out on the company.
 
-There are additional tools out there - email receipt tracking, private company revenue estimates - but you have to pay money for those! 
+There are additional tools out there - email receipt tracking, private company revenue estimates - but you have to pay money for those!
 
 While the web has made it easier than ever to find the right answers, the hard part is exercising patience and only buying additional shares when the market offers a price that just can’t be beat.
 
-### About Upholdings
+### **About Upholdings**
 
 Upholdings is built for the next generation of investors. We manage a concentrated portfolio of the best public and private growth companies profitably reshaping big industries. We combine data-driven tools with expert-led insights to find the best opportunities to grow your hard-earned savings.
