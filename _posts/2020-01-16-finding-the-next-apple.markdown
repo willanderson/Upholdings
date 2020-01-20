@@ -1,7 +1,7 @@
 ---
 title: Finding the Next Apple
 date: 2020-01-13 21:46:35 Z
-category: Insights
+categories: Insights
 summary: Apple has generated X% of the S&P 500’s return over the last decade. Online tools have made it easier than ever to find the best companies to invest in. Here are tools to identify the next multi-decade winner.
 image: /assets/apple.jpg
 alt: A description of the image
