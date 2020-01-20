@@ -1,48 +1,54 @@
 ---
-title: Finding the Next Apple
+title: Finding the Next Apple - From Home!
 date: 2020-01-13 21:46:00 Z
 categories:
 - Insights
-summary: Apple has generated X% of the S&P 500’s return over the last decade. Online
-  tools have made it easier than ever to find the best companies to invest in. Here
-  are tools to identify the next multi-decade winner.
-image: "/assets/apple.jpg"
-alt: A description of the image
+summary: A $1,000 investment in Apple 20 years ago is worth $87,000 today. Online
+  tools have made it easier than ever to help find the next multi-decade stock market
+  winner.
+image: "/uploads/more%20apple.jpeg"
+alt: Apple is the best growth investment
 layout: post
 ---
 
-You need two things to evaluate great investments: the right questions, and the right tools to find answers to those questions. Below we share approaches that we use at Upholdings to deliver market beating returns, that you can also use.
+Every investor needs two things to evaluate a potential investment: (1) the right questions, and (2) tools to answer those questions. Below are examples from Upholdings that we employ to deliver market beating returns.
 
-### First, here are the eight most important questions we have for any potential investment:
+### Our eight questions:
 
-**- Does the company compete in a large and attractive market?**
+1. Does the company compete in a large market with a defensible position?
 
-1. [Can the company attract and retain talented staff?](http://www.upholdings.com)
+2. Are the staff talented and motivated to keep growing with the company?
 
-* Does the company sell globally attractive products and have a pipeline for more?
+3. Do the products lead their category in domestic and international markets? 
 
-* Are environmental and societal impacts considered in the company’s expansion?
+4. Is leadership actively considering societal impacts from the company’s expansion?
 
-* Is every customer transaction a profitable one for the company?
+5. Does the company transact profitably with all of its customers?
 
-* What low cost marketing channels are available to access customers?
+6. What low cost marketing channels are available to access new customers?
 
-* How does the team transform profits into shareholder value?
+7. How does the team transform profits into shareholder value?
 
-* Are shares available at a price that is a clear discount to the company’s potential?
+8. Are shares available at a clear discount to the company’s potential?
 
-Alternative Data You Can Access From Home
+Company-released financial statements, annual reports, and transcripts are an excellent place to start answering those questions. But to figure out if it's not just a good investment, but really a great investment, we have to go a step further.
 
-* LinkedIn tells you how quickly a company is growing its employee base and how senior of employees it is hiring
+### Alternative Data You Can Access From Home:
+
+* LinkedIn Premium has a tool that tells you how quickly a company is growing its employee base what types of employees they are hiring: is the company hiring salespeople and growing revenue, or is the company in investment-mode and hiring more engineers to build things?
 
 * Former employees: send a message to someone’s that has been out of the company for 1\+ years; most people enjoy talking about their careers
 
-* Apptopia: for free, they’ll tell you how many ratings by # of stars an app is getting each month on Android or Apple — the growth in review counts provide a great measure of the apps popularity and growth
+* appfigures: for free, they’ll tell you how many ratings by # of stars an app is getting each month on Android or Apple — the growth in review counts provide a great measure of the apps popularity and growth
 
 * Google Sheet: build a basic financial projection — what numbers do you think the company will do? Insiders and analysts fail to accurately forecast their own business all the time, so go ahead and take a shot!
 
-* Alerts: setup an alert to receive a daily digest on all the news that’s coming out on the company.
+* Google Alerts: setup an alert to receive a daily digest on all the news that’s coming out on the company.
 
-It’s easier than ever to get to the right answers. The hard part is being patient and only buying additional shares when the market offers a price that just can’t be beat.
+There are additional tools out there - email receipt tracking, private company revenue estimates - but you have to pay money for those! 
 
-To learn more about investing with us, visit upholdings.com.
+While the web has made it easier than ever to find the right answers, the hard part is exercising patience and only buying additional shares when the market offers a price that just can’t be beat.
+
+### About Upholdings
+
+Upholdings is built for the next generation of investors. We manage a concentrated portfolio of the best public and private growth companies profitably reshaping big industries. We combine data-driven tools with expert-led insights to find the best opportunities to grow your hard-earned savings.

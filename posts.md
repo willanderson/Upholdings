@@ -2,3 +2,4 @@
 permalink: "/insights/"
 layout: posts
 ---
+
