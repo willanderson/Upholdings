@@ -8,14 +8,19 @@ layout: default
     <div class="vitals mw center">
       <div class="f6 mb3"><a href="/posts/">Blog</a> / <span class="off-black">{{page.categories}}</span></div>
       <h1 class="lh-headline mt0 mb3 super">{{page.title}}</h1>
-      <p class="mb4 off-black america">{{page.summary}}</p>
+      <p class="mb3 off-black america">{{page.summary}}</p>
+      {% include share-buttons.html %}
     </div>
 
     <img class="center db w-100" src="{{ page.image }}"/>
     <div class="mw center">
       {{ page.content }}
+
     </div>
+
   </article>
+
 </div>
+
 
 {% include footer.html %}

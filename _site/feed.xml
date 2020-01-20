@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-01-20T17:13:05+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Upholdings</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Finding the Next Apple</title><link href="http://localhost:4000/insights/2020/01/13/finding-the-next-apple.html" rel="alternate" type="text/html" title="Finding the Next Apple" /><published>2020-01-13T21:46:35+00:00</published><updated>2020-01-13T21:46:35+00:00</updated><id>http://localhost:4000/insights/2020/01/13/finding-the-next-apple</id><content type="html" xml:base="http://localhost:4000/insights/2020/01/13/finding-the-next-apple.html">&lt;p&gt;You need two things to evaluate great investments: the right questions, and the right tools to find answers to those questions. Below we share approaches that we use at Upholdings to deliver market beating returns, that you can also use.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-01-20T17:29:26+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Upholdings</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Finding the Next Apple</title><link href="http://localhost:4000/insights/2020/01/13/finding-the-next-apple.html" rel="alternate" type="text/html" title="Finding the Next Apple" /><published>2020-01-13T21:46:35+00:00</published><updated>2020-01-13T21:46:35+00:00</updated><id>http://localhost:4000/insights/2020/01/13/finding-the-next-apple</id><content type="html" xml:base="http://localhost:4000/insights/2020/01/13/finding-the-next-apple.html">&lt;p&gt;You need two things to evaluate great investments: the right questions, and the right tools to find answers to those questions. Below we share approaches that we use at Upholdings to deliver market beating returns, that you can also use.&lt;/p&gt;
 
 &lt;p&gt;First, here are the eight most important questions we have for any potential investment:&lt;/p&gt;
 
@@ -25,4 +25,31 @@
 
 &lt;p&gt;It’s easier than ever to get to the right answers. The hard part is being patient and only buying additional shares when the market offers a price that just can’t be beat.&lt;/p&gt;
 
-&lt;p&gt;To learn more about investing with us, visit upholdings.com.&lt;/p&gt;</content><author><name></name></author><summary type="html">You need two things to evaluate great investments: the right questions, and the right tools to find answers to those questions. Below we share approaches that we use at Upholdings to deliver market beating returns, that you can also use.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/apple.jpg" /></entry></feed>
+&lt;p&gt;To learn more about investing with us, visit upholdings.com.&lt;/p&gt;</content><author><name></name></author><summary type="html">You need two things to evaluate great investments: the right questions, and the right tools to find answers to those questions. Below we share approaches that we use at Upholdings to deliver market beating returns, that you can also use.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/apple.jpg" /></entry><entry><title type="html">Finding the Next Apple</title><link href="http://localhost:4000/insights/2020/01/13/finding-the-next-apple.html" rel="alternate" type="text/html" title="Finding the Next Apple" /><published>2020-01-13T21:46:35+00:00</published><updated>2020-01-13T21:46:35+00:00</updated><id>http://localhost:4000/insights/2020/01/13/finding-the-next-apple</id><content type="html" xml:base="http://localhost:4000/insights/2020/01/13/finding-the-next-apple.html">&lt;p&gt;You need two things to evaluate great investments: the right questions, and the right tools to find answers to those questions. Below we share approaches that we use at Upholdings to deliver market beating returns, that you can also use.&lt;/p&gt;
+
+&lt;p&gt;First, here are the eight most important questions we have for any potential investment:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Does the company compete in a large and attractive market?&lt;/li&gt;
+  &lt;li&gt;Can the company attract and retain talented staff?&lt;/li&gt;
+  &lt;li&gt;Does the company sell globally attractive products and have a pipeline for more?&lt;/li&gt;
+  &lt;li&gt;Are environmental and societal impacts considered in the company’s expansion?&lt;/li&gt;
+  &lt;li&gt;Is every customer transaction a profitable one for the company?&lt;/li&gt;
+  &lt;li&gt;What low cost marketing channels are available to access customers?&lt;/li&gt;
+  &lt;li&gt;How does the team transform profits into shareholder value?&lt;/li&gt;
+  &lt;li&gt;Are shares available at a price that is a clear discount to the company’s potential?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Alternative Data You Can Access From Home&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;LinkedIn tells you how quickly a company is growing its employee base and how senior of employees it is hiring&lt;/li&gt;
+  &lt;li&gt;Former employees: send a message to someone’s that has been out of the company for 1+ years; most people enjoy talking about their careers&lt;/li&gt;
+  &lt;li&gt;Apptopia: for free, they’ll tell you how many ratings by # of stars an app is getting each month on Android or Apple — the growth in review counts provide a great measure of the apps popularity and growth&lt;/li&gt;
+  &lt;li&gt;Google Sheet: build a basic financial projection — what numbers do you think the company will do? Insiders and analysts fail to accurately forecast their own business all the time, so go ahead and take a shot!&lt;/li&gt;
+  &lt;li&gt;Alerts: setup an alert to receive a daily digest on all the news that’s coming out on the company.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It’s easier than ever to get to the right answers. The hard part is being patient and only buying additional shares when the market offers a price that just can’t be beat.&lt;/p&gt;
+
+&lt;p&gt;To learn more about investing with us, visit upholdings.com.&lt;/p&gt;</content><author><name></name></author><category term="Insights" /><summary type="html">You need two things to evaluate great investments: the right questions, and the right tools to find answers to those questions. Below we share approaches that we use at Upholdings to deliver market beating returns, that you can also use.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/apple.jpg" /></entry></feed>

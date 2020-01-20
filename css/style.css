@@ -566,3 +566,8 @@ article li {
   text-transform: uppercase;
   letter-spacing: .5px;
 }
+
+#share-buttons {
+  margin-left: -10px;
+  margin-bottom: 16px
+}
