@@ -31,23 +31,23 @@ Every investor needs two things to evaluate a potential investment: (1) the righ
 
 8. Are shares available at a clear discount to the company’s potential?
 
-Company-released financial statements, annual reports, and management transcripts are an excellent place to start answering those questions. But to figure out if it's not just a good investment, but actually a great investment, we have to go a step further.
+Company-released financial statements, annual reports, and transcripts are an excellent place to start answering those questions. But to figure out if it's not just a good investment, but really a great investment, we have to go a step further.
 
 ### Alternative Data You Can Access From Home:
 
-* LinkedIn tells you how quickly a company is growing its employee base and how senior of employees it is hiring
+* LinkedIn Premium has a tool that tells you how quickly a company is growing its employee base what types of employees they are hiring: is the company hiring salespeople and growing revenue, or is the company in investment-mode and hiring more engineers to build things?
 
 * Former employees: send a message to someone’s that has been out of the company for 1\+ years; most people enjoy talking about their careers
 
-* Apptopia: for free, they’ll tell you how many ratings by # of stars an app is getting each month on Android or Apple — the growth in review counts provide a great measure of the apps popularity and growth
+* appfigures: for free, they’ll tell you how many ratings by # of stars an app is getting each month on Android or Apple — the growth in review counts provide a great measure of the apps popularity and growth
 
 * Google Sheet: build a basic financial projection — what numbers do you think the company will do? Insiders and analysts fail to accurately forecast their own business all the time, so go ahead and take a shot!
 
 * Google Alerts: setup an alert to receive a daily digest on all the news that’s coming out on the company.
 
-There are additional tools if you're ready to really start spending money.
+There are additional tools out there - email receipt tracking, private company revenue estimates - but you have to pay money for those! 
 
-It’s easier than ever to get to the right answers. The hard part is being patient and only buying additional shares when the market offers a price that just can’t be beat.
+While the web has made it easier than ever to find the right answers, the hard part is exercising patience and only buying additional shares when the market offers a price that just can’t be beat.
 
 ### About Upholdings
 
