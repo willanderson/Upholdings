@@ -21,7 +21,6 @@ body {
   padding: 0;
   font-family: "GT America", "Helvetica", sans-serif;
   color: #1D2632;
-  background-color: #EAECF0;
 }
 
 a {
@@ -124,6 +123,10 @@ ul {
 
 .super {
   font-family: "GT Super", serif;
+}
+
+.america {
+    font-family: "GT America", "Helvetica", sans-serif;
 }
 
 .bg-blue {
@@ -515,4 +518,51 @@ nav a {
 
 #mc_embed_signup #mc-embedded-subscribe-form input.mce_inline_error {
   border: 1px solid #e85c41;
+}
+
+/* Blog */
+
+.blog-header {
+  font-size: 52px;
+}
+
+article p {
+  font-family: serif;
+  font-size: 21px;
+  line-height: 33px;
+}
+
+article ul {
+  font-family: serif;
+  font-size: 21px;
+  line-height: 33px;
+}
+
+article h1 {
+  font-size: 55px;
+}
+
+article img {
+  max-width: 960px;
+}
+
+article li {
+  list-style-type: disc;
+  display: list-item;
+  margin-left: 30px;
+  margin-top: .5em;
+}
+
+.mw {
+  max-width: 40rem;
+}
+
+.vitals a {
+  text-decoration: none;
+}
+
+.smallcaps {
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: .5px;
 }
