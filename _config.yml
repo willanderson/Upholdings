@@ -14,13 +14,13 @@ defaults:
     type: posts
   values:
     summary: Add a summary to your article here
-    image:
+    image: 
     alt: Add alt text to the above image
 footer:
   headline: Learn More
   body: 'To see our current portfolio, email us below:'
-baseurl:
-url:
+baseurl: 
+url: 
 markdown: kramdown
 theme: minima
 homepage_mov: https://player.vimeo.com/external/350425045.hd.mp4?s=1e1710a8d0737b10b0ed2bb5991f5a0ae4a65b41&profile_id=175
