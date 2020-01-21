@@ -2,7 +2,7 @@
 title: Homepage
 hero:
   headline: Modern Investing.
-  body: Grow your hard-earned wealth by investing into the best companies building
+  body: Grow your hard-earned savings by investing into the best companies building
     our future.
 manifesto: Upholdings is an investment manager for the next generation of investors.
   We operate one global fund that makes investments into companies - public and private
