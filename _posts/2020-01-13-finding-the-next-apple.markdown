@@ -1,5 +1,5 @@
 ---
-title: Find the Next Apple - From Home!
+title: Find the Next Apple
 date: 2020-01-13 21:46:00 Z
 categories:
 - Insights
