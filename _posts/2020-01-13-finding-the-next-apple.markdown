@@ -11,7 +11,7 @@ alt: Apple is the best growth investment
 layout: post
 ---
 
-Every investor needs two things to evaluate a potential investment: (1) the right questions, and (2) tools to answer those questions. Below are examples from Upholdings that we employ to deliver market beating returns.
+Every investor needs two things to evaluate a potential investment: (1) the right questions, and (2) tools to answer those questions. Below are examples from Upholdings that we use to deliver market-beating returns.
 
 ## **Our Eight Questions:**
 
@@ -25,29 +25,29 @@ Every investor needs two things to evaluate a potential investment: (1) the righ
 
 5. Does the company transact profitably with all of its customers?
 
-6. What low cost marketing channels are available to access new customers?
+6. What low-cost marketing channels are available to access new customers?
 
 7. How does the team transform profits into shareholder value?
 
 8. Are shares available at a clear discount to the company’s potential?
 
-Company-released financial statements, annual reports, and transcripts are an excellent place to start answering those questions. But to figure out if it's not just a good investment, but really a great investment, we have to go a step further.
+Company-released financial statements and reports are an excellent place to start answering these questions. But to figure out if it's a once-in-a-lifetime investment, we have to go a step further.
 
 ## **Alternative Data Sources:**
 
-* LinkedIn Premium has a tool that tells you how quickly a company is growing its employee base what types of employees they are hiring: is the company hiring salespeople and growing revenue, or is the company in investment-mode and hiring more engineers to build things?
+The information age brought on by the internet and mobile devices offers us more than company-released statistics to evaluate investments. Here are some examples:
 
-* Former employees: send a message to someone’s that has been out of the company for 1\+ years; most people enjoy talking about their careers
+* LinkedIn Premium: see the number of employees by function at a company. Are they hiring salespeople to grow revenue, or hiring engineers to invest in new products?
 
-* appfigures: for free, they’ll tell you how many ratings by # of stars an app is getting each month on Android or Apple — the growth in review counts provide a great measure of the apps popularity and growth
+* appfigures: track the number of ratings that apps are receiving each month in the Apple and Android app stores. How popular is the app and are ratings improving or worsening over time?
 
-* Google Sheet: build a basic financial projection — what numbers do you think the company will do? Insiders and analysts fail to accurately forecast their own business all the time, so go ahead and take a shot!
+* Seeking Alpha: read management transcripts from events and calls to see how insiders are planning the future of the company. Are they prioritizing the right growth initiatives?
 
-* Google Alerts: setup an alert to receive a daily digest on all the news that’s coming out on the company.
+* Former Employees (or Competitors): connect with someone on LinkedIn that works in the same industry as your target investment. What do they think about the business?
 
-There are additional tools out there - email receipt tracking, private company revenue estimates - but you have to pay money for those!
+* Google Alerts: receive a daily digest on all the news around a specific company. Are customers raving or complaining about it? How are world events affecting the company's growth?
 
-While the web has made it easier than ever to find the right answers, the hard part is exercising patience and only buying additional shares when the market offers a price that just can’t be beat.
+The web has made it easier than ever to find answers. Once you find a great company, the hard part is being patient and only acquiring shares when the market offers a price that just can’t be beat.
 
 ## **About Upholdings**
 
