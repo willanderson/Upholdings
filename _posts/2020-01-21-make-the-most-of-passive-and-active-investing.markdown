@@ -4,7 +4,7 @@ date: 2020-01-21 03:01:00 Z
 summary: Passive (index-based) investing now represents >50% of equity owned in the
   US. Learn how to incorporate the best of both passive and active investing to position
   your portfolio for maximum performance.
-image: "/uploads/passive%20and%20active%20investing.jpg"
+image: "/uploads/passive%20and%20active.png"
 alt: Passive and active investing to beat the S&P
 ---
 
