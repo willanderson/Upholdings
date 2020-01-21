@@ -1,5 +1,5 @@
 ---
-title: Designing a Portfolio to Beat the S&P
+title: Design a Portfolio to Beat the S&P
 date: 2020-01-21 02:04:00 Z
 summary: More than $10 trillion of invested capital is benchmarked against the S&P
   500. With all of this focus on companies included in its index, we discuss the three
