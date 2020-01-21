@@ -1,60 +1,60 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-01-21T02:12:47+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Upholdings</title><entry><title type="html">Find the Next Apple - From Home!</title><link href="http://localhost:4000/insights/2020/01/13/finding-the-next-apple.html" rel="alternate" type="text/html" title="Find the Next Apple - From Home!" /><published>2020-01-13T21:46:00+00:00</published><updated>2020-01-13T21:46:00+00:00</updated><id>http://localhost:4000/insights/2020/01/13/finding-the-next-apple</id><content type="html" xml:base="http://localhost:4000/insights/2020/01/13/finding-the-next-apple.html">&lt;p&gt;Every investor needs two things to evaluate a potential investment: (1) the right questions, and (2) tools to answer those questions. Below are examples from Upholdings that we employ to deliver market beating returns.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-01-21T20:35:39+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Upholdings</title><entry><title type="html">Find the Next Apple</title><link href="http://localhost:4000/insights/2020/01/20/finding-the-next-apple.html" rel="alternate" type="text/html" title="Find the Next Apple" /><published>2020-01-20T21:46:00+00:00</published><updated>2020-01-20T21:46:00+00:00</updated><id>http://localhost:4000/insights/2020/01/20/finding-the-next-apple</id><content type="html" xml:base="http://localhost:4000/insights/2020/01/20/finding-the-next-apple.html">&lt;p&gt;Every investor needs two things to evaluate a potential investment: (1) the right questions, and (2) tools to answer those questions. Below are examples from Upholdings that we use to deliver market-beating returns.&lt;/p&gt;
 
 &lt;h2 id=&quot;our-eight-questions&quot;&gt;&lt;strong&gt;Our Eight Questions:&lt;/strong&gt;&lt;/h2&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
-    &lt;p&gt;Does the company compete in a large market with a defensible position?&lt;/p&gt;
+    &lt;p&gt;Does the company compete in a &lt;strong&gt;large market&lt;/strong&gt; with a defensible position?&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Are the staff talented and motivated to keep growing with the company?&lt;/p&gt;
+    &lt;p&gt;Are the staff &lt;strong&gt;talented and motivated&lt;/strong&gt; to keep growing with the company?&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Do the products lead their category in domestic and international markets?&lt;/p&gt;
+    &lt;p&gt;Do the products &lt;strong&gt;lead their category&lt;/strong&gt; in global markets?&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Is leadership actively considering societal impacts from the company’s expansion?&lt;/p&gt;
+    &lt;p&gt;Is leadership actively considering &lt;strong&gt;societal impacts&lt;/strong&gt; from their expansion?&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Does the company transact profitably with all of its customers?&lt;/p&gt;
+    &lt;p&gt;Does the company &lt;strong&gt;transact profitably&lt;/strong&gt; with all customers?&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;What low cost marketing channels are available to access new customers?&lt;/p&gt;
+    &lt;p&gt;How does the team transform profits into &lt;strong&gt;shareholder value&lt;/strong&gt;?&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;How does the team transform profits into shareholder value?&lt;/p&gt;
+    &lt;p&gt;What &lt;strong&gt;low-cost marketing channels&lt;/strong&gt; are available to access customers?&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Are shares available at a clear discount to the company’s potential?&lt;/p&gt;
+    &lt;p&gt;Are shares available at a &lt;strong&gt;clear discount&lt;/strong&gt; to the company’s potential?&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Company-released financial statements, annual reports, and transcripts are an excellent place to start answering those questions. But to figure out if it’s not just a good investment, but really a great investment, we have to go a step further.&lt;/p&gt;
+&lt;p&gt;Company-released financial statements and reports are an excellent place to start. But to figure out if it’s a once-in-a-lifetime investment, we have to go a step further.&lt;/p&gt;
 
 &lt;h2 id=&quot;alternative-data-sources&quot;&gt;&lt;strong&gt;Alternative Data Sources:&lt;/strong&gt;&lt;/h2&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;LinkedIn Premium has a tool that tells you how quickly a company is growing its employee base what types of employees they are hiring: is the company hiring salespeople and growing revenue, or is the company in investment-mode and hiring more engineers to build things?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Former employees: send a message to someone’s that has been out of the company for 1+ years; most people enjoy talking about their careers&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;appfigures: for free, they’ll tell you how many ratings by # of stars an app is getting each month on Android or Apple — the growth in review counts provide a great measure of the apps popularity and growth&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Google Sheet: build a basic financial projection — what numbers do you think the company will do? Insiders and analysts fail to accurately forecast their own business all the time, so go ahead and take a shot!&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Google Alerts: setup an alert to receive a daily digest on all the news that’s coming out on the company.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;With modern tools, we can use a whole lot more than company-released statistics to evaluate investments. Here are some examples:&lt;/p&gt;
 
-&lt;p&gt;There are additional tools out there - email receipt tracking, private company revenue estimates - but you have to pay money for those!&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;LinkedIn Premium:&lt;/strong&gt; see the number of employees by function at a company. Are they hiring salespeople to grow revenue, or hiring engineers to invest in new products?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;appfigures:&lt;/strong&gt; track the number of ratings that apps are receiving each month in the Apple and Android stores. How popular is the app and are its ratings improving over time?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Seeking Alpha:&lt;/strong&gt; read management transcripts from conferences and quarterly calls to see how insiders are running the company. Are they prioritizing the right growth initiatives?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Former Employees:&lt;/strong&gt; connect with someone on LinkedIn that works in the same industry as your target investment. What do they think about the business?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Google Alerts:&lt;/strong&gt; receive a daily digest on all the news around a specific company. Are customers raving or complaining about it? How do world events affect the business?&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;While the web has made it easier than ever to find the right answers, the hard part is exercising patience and only buying additional shares when the market offers a price that just can’t be beat.&lt;/p&gt;
+&lt;p&gt;The web has made it easier than ever to find answers. After you find a great company, the next challenge is to be patient enough to wait for the market to offer a price that just can’t be beat.&lt;/p&gt;
 
 &lt;h2 id=&quot;about-upholdings&quot;&gt;&lt;strong&gt;About Upholdings&lt;/strong&gt;&lt;/h2&gt;
 
-&lt;p&gt;Upholdings is built for the next generation of investors. We manage a concentrated portfolio of the best public and private growth companies profitably reshaping big industries. We combine data-driven tools with expert-led insights to find the best opportunities to grow your hard-earned savings.&lt;/p&gt;</content><author><name></name></author><summary type="html">Every investor needs two things to evaluate a potential investment: (1) the right questions, and (2) tools to answer those questions. Below are examples from Upholdings that we employ to deliver market beating returns.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/more%20apple.jpeg" /></entry></feed>
+&lt;p&gt;Upholdings is built for the next generation of investors. We manage a concentrated portfolio of the best public and private growth companies profitably reshaping big industries.&lt;/p&gt;</content><author><name></name></author><summary type="html">Every investor needs two things to evaluate a potential investment: (1) the right questions, and (2) tools to answer those questions. Below are examples from Upholdings that we use to deliver market-beating returns.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/more%20apple.jpeg" /></entry></feed>
