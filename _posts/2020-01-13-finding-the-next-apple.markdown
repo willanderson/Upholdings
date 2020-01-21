@@ -19,33 +19,33 @@ Every investor needs two things to evaluate a potential investment: (1) the righ
 
 2. Are the staff **talented and motivated** to keep growing with the company?
 
-3. Do the products **lead their category** in domestic and international markets?
+3. Do the products **lead their category** in global markets?
 
-4. Is leadership actively considering **societal impacts** from the company’s expansion?
+4. Is leadership actively considering **societal impacts** from their expansion?
 
-5. Does the company **transact profitably** with all of its customers?
+5. Does the company **transact profitably** with all customers?
 
-6. What **low-cost marketing channels** are available to access new customers?
+6. What **low-cost marketing channels** are available to access customers?
 
 7. How does the team transform profits into **shareholder value**?
 
 8. Are shares available at a **clear discount** to the company’s potential?
 
-Company-released financial statements and reports are an excellent place to start answering these questions. But to figure out if it's a once-in-a-lifetime investment, we have to go a step further.
+Company-released financial statements and reports are an excellent place to start. But to figure out if it's a once-in-a-lifetime investment, we have to go a step further.
 
 ## **Alternative Data Sources:**
 
-The information age brought on by the internet and mobile devices offers us more than company-released statistics to evaluate investments. Here are some examples:
+With modern tools, we can use a whole lot more than company-released statistics to evaluate investments. Here are some examples:
 
 * **LinkedIn Premium:** see the number of employees by function at a company. Are they hiring salespeople to grow revenue, or hiring engineers to invest in new products?
 
-* **appfigures:** track the number of ratings that apps are receiving each month in the Apple and Android app stores. How popular is the app and are ratings improving over time?
+* **appfigures:** track the number of ratings that apps are receiving each month in the Apple and Android stores. How popular is the app and are its ratings improving over time?
 
-* **Seeking Alpha:** read management transcripts from conferences and quarterly calls to see how insiders are planning the future of the company. Are they prioritizing the right growth initiatives?
+* **Seeking Alpha:** read management transcripts from conferences and quarterly calls to see how insiders are running the company. Are they prioritizing the right growth initiatives?
 
-* **Former Employees** (or Competitors): connect with someone on LinkedIn that works in the same industry as your target investment. What do they think about the business?
+* **Former Employees:** connect with someone on LinkedIn that works in the same industry as your target investment. What do they think about the business?
 
-* **Google Alerts:** receive a daily digest on all the news around a specific company. Are customers raving or complaining about it? How do world events affect the company?
+* **Google Alerts:** receive a daily digest on all the news around a specific company. Are customers raving or complaining about it? How do world events affect the business?
 
 The web has made it easier than ever to find answers. But once you find a great company, the hard part is being patient and only acquiring shares when the market offers a price that just can’t be beat.
 
