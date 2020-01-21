@@ -37,15 +37,15 @@ Company-released financial statements and reports are an excellent place to star
 
 With modern tools, we can use a whole lot more than company-released statistics to evaluate investments. Here are some examples:
 
-* **LinkedIn Premium:** see the number of employees by function at a company. Are they hiring salespeople to grow revenue, or hiring engineers to invest in new products?
+1. **LinkedIn Premium:** see the number of employees by function at a company. Are they hiring salespeople to grow revenue, or hiring engineers to invest in new products?
 
-* **appfigures:** track the number of ratings that apps are receiving each month in the Apple and Android stores. How popular is the app and are its ratings improving over time?
+2. **appfigures:** track the number of ratings that apps are receiving each month in the Apple and Android stores. How popular is the app and are its ratings improving over time?
 
-* **Seeking Alpha:** read management transcripts from conferences and quarterly calls to see how insiders are running the company. Are they prioritizing the right growth initiatives?
+3. **Seeking Alpha:** read management transcripts from conferences and quarterly calls to see how insiders are running the company. Are they prioritizing the right growth initiatives?
 
-* **Former Employees:** connect with someone on LinkedIn that works in the same industry as your target investment. What do they think about the business?
+4. **Former Employees:** connect with someone on LinkedIn that works in the same industry as your target investment. What do they think about the business?
 
-* **Google Alerts:** receive a daily digest on all the news around a specific company. Are customers raving or complaining about it? How do world events affect the business?
+5. **Google Alerts:** receive a daily digest on all the news around a specific company. Are customers raving or complaining about it? How do world events affect the business?
 
 The web has made it easier than ever to find answers. After you find a great company, the next challenge is to be patient enough to wait for the market to offer a price that just can’t be beat.
 
