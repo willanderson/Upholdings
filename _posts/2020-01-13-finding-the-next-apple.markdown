@@ -47,8 +47,8 @@ With modern tools, we can use a whole lot more than company-released statistics 
 
 * **Google Alerts:** receive a daily digest on all the news around a specific company. Are customers raving or complaining about it? How do world events affect the business?
 
-The web has made it easier than ever to find answers. But once you find a great company, the hard part is being patient and only acquiring shares when the market offers a price that just can’t be beat.
+The web has made it easier than ever to find answers. After you find a great company, the next challenge is to be patient enough to wait for the market to offer a price that just can’t be beat.
 
 ## **About Upholdings**
 
-Upholdings is built for the next generation of investors. We manage a concentrated portfolio of the best public and private growth companies profitably reshaping big industries. We combine data-driven tools with expert-led insights to find the best opportunities to grow your hard-earned savings.
+Upholdings is built for the next generation of investors. We manage a concentrated portfolio of the best public and private growth companies profitably reshaping big industries.
