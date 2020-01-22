@@ -23,11 +23,11 @@ Every investor needs two things to evaluate a potential investment: (1) the righ
 
 4. Is leadership actively considering **societal impacts** from their expansion?
 
-5. Does the company **transact profitably** with all customers?
+5. What **low-cost marketing channels** are available to access customers?
 
-6. How does the team transform profits into **shareholder value**?
+6. Does the company **transact profitably** with all customers?
 
-7. What **low-cost marketing channels** are available to access customers?
+7. How does the team transform profits into **shareholder value**?
 
 8. Are shares available at a **clear discount** to the company’s potential?
 
