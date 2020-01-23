@@ -32,6 +32,8 @@
 
 
 
+
+
 <nav id="navbar" class="w-100 fixed z-9999 initial">
   <div class="ph5-ns ph3 ph3-m pv2 flex w-100 justify-between items-center">
     <a href="#top" class="logo pv2">
@@ -45,9 +47,16 @@
       </svg>
     </a>
     <div class="flex-ns pv2 items-center space-between right-links">
-      <a href="#mc_embed_signup" class="ml2 f6 mr4 dn dn-m db-l dim">Our Portfolio</a>
-      <a href="#mc_embed_signup"> <button class="pointer f6 link br2 ph3 pv2 lh-copy dn dn-m dib-l white bg-green br-pill">Contact Us</button></a>
+      <!-- <a href="#mc_embed_signup" class="ml2 f6 mr4 dn dn-m db-l dim">Our Portfolio</a> -->
+      <a href="/insights/" class="ml2 f6 mr1 dib dim ">Insights</a>
+      <a href="#mc_embed_signup" class="ml3"> <button class="pointer f6 link br2 ph3 pv2 lh-copy dn dn-m dib-l white bg-green br-pill">Contact Us</button></a>
     </div>
+    <!-- <div id="mMenu" class="dn-m dn-l dib pointer">
+      <div class="bar1"></div>
+      <div class="bar2"></div>
+      <div class="bar3"></div>
+    </div> -->
+
 
   </div>
 </nav>
@@ -101,10 +110,10 @@
 
 <!-- Footer -->
 
-<div id="footer" class="flex w-100 min-vh-100 items-center justify-start bg-blue pv4 relative">
+<div id="footer" class="flex w-100 min-vh-100 items-center justify-start bg-black white pv4 relative">
   <div class="center flex flex-column justify-center z-999 mw9 ph5-l ph4-m ph3">
     <h1 class="f-subheadline f-mobileheadline super mb0 tc">Learn More</h1>
-    <div class="f5 w-100 lh-copy off-black tc ph4">To see our current portfolio, email us below:</div>
+    <div class="f5 w-100 lh-copy tc ph4">To see our current portfolio, email us below:</div>
     <div id="mc_embed_signup" class="mt4 mh4-l mh0">
   <form action="https://upholdings.us3.list-manage.com/subscribe/post?u=fc1e7406ff62578d54afc5686&amp;id=3bf57bfe36" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate center" target="_blank" novalidate">
     <fieldset class="cf bn email-form">
@@ -119,9 +128,6 @@
       <div class="response" id="mce-success-response" style="display:none"></div>
     </div>
   </form>
-  <div id="success" class="dn">
-    <div class="f5 w-100 lh-copy off-black tc ph4"><i>Thanks, we’ll be in touch.</i></div>
-  </div>
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
 <script type='text/javascript'>
@@ -142,6 +148,28 @@
     ftypes[5] = 'birthday';
   }(jQuery));
   var $mcj = jQuery.noConflict(true);
+
+  var target = document.getElementById('mce-success-response');
+
+  // create an observer instance
+  var observer = new MutationObserver(function(mutations) {
+    mutations.forEach(function(mutation) {
+      if (target.innerHTML === "Thank you for subscribing!") {
+        target.innerHTML = "Thanks - check your inbox in the next minute.";
+      }
+    });
+  });
+
+  // configuration of the observer:
+  var config = {
+    attributes: true,
+    childList: true,
+    characterData: true
+  };
+
+  // pass in the target node, as well as the observer options
+  observer.observe(target, config);
+
 </script>
 
   </div>
