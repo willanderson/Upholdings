@@ -20,13 +20,13 @@ It has a 5-year\+ technology advantage over its biggest competitor:
 
 Booking.com vs. Airbnb: The DNA of these companies is very strong, but very different. Booking.com's technology primarily replaced the travel agent by empowering any user of the internet to find and book all aspects of their trip. Airbnb's technology unlocked an entirely new category of hospitality enabling anyone to become a host. Never-before-seen properties are now possible with Airbnb.
 
-It's business model generates cashflow that the company uses to power its own growth: 
+It's business model generates cashflow that the company uses to power its own growth:
 
-80% of properties are booked 10 days or more in advance. When you book an Airbnb, you pay 50% at the time of the booking. This means the company gets cash before it has to pay it out to the hosts. Hosts are not paid until 1-2 days after guest arrives. Airbnb still has all of the venture capital money that it raised. 
+80% of properties are booked 10 days or more in advance. When you book an Airbnb, you pay 50% at the time of the booking. This means the company gets cash before it has to pay it out to the hosts. Hosts are not paid until 1-2 days after guest arrives. Airbnb still has all of the venture capital money that it raised.
 
 And it's just getting started:
 
-Most investors write articles after they've made their money. We think it's important for our investors to transparently ride along with us. Airbnb's shareholders are holding on -- most are not looking to exit in the IPO.
+Anyone can belong anywhere. Most investors write articles after they've made their money. We think it's important for our investors to transparently ride along with us. Airbnb's shareholders are holding on -- most are not looking to exit in the IPO.
 
 Ways to Invest
 
