@@ -1,11 +1,9 @@
 ---
 title: 'Airbnb: Not the Next IPO Flop'
 date: 2020-01-27 20:39:00 Z
-summary: 'Airbnb has reshaped how the world travels with nearly $100 billion in cumulative
-  bookings. Armed with a business model that generates cash and a really big industry,
-  you get a company primed to perform post-IPO. Here’s our analysis.
-
-'
+summary: Airbnb has powered nearly $100 billion in cumulative bookings, changing how
+  the world travels. Armed with a business model that generates cash in one of the
+  biggest industries, you get a company primed to perform post-IPO.
 image: "/uploads/Picture1.png"
 ---
 
