@@ -11,7 +11,7 @@ image: "/uploads/Image%202020-01-30%20at%209.33.18%20AM.png"
 
 The global travel and tourism industry generates $8.8 trillion in activity every year. Airbnb, founded in 2008, is on track to complete over **$30 billion\* in bookings** in 2020 alone.
 
-Traditional hospitality providers, like Marriott, had to spend billions building hotels to accommodate travelers. Airbnb, by contrast, invests in modern technology that enables **any property owner** to become a host.
+Their new model has unlocked a new type of travel: vacationing in your own region. You no longer have to get on a plane to fly somewhere aspirational; you can now find opportunities to getaway in your surrounding communities.
 
 ## **It's Business Model Generates A Lot Of Cash:**
 
@@ -19,13 +19,13 @@ Uber, WeWork, and Slack were all introduced to public investors with businesses 
 
 Airbnb, by contrast, **still holds more than $3 billion** of the $3.4 billion it raised from investors. They have a great business model: the majority of properties are paid for at least 10 days in advance, but hosts don't get paid until after guests arrive. This generates billions in 'float' across millions of listings.
 
-## **It’s Online:**
+## **It’s Creating An Ecosystem Of New Companies:**
 
-There are many ways to track the growth of businesses built in the digital world.
-AirDNA metrics
-SensorTower downloads: Airbnb’s share of the total rose from 42% in 2015 to 69% in 2019.
+One sign of a great investment are platforms that enable other new businesses to prosper. Airbnb's core offering  is an investment in modern technology that enables **any property owner** to become a host, and thus, a business owner.
 
-We’ve been acquiring shares in Airbnb via Forge Global, and expect to remain investors years beyond their IPO later this year.
+To further support this community of entrepreneurs, other services like AirDNA have sprouted up. SensorTower estimates that Airbnb’s share of homesharing app downloads rose from 42% in 2015 to 69% in 2019. That means the company's leadership is spending time on the right things.
+
+We’ve been acquiring shares in Airbnb via Forge Global, and plan to be investors for decades.
 
 ## **About Upholdings**
 
