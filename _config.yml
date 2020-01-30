@@ -5,6 +5,7 @@ collections:
   posts:
     title: Posts
     output: true
+    layout: post
   uploads:
     title: Uploads
     output: true
@@ -13,6 +14,7 @@ defaults:
     path: ''
     type: posts
   values:
+    layout: post
     summary: Add a summary to your article here
     image: 
     alt: Add alt text to the above image

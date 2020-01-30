@@ -3,32 +3,29 @@ layout: default
 ---
 
 {% include header-dark.html %}
-<div class="w-100 pt5-l pt6-ns pt5 min-vh-100 ph3">
+<div class="w-100 pt5-l pt6-ns pv5 ph3 lorem">
   {% for post in site.posts %}
-  <div data-aos="fade-in" class="articles mw8 mt4 center bb b--light-gray h8"
-  <div class="bt bb b--black-10">
-      <a class="db pv4 ph3 ph0-l no-underline dim" href="{{post.url}}">
-        <div class="flex flex-column flex-row-ns">
-          <div class="pr3-ns mb4 mb0-ns w-100 w-40-l">
-            <img src="{{post.image}}" class="db" alt="{post.alt}">
-          </div>
-          <div class="w-100 w-60-l pl2-ns flex flex-column justify-between h-auto">
-            <span>
-              <p class="smallcaps mb2 mt0">{{ post.categories }}</p>
-              <h1 class="f2 fw1 mt0 lh-title super mb2">{{ post.title }}</h1>
-              <p class="f5 lh-copy america mt0 measure-wide">
-                {{ post.summary }}
-              </p>
-            </span>
-
-            <p class="off-black f7 mb0">
-              {{ post.date | date: "%B %d, %Y" }}
-            </p>
-          </div>
+  <div data-aos="fade-in" class="articles mw8 mt4 center bb b--light-gray h8">
+    <a class="db pv4 ph3 ph0-l no-underline dim" href="{{post.url}}">
+      <div class="flex flex-column flex-row-ns">
+        <div class="pr3-ns mb4 mb0-ns w-100 w-40-l">
+          <img src="{{post.image}}" class="db" alt="{post.alt}">
         </div>
-      </a>
-    </div>
-    </div>
+        <div class="w-100 w-60-l pl2-ns flex flex-column justify-between h-auto">
+          <span>
+            <p class="smallcaps mb2 mt0">{{ post.categories }}</p>
+            <h1 class="f2 fw1 mt0 lh-title super mb2">{{ post.title }}</h1>
+            <p class="f5 lh-copy america mt0 measure-wide">
+              {{ post.summary }}
+            </p>
+          </span>
+          <p class="off-black f7 mb0">
+            {{ post.date | date: "%B %d, %Y" }}
+          </p>
+        </div>
+      </div>
+    </a>
+  </div>
   {% endfor %}
 </div>
 
