@@ -1,16 +1,5 @@
 $(document).ready(function() {
 
-  // var target = $('#downarrow');
-  //
-  //
-  // $(window).on('scroll', function() {
-  //   var st = $(this).scrollTop();
-  //   target.css({
-  //     'opacity': 1 - st / 50
-  //   });
-  // });
-  //
-
   $("#navbar").removeClass("scrolled");
 
   $('a[href^="#"]').click(function(e) {
@@ -40,18 +29,6 @@ $(document).ready(function() {
   });
 
 
-  // $window.scroll(function() {
-  //   if (($window.scrollTop() >= 1) && ($window.scrollTop() + $(window).height() < $(document).height())) {
-  //     $("#navbar").addClass("scrolled")
-  //   } else if (($window.scrollTop() >= 1) && ($window.scrollTop() + $(window).height() < $(document).height())) {
-  //     $("#navbar").removeClass("bottom")
-  //     $("#navbar").addClass("scrolled")
-  //   } else {
-  //     $("#navbar").removeClass("scrolled")
-  //     $("#navbar").addClass("initial")
-  //   }
-  // });
-
 
   $("#navbar").removeClass("scrolled")
   $("#navbar").addClass("initial")
@@ -64,28 +41,6 @@ $(document).ready(function() {
       $("#navbar").addClass("initial")
     }
   });
-
-
-  var target = document.getElementById('mce-success-response');
-
-  // create an observer instance
-  var observer = new MutationObserver(function(mutations) {
-    mutations.forEach(function(mutation) {
-      if (target.innerHTML === "Thank you for subscribing!") {
-        target.innerHTML = "Thanks - check your inbox in the next minute.";
-      }
-    });
-  });
-
-  // configuration of the observer:
-  var config = {
-    attributes: true,
-    childList: true,
-    characterData: true
-  };
-
-  // pass in the target node, as well as the observer options
-  observer.observe(target, config);
 
 
 

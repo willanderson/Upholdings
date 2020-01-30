@@ -12,9 +12,6 @@
       <div class="response" id="mce-success-response" style="display:none"></div>
     </div>
   </form>
-  <div id="success" class="dn">
-    <div class="f5 w-100 lh-copy off-black tc ph4"><i>Thanks, we’ll be in touch.</i></div>
-  </div>
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
 <script type='text/javascript'>
@@ -35,4 +32,26 @@
     ftypes[5] = 'birthday';
   }(jQuery));
   var $mcj = jQuery.noConflict(true);
+
+  var target = document.getElementById('mce-success-response');
+
+  // create an observer instance
+  var observer = new MutationObserver(function(mutations) {
+    mutations.forEach(function(mutation) {
+      if (target.innerHTML === "Thank you for subscribing!") {
+        target.innerHTML = "Thanks - check your inbox in the next minute.";
+      }
+    });
+  });
+
+  // configuration of the observer:
+  var config = {
+    attributes: true,
+    childList: true,
+    characterData: true
+  };
+
+  // pass in the target node, as well as the observer options
+  observer.observe(target, config);
+
 </script>
