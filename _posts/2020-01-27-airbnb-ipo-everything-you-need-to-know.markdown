@@ -17,9 +17,9 @@ Traditional hospitality providers, like Marriott, had to spend billions building
 
 Uber, WeWork, and Slack were all introduced to public investors with businesses that took billions to build and were still losing cash. Their valuations all flopped - the public market cannot apply a sustainable valuation to unsustainable business practices.
 
-Airbnb, by contrast, **still holds more than $3 billion** of the $3.4 billion it raised from investors. Part of this is explained by their business model: the majority of properties are paid for at least 10 days in advance, but hosts don't get paid out until after guests arrive. This creates billions in cash 'float' across millions of Airbnb listings.
+Airbnb, by contrast, **still holds more than $3 billion** of the $3.4 billion it raised from investors. They have a great business model: the majority of properties are paid for at least 10 days in advance, but hosts don't get paid until after guests arrive. This generates billions in 'float' across millions of listings.
 
-## **It’s online:**
+## **It’s Online:**
 
 There are many ways to track the growth of businesses built in the digital world.
 AirDNA metrics
@@ -29,6 +29,6 @@ We’ve been acquiring shares in Airbnb via Forge Global, and expect to remain i
 
 ## **About Upholdings**
 
-Upholdings is built for the next generation of investors. We are expanding access to the best investment opportunities for any investor seeking superior long-term investment performance.
+Upholdings is built for the next generation of investors. We are expanding access to the best investment opportunities for any investor seeking superior long-term performance.
 
 *Credits: \*Upholdings estimate, Photo via Unsplash, World Travel and Tourism Council, My Property Host, AirDNA*
