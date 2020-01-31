@@ -9,26 +9,24 @@ image: "/uploads/Image%202020-01-30%20at%209.33.18%20AM.png"
 
 ## **It’s Reshaping A Huge Industry:**
 
-The global travel and tourism industry generates $8.8 trillion in activity every year. Airbnb, founded in 2008, is on track to complete over **$30 billion\* in bookings** in 2020 alone.
+Global travel and tourism generates $8.8 trillion in activity every year. Airbnb, founded in 2008, is on track to complete over **$30 billion\* in bookings** in 2020 alone.
 
-Their new model has unlocked a new type of travel: vacationing in your own region. You no longer have to get on a plane to fly somewhere aspirational; you can now find opportunities to getaway in your surrounding communities.
+Their new model has unlocked a new type of vacation: the local one. With consumers trading in goods for experiences, Airbnb is at the center of growing the experience economy.
 
 ## **It's Business Model Generates A Lot Of Cash:**
 
-Uber, WeWork, and Slack were all introduced to public investors with businesses that took billions to build and were still losing cash. Their valuations all flopped - the public market cannot apply a sustainable valuation to unsustainable business practices.
+Uber and WeWork were both introduced to public investors with businesses that took billions to build and were still losing cash. Their valuations flopped: the public market cannot sustainably value unsustainable business practices.
 
 Airbnb, by contrast, **still holds more than $3 billion** of the $3.4 billion it raised from investors. They have a great business model: the majority of properties are paid for at least 10 days in advance, but hosts don't get paid until after guests arrive. This generates billions in 'float' across millions of listings.
 
-## **It’s Creating An Ecosystem Of New Companies:**
+## **And It’s Delivering Value To All Stakeholders:**
 
-One sign of a great investment are platforms that enable other new businesses to prosper. Airbnb's core offering  is an investment in modern technology that enables **any property owner** to become a host, and thus, a business owner.
+The best investments in our current economy are empowering individuals to **lead more prosperous lives**. The gig economy creates more sources of hourly income, online marketplaces enable small businesses to sell anywhere in the world, and property sharing can turn any owner into a host.
 
-To further support this community of entrepreneurs, other services like AirDNA have sprouted up. SensorTower estimates that Airbnb’s share of homesharing app downloads rose from 42% in 2015 to 69% in 2019. That means the company's leadership is spending time on the right things.
-
-We’ve been acquiring shares in Airbnb via Forge Global, and plan to be investors for decades.
+With an estimated 30%\+ market share of worldwide property sharing, we expect Airbnb to continue leading the industry forward. We own shares for our fund through Forge Global.
 
 ## **About Upholdings**
 
 Upholdings is built for the next generation of investors. We are expanding access to the best investment opportunities for any investor seeking superior long-term performance.
 
-*Credits: \*Upholdings estimate, Photo via Unsplash, World Travel and Tourism Council, My Property Host, AirDNA*
+*Credits: \*Upholdings estimate, Photo via Unsplash, World Travel and Tourism Council, My Property Host*
