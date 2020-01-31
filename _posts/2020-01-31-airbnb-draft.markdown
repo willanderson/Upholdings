@@ -9,8 +9,6 @@ summary: 'Airbnb has powered nearly $100 billion in bookings, changing how the w
 image: "/uploads/Screen%20Shot%202020-01-31%20at%2010.49.00%20AM.png"
 ---
 
-Here's our take.
-
 ## **It’s Reshaping A Huge Industry:**
 
 Global travel and tourism generates $8.8 trillion in activity every year. Airbnb, founded in 2008, is on track to complete **over $30 billion in bookings** in 2020 alone.
@@ -19,7 +17,7 @@ Their model has unlocked a new type of vacation: the local one. With consumers t
 
 ## **It's Business Model Generates A Lot Of Cash:**
 
-Uber was introduced to public investors with a business that took billions to build and still needed billions more. Its valuation flopped: the public market cannot sustainably value unsustainable business practices.
+Uber was introduced to public investors with a business that took billions to build and still needed billions more. The valuation flopped: the public market cannot sustainably value unsustainable business practices.
 
 Airbnb, by contrast, **still holds an estimated $3 billion** of the $3.4 billion it raised from investors. They have a great business model: the majority of properties are paid for 10 days in advance with hosts getting paid *after* guests arrive. This generates billions of 'float' to the company.
 
