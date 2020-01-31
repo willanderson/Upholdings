@@ -2,7 +2,7 @@
 title: 'Airbnb: Not the Next IPO Flop'
 date: 2020-01-27 20:39:00 Z
 summary: Airbnb has powered nearly $100 billion in bookings, changing how the world
-  travels. Armed with a business model that generates cash in one of the biggest industries,
+  travels. Armed with a cash-generating business model in one of the largest industries,
   they are primed to perform post-IPO.
 image: "/uploads/Image%202020-01-30%20at%209.33.18%20AM.png"
 ---
@@ -15,9 +15,9 @@ Their new model has unlocked a new type of vacation: the local one. With consume
 
 ## **It's Business Model Generates A Lot Of Cash:**
 
-Uber and WeWork were both introduced to public investors with businesses that took billions to build and were still losing cash. Their valuations flopped: the public market cannot sustainably value unsustainable business practices.
+Uber was introduced to public investors with a business that took billions to build and still needed billions more. Their valuation flopped: the public market cannot sustainably value unsustainable business practices.
 
-Airbnb, by contrast, **still holds more than $3 billion** of the $3.4 billion it raised from investors. They have a great business model: the majority of properties are paid for at least 10 days in advance, but hosts don't get paid until after guests arrive. This generates billions in 'float' across millions of listings.
+Airbnb, by contrast, **still holds an estimated $3 billion** of the $3.4 billion it raised from investors. They have a great business model: the majority of properties are paid for at least 10 days in advance, but hosts don't get paid until after guests arrive. This generates billions in "float" to the company.
 
 ## **And It’s Delivering Value To All Stakeholders:**
 
