@@ -2,8 +2,8 @@
 title: 'Airbnb: Not The Next IPO Flop'
 date: 2020-01-31 18:43:00 Z
 summary: 'Airbnb has powered nearly $100 billion in bookings, changing how the world
-  travels. Armed with a business model that generates cash in one of the biggest industries,
-  they are primed to perform post-IPO.
+  travels. Armed with a cash-generating business model in one of the biggest industries,
+  they are primed to perform post-IPO. Here''s our take.
 
 '
 image: "/uploads/Screen%20Shot%202020-01-31%20at%2010.49.00%20AM.png"
@@ -11,7 +11,7 @@ image: "/uploads/Screen%20Shot%202020-01-31%20at%2010.49.00%20AM.png"
 
 ## **It’s Reshaping A Huge Industry:**
 
-Global travel and tourism generates $8.8 trillion in activity every year. Airbnb, founded in 2008, is on track to complete over $30 billion in bookings in 2020 alone.
+Global travel and tourism generates $8.8 trillion in activity every year. Airbnb, founded in 2008, is on track to complete **over $30 billion in bookings** in 2020 alone.
 
 Their model has unlocked a new type of vacation: the local one. With consumers trading goods for experiences, Airbnb is at the center of enabling the experience economy.
 
