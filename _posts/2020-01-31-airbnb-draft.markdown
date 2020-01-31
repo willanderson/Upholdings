@@ -9,6 +9,7 @@ summary: 'Airbnb has powered nearly $100 billion in bookings, changing how the w
 image: "/uploads/Screen%20Shot%202020-01-31%20at%2010.49.00%20AM.png"
 ---
 
+
 ## **It’s Reshaping A Huge Industry:**
 
 Global travel and tourism generates $8.8 trillion in activity every year. Airbnb, founded in 2008, is on track to complete **over $30 billion in bookings** in 2020 alone.
