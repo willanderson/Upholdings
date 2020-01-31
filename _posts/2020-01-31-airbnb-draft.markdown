@@ -3,11 +3,13 @@ title: 'Airbnb: Not The Next IPO Flop'
 date: 2020-01-31 18:43:00 Z
 summary: 'Airbnb has powered nearly $100 billion in bookings, changing how the world
   travels. Armed with a cash-generating business model in one of the biggest industries,
-  they are primed to perform post-IPO. Here''s our take.
+  they are primed to perform post-IPO.
 
 '
 image: "/uploads/Screen%20Shot%202020-01-31%20at%2010.49.00%20AM.png"
 ---
+
+Here's our take.
 
 ## **It’s Reshaping A Huge Industry:**
 
