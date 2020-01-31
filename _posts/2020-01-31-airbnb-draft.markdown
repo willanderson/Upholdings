@@ -25,10 +25,10 @@ Airbnb, by contrast, **still holds an estimated $3 billion** of the $3.4 billion
 
 The best investments in our current economy are empowering individuals to lead more prosperous lives. The gig economy creates more opportunities for hourly income, online marketplaces enable small businesses to sell to anyone around the world, and property sharing turns any property owner into a host.
 
-With an estimated **30%\+ market share** of worldwide property sharing, we expect Airbnb to continue leading the industry forward. We acquired shares for our fund through Forge Global.
+With an estimated **30%\+ market share of worldwide property sharing**, we expect Airbnb to continue leading the industry forward. We acquired shares for our fund through Forge Global.
 
 ## **About Upholdings**
 
 Upholdings is built for the next generation of investors. We are expanding access to the best investment opportunities and sharing our research along the way.
 
-*\*Credits:* *Upholdings estimate, Photo via Unsplash, World Travel and Tourism Council, My Property Host*
+*Credits:* \**Upholdings estimate, Photo via Unsplash, WTTC*
