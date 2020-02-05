@@ -1,5 +1,5 @@
 ---
-title: 'Airbnb: Not The Next IPO Flop'
+title: 'Airbnb: The Next Great IPO'
 date: 2020-01-31 18:43:00 Z
 summary: 'Airbnb has powered nearly $100 billion in bookings, changing how the world
   travels. Armed with a cash-generating business model in one of the biggest industries,
