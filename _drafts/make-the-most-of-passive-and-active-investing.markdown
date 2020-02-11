@@ -16,6 +16,8 @@ Performance = buy-and-hold best-in-class companies at bargain prices
 
 Taxes = low turnover portfolio, ideally owned via an exchange-traded fund that has additional tax benefits compared to a mutual fund.
 
+[IMG_1664.JPG](/uploads/IMG_1664.JPG)
+
 Fees = focus on funds charging <1% in annual fees. Low turnover funds also mean lower fees due to diminished brokerage charges.
 
 Passive: buy-and-hold, low fees, tax efficient compounding.\
