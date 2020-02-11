@@ -1,6 +1,7 @@
 ---
 title: Make the Most of Passive and Active
 date: 2020-01-21 03:01:00 Z
+published: false
 summary: Passive (index-based) investing now represents >50% of equity owned in the
   US. Learn how to incorporate the best of both passive and active investing to position
   your portfolio for maximum performance.
@@ -11,6 +12,8 @@ alt: Passive and active investing to beat the S&P
 Upholdings Combines the Best of Passive and Active Investing
 
 Three characteristics of a portfolio: performance, taxes, fees.
+
+> Three characteristics of a portfolio: performance, taxes, fees.
 
 Performance = buy-and-hold best-in-class companies at bargain prices
 
