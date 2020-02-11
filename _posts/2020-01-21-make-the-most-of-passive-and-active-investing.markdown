@@ -1,6 +1,7 @@
 ---
 title: Make the Most of Passive and Active
 date: 2020-01-21 03:01:00 Z
+published: false
 summary: Passive (index-based) investing now represents >50% of equity owned in the
   US. Learn how to incorporate the best of both passive and active investing to position
   your portfolio for maximum performance.
