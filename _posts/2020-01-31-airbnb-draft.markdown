@@ -7,8 +7,10 @@ summary: 'Airbnb has powered nearly $100 billion in bookings, changing how the w
 
 '
 image: "/uploads/Screen%20Shot%202020-01-31%20at%2010.49.00%20AM.png"
+credit:
+- Unsplash
+- https://unsplash.com/
 ---
-
 
 ## **It’s Reshaping A Huge Industry:**
 
@@ -32,4 +34,4 @@ With an estimated **30%\+ market share of worldwide property sharing**, we expec
 
 Upholdings is built for the next generation of investors. We are expanding access to the best investment opportunities and sharing our research along the way.
 
-*Credits:* \**Upholdings estimate, Photo via Unsplash, WTTC*
+*Credits:* \**Upholdings estimate, WTTC*
