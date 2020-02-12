@@ -5,6 +5,7 @@ summary: Airbnb has powered nearly $100 billion in cumulative bookings, changing
   the world travels. Armed with a business model that generates cash in one of the
   biggest industries, you get a company primed to perform post-IPO.
 image: "/uploads/Picture1.png"
+footer: small
 ---
 
 ## It’s reshaping a huge industry:
@@ -18,6 +19,7 @@ Traditional hospitality providers - like Marriott - had to spend billions buildi
 Uber, WeWork, and Slack were all introduced to public investors with businesses that took billions to build and were still losing cash. Their valuations all flopped - the public market cannot apply a sustainable valuation to unsustainable business practices.
 
 Airbnb, by contrast, still holds more than $3 billion of the $3.4 billion it raised from investors. Part of this is explained by their business model: 80% of properties are paid for at least 10 days in advance, but hosts are not paid until 1-2 days after guests arrive. 1-2 weeks of cashflow to the company across millions of Airbnbs creates billions in cash to manage the business.
+
 
 ## It’s online:
 

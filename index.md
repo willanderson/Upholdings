@@ -45,5 +45,5 @@ bio: |-
 
   Upholdings' flagship fund will open to additional investors in 2020. For more details, contact us below.
 layout: homepage
+footer: large
 ---
-
