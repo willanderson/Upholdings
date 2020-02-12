@@ -9,8 +9,8 @@ summary: A $1,000 investment in Apple 20 years ago is worth $87,000 today. Onlin
 image: "/uploads/more%20apple.jpeg"
 alt: Apple is the best growth investment
 credit:
-  - Unsplash
-  - https://unsplash.com/
+- Unsplash
+- https://unsplash.com/
 layout: post
 footer: small
 ---
