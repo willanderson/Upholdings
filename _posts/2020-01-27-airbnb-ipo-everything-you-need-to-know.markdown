@@ -1,11 +1,14 @@
 ---
 title: 'Airbnb: Not the Next IPO Flop'
 date: 2020-01-27 20:39:00 Z
+footer: small
 summary: Airbnb has powered nearly $100 billion in cumulative bookings, changing how
   the world travels. Armed with a business model that generates cash in one of the
   biggest industries, you get a company primed to perform post-IPO.
 image: "/uploads/Picture1.png"
-footer: small
+credit:
+- Unsplash
+- https://unsplash.com/
 ---
 
 ## It’s reshaping a huge industry:
@@ -20,7 +23,6 @@ Uber, WeWork, and Slack were all introduced to public investors with businesses 
 
 Airbnb, by contrast, still holds more than $3 billion of the $3.4 billion it raised from investors. Part of this is explained by their business model: 80% of properties are paid for at least 10 days in advance, but hosts are not paid until 1-2 days after guests arrive. 1-2 weeks of cashflow to the company across millions of Airbnbs creates billions in cash to manage the business.
 
-
 ## It’s online:
 
 There are many ways to track the growth of businesses built in the digital world.
@@ -33,4 +35,4 @@ We’ve been acquiring shares in Airbnb via Forge Global, and expect to remain i
 
 Upholdings is built for the next generation of investors. We are expanding access to the best investment opportunities for any investor seeking superior long-term investment performance.
 
-*Credits: \*Upholdings estimate, Photo via Unsplash, World Travel and Tourism Council, My Property Host, AirDNA*
+*Credits: \*Upholdings estimate, World Travel and Tourism Council, My Property Host, AirDNA*
