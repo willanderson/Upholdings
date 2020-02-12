@@ -696,12 +696,12 @@ article ol li {
   max-width: 680px;
 }
 
-article strong { 
+article strong {
   font-weight: inherit !important;
 }
 
 
-article h1, h2, h3, h4, h5 {
+article > h1, h2, h3, h4, h5 {
   font-family: 'GT America';
   font-weight: 500 !important;
   margin-bottom: 0;
