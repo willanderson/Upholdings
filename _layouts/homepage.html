@@ -7,7 +7,7 @@ layout: default
 <div id="home" class="flex w-100 calc-vh items-center justify-center bg-transparent relative">
   <div class="w-100 mw9 ph5-ns ph4 ph4-m white tl-ns tc z-999">
     <h1 data-aos="fade-up" data-aos-delay="300" data-aos-duration="500" class="f-headline f-mobileheadline  super mb0">{{ page.hero.headline }}</h1>
-    <h4 data-aos="fade-up" data-aos-delay="600" class="f4 o-80 lh-copy measure">{{ page.hero.body }}</h4>
+    <h4 data-aos="fade-up" data-aos-delay="600" class="f4 o-80 lh-copy measure america">{{ page.hero.body }}</h4>
   </div>
   <div class="fullscreenvideo">
     <video preload="auto" poster="assets/poster.jpg" playsinline autoplay muted loop class="bg-blue center">
@@ -52,10 +52,4 @@ layout: default
 
 <!-- Footer -->
 
-<div id="footer" class="flex w-100 min-vh-100 items-center justify-start bg-black white pv4 relative">
-  <div class="center flex flex-column justify-center z-999 mw9 ph5-l ph4-m ph3">
-    <h1 class="f-subheadline f-mobileheadline super mb0 tc">{{site.footer.headline}}</h1>
-    <div class="f5 w-100 lh-copy tc ph4">{{site.footer.body}}</div>
-    {% include mc-form.html %}
-  </div>
-</div>
+{% include footer.html %}

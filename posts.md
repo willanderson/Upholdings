@@ -1,5 +1,6 @@
 ---
-permalink: "/insights/"
+permalink: "/research/"
 layout: posts
+footer: small
 ---
 
