@@ -22,11 +22,15 @@ The company has turned a high value destination for people into a high performin
 
 We compare growth in people using the platform against other major platforms. We use Monthly Active Users to estimate people and Gross Profit to estimate value generated per person. Our findings:
 
+![first numbers.png](/uploads/first%20numbers.png)
+
 Pinterest is rapidly growing the number of people on its platform, while also having a lot of room left to increase profit per person over time. For our complete database of profit per person metrics across 50+ companies, email us at invest@upholdings.com.
 
 ## How To Value Their Growth
 
 Revenue is a bad metric for evaluating the success of new businesses. So instead, we prefer Margin = Gross Profit - Marketing to filter out revenue that’s brought in from excessive discounting or marketing spend. Here’s how recent IPOs stack up:
+
+![second numbers.png](/uploads/second%20numbers.png)
 
 Pinterest is again in a rare position. The company is generating a lot of margin, while still available at a valuation supported by its 40%+ growth. For our complete database Market Cap / Margin metrics across 50+ companies, email us at invest@upholdings.com.
 
