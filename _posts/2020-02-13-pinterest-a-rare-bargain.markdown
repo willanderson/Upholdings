@@ -24,7 +24,7 @@ We use two metrics to understand growth: Monthly Active Users and Gross Profit p
 
 ![first numbers-33c20e.png](/uploads/first%20numbers-33c20e.png)
 
-Pinterest is rapidly growing both the number of people on its platform, and the gross profit per person. The company still has a long way to go to match the giants. **For a complete database of profit per person metrics across 50+ companies, email us at invest@upholdings.com.**
+Pinterest is rapidly growing both the number of people on its platform and the profit per person. The company still has a long way to go to match the giants. **For a complete database of profit per person metrics across 50+ companies, email us at invest@upholdings.com.**
 
 ## How To Value Their Growth
 
