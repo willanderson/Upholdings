@@ -33,3 +33,5 @@ With an estimated **30%+ market share of worldwide property sharing**, we expect
 Upholdings is built for the next generation of investors. We are expanding access to the best investment opportunities and sharing our research along the way.
 
 *Credits:* \**Upholdings estimate, WTTC*
+
+![Screen Shot 2020-02-12 at 1.26.28 PM-30efc6.png](/uploads/Screen%20Shot%202020-02-12%20at%201.26.28%20PM-30efc6.png)
