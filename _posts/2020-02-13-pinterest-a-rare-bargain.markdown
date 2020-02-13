@@ -20,24 +20,24 @@ The company has turned a high value destination for people into a high performin
 
 ## How Fast Is It Growing?
 
-We compare growth in people using the platform against other major platforms. We use Monthly Active Users to estimate people and Gross Profit to estimate value generated per person. Our findings:
+We use two metrics to understand growth: Monthly Active Users and Gross Profit per Person. For example, Apple has an installed base of 1.5B people using their products every month, and generates $68 of gross profit per person per year:
 
 ![first numbers.png](/uploads/first%20numbers.png)
 
-Pinterest is rapidly growing the number of people on its platform, while also having a lot of room left to increase profit per person over time. For our complete database of profit per person metrics across 50+ companies, email us at invest@upholdings.com.
+Pinterest is rapidly growing the number of people on its platform, as well as the gross profit per person. The company still has a long way to go to match the giants. For a complete database of profit per person metrics across 50+ companies, email us at invest@upholdings.com.
 
 ## How To Value Their Growth
 
-Revenue is a bad metric for evaluating the success of new businesses. So instead, we prefer Margin = Gross Profit - Marketing to filter out revenue that’s brought in from excessive discounting or marketing spend. Here’s how recent IPOs stack up:
+Revenue is a bad metric for evaluating the success of new businesses. So instead, we use Margin = Gross Profit - Marketing to filter out revenue that’s brought in from excessive discounting or marketing spend. Here’s how recent IPOs stack up:
 
 ![second numbers.png](/uploads/second%20numbers.png)
 
-Pinterest is again in a rare position. The company is generating a lot of margin, while still available at a valuation supported by its 40%+ growth. For our complete database Market Cap / Margin metrics across 50+ companies, email us at invest@upholdings.com.
+Pinterest is again in a rare position. The company is generating a lot of margin, while still available at a valuation supported by its 40%+ growth. For a complete database of Market Cap / Margin metrics across 50+ companies, email us at invest@upholdings.com.
 
 At Upholdings, we began buying Pinterest shares below $20, and believe that current market pricing still offers a double-digit return to investors with a long term approach (3+ years).
 
 ## About Upholdings
 
-Upholdings is built for the next generation of investors. We manage a concentrated portfolio of the best public and private growth companies profitably reshaping big industries.
+Upholdings is built for the next generation of investors. We manage a concentrated portfolio of the best public and private growth companies and transparently share our research along the way.
 
 *Credits: Pubilc Filings, SimilarWeb, SensorTower*
