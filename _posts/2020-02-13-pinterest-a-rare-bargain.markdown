@@ -22,7 +22,7 @@ The company has turned a high value destination for people into a high performin
 
 We use two metrics to understand growth: Monthly Active Users and Gross Profit per Person. For example, Apple has an installed base of 1.5B people using their products every month, and generates $67.72 of gross profit per person per year:
 
-![first numbers-f3d636.png](/uploads/first%20numbers-f3d636.png)
+![first numbers-33c20e.png](/uploads/first%20numbers-33c20e.png)
 
 Pinterest is rapidly growing the number of people on its platform, as well as the gross profit per person. The company still has a long way to go to match the giants. For a complete database of profit per person metrics across 50+ companies, email us at invest@upholdings.com.
 
