@@ -23,5 +23,7 @@ Taxes = low turnover portfolio, ideally owned via an exchange-traded fund that h
 
 Fees = focus on funds charging <1% in annual fees. Low turnover funds also mean lower fees due to diminished brokerage charges.
 
+![Screen Shot 2020-02-12 at 1.26.28 PM.png](/uploads/Screen%20Shot%202020-02-12%20at%201.26.28%20PM.png)
+
 Passive: buy-and-hold, low fees, tax efficient compounding.\
 Active: concentrated, rebalance away from companies that fail to execute.
