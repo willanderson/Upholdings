@@ -40,4 +40,4 @@ At Upholdings, we began buying Pinterest shares below $20, and believe that curr
 
 Upholdings is built for the next generation of investors. We manage a concentrated portfolio of the best public and private growth companies and transparently share our research along the way.
 
-*Credits: Public Filings, SimilarWeb, SensorTower*
+*Credits: Public Filings, SimilarWeb, SensorTower*, valuation comparison updated from original analysis
