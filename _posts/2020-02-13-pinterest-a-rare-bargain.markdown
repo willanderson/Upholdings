@@ -14,9 +14,9 @@ Pinterest was introduced to the public less than a year ago. Like most IPOs, the
 
 ## Pinterest Is A Keeper
 
-**If Google killed the library, Pinterest is killing the magazine.** It’s a place for planning - weddings, dinner parties, outfits, kitchen remodels, office parks, you name it. 
+**If Google killed the library, Pinterest is killing the magazine.** It’s a place for planning - weddings, dinner parties, outfits, kitchen remodels, office parks, you name it.
 
-The company has turned a high value destination for people into a high performing place for advertisers. Many digital advertisers are calling out Pinterest as the most important new platform to watch. 
+The company has turned a high value destination for people into a high performing place for advertisers. Many digital advertisers are calling out Pinterest as the most important new platform to watch.
 
 ## How Fast Is It Growing?
 
@@ -24,17 +24,17 @@ We use two metrics to understand growth: Monthly Active Users and Gross Profit p
 
 ![first numbers-33c20e.png](/uploads/first%20numbers-33c20e.png)
 
-Pinterest is rapidly growing both the number of people on its platform and the profit per person. The company still has a long way to go to match the giants. **For a complete database of profit per person metrics across 50+ companies, email us at invest@upholdings.com.**
+Pinterest is rapidly growing both the number of people on its platform and the profit per person. The company still has a long way to go to match the giants. **For a complete database of profit per person metrics across 50\+ companies, email us at invest@upholdings.com.**
 
 ## How To Value Their Growth
 
 Revenue is a bad metric for evaluating the success of new businesses. So instead, we use Margin = Gross Profit - Marketing to filter out revenue that’s brought in from excessive discounting or marketing spend. Here’s how a few recent IPOs stack up:
 
-![second numbers.png](/uploads/second%20numbers.png)
+![Screen Shot 2020-02-27 at 10.43.15 AM.png](/uploads/Screen%20Shot%202020-02-27%20at%2010.43.15%20AM.png)
 
-Pinterest is again in a rare position. The company is generating a lot of margin, while still available at a valuation supported by its 40%+ growth rate. **For a complete database of Market Cap / Margin metrics across 50+ companies, email us at invest@upholdings.com.**
+Pinterest is again in a rare position. The company is generating a lot of margin, while still available at a valuation supported by its 40%\+ growth rate. **For a complete database of Market Cap / Margin metrics across 50\+ companies, email us at invest@upholdings.com.**
 
-At Upholdings, we began buying Pinterest shares below $20, and believe that current market pricing still offers a double-digit return to investors with a long term approach (3+ years).
+At Upholdings, we began buying Pinterest shares below $20, and believe that current market pricing still offers a double-digit return to investors with a long term approach (3\+ years).
 
 ## About Upholdings
 
