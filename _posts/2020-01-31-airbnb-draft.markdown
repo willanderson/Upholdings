@@ -1,6 +1,7 @@
 ---
 title: 'Airbnb: The Next Great IPO'
 date: 2020-01-31 18:43:00 Z
+published: false
 summary: 'Airbnb has powered nearly $100 billion in bookings, changing how the world
   travels. Armed with a cash-generating business model in one of the biggest industries,
   they are primed to perform post-IPO.
