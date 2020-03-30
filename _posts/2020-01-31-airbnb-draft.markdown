@@ -20,11 +20,11 @@ Their model has unlocked a new type of vacation: the local one. With consumers t
 
 Uber was introduced to public investors with a business that took billions to build and still needed billions more. The valuation flopped: the public market cannot sustainably value unsustainable business practices.
 
-Airbnb, by contrast, still holds an estimated $3 billion of the $3.4 billion it raised from investors. They have a great business model: the majority of properties are paid for 10 days in advance with hosts getting paid *after* guests arrive. With a strong balance sheet and cashflow positive business model, this company is prepared for any severe economic disruptions that might arise.
+Airbnb, by contrast, still holds an estimated $3 billion of the $3.4 billion it raised from investors. They have a great business model: the majority of properties are paid for 10 days in advance with hosts getting paid *after* guests arrive. With a strong balance sheet and a cashflow positive business model, the company is prepared for any severe economic disruptions that might arise.
 
 ## **Delivering Value To All Stakeholders:**
 
-The best investments in our economy empower individuals to lead more prosperous lives. Property sharing networks have helped turn any owner into a host. Much like other online marketplaces that have enabled a record number of small businesses to operate out of their homes.
+The best investments in our economy empower individuals to lead more prosperous lives. These business models are often structured as online marketplaces, enabling buyers and sellers to connect in an honest way. Real estate is one of the largest industries in the world, and property sharing networks have only just begun to help owners extract more value from their homes.
 
 With an estimated **30%\+ market share of worldwide property sharing**, we expect Airbnb to continue leading the industry forward. We acquired shares for our fund through Forge Global.
 
