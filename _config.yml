@@ -2,10 +2,13 @@
 title: Upholdings
 timezone: UTC
 collections:
-  posts:
+  research:
     title: Posts
     output: true
     layout: post
+  posts:
+    title: Posts
+    output: true
   uploads:
     title: Uploads
     output: true
