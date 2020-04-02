@@ -5,6 +5,7 @@ collections:
   research:
     title: Posts
     output: true
+    permalink: research
     layout: post
   posts:
     title: Posts
