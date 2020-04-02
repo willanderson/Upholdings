@@ -1,6 +1,8 @@
 ---
+title: 1Q20 Letter to Shareholders
 permalink: "/research/"
-layout: posts
+published: false
 footer: small
+layout: posts
 ---
 
