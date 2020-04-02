@@ -12,7 +12,7 @@ During the 2008 financial crisis, we learned that banks and homeowners were borr
 
 Over the last few months, we learned how unprepared we were for a global pandemic. A lack of protocols and protective equipment has resulted in on-the-fly decision-making. But, we are also beginning to see solutions form. Social distancing is being practiced widely, and many workers have figured out how to repurpose their roles remotely.
 
-Through this, we are witnessing the expanding potential of the world’s online infrastructure. The web is keeping us connected and informed, while also enabling essential businesses to function. Many companies will benefit from this acceleration of offline to online practices. But first they must survive a recession. Within our portfolio, we are focused on:
+Through this, **we are witnessing the expanding potential of the world’s online infrastructure**. The web is keeping us connected and informed, while also enabling essential businesses to function. Many companies will benefit from this acceleration of offline to online practices. But first they must survive a recession. Within our portfolio, we are focused on:
 
 1. **Leadership:** Are managers making difficult decisions while supporting those in need?
 1. **Liquidity:** Can the company afford at least two years of expenses if revenue falls 50% or more?
@@ -34,8 +34,8 @@ We continue to work towards making this fund available as an ETF. Our progress w
 
 In the quarter, we supported two organizations to help those impacted:
 
-1. **COREGives:** Restaurants were the first industry in the US to abruptly lay off millions; this organization helps affected families with their essential expenses.
-1. **Give2Asia:** China was the first to experience the virus and had the least amount of time to prep its hospitals; this organization helped to provide essential medical supplies.
+1. **[COREGives](https://coregives.org/):** Restaurants were the first industry in the US to abruptly lay off millions; this organization helps affected families with their essential expenses.
+1. **[Give2Asia](https://give2asia.org/donate-help-fight-coronavirus-outbreak-wuhan-china/):** China was the first to experience the virus and had the least amount of time to prep its hospitals; this organization helped to provide essential medical supplies.
 
 Please direct any questions to invest@upholdings.com. We reply to emails in the order we receive them, and do our best to follow-up with everyone.
 
