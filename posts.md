@@ -1,5 +1,6 @@
 ---
+permalink: "/research/"
 layout: posts
 footer: small
-permalink: /research/
 ---
+

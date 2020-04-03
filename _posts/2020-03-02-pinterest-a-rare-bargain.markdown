@@ -1,11 +1,12 @@
 ---
 title: 'Pinterest: A Rare Bargain'
-image: "/uploads/Screen%20Shot%202020-02-12%20at%208.42.35%20PM.png"
 date: 2020-03-02 18:10:00 Z
+image: "/uploads/Screen%20Shot%202020-02-12%20at%208.42.35%20PM.png"
 credit:
 - Pinterest
 - https://pinterest.com
 ---
+
 ---
 title: 1Q20 Letter to Shareholders
 published: true

@@ -1,10 +1,9 @@
 ---
 title: 'Airbnb: The Next Great IPO'
-published: true
 date: 2020-01-31 18:43:00 Z
-summary: 'Airbnb has powered nearly $100 billion in bookings, changing how the world
+summary: Airbnb has powered nearly $100 billion in bookings, changing how the world
   travels. Armed with a cash-generating business model in one of the biggest industries,
-  they are primed to perform post-IPO.'
+  they are primed to perform post-IPO.
 image: "/uploads/Screen%20Shot%202020-01-31%20at%2010.49.00%20AM.png"
 credit:
 - Unsplash
