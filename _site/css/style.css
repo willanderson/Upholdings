@@ -1,0 +1,740 @@
+@font-face {
+  font-family: 'GT Super';
+  src: url('../assets/fonts/GTSuperDisplay-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GT Super Text';
+  src: url('../assets/fonts/GTSuperText-Book.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GT Super Text';
+  src: url('../assets/fonts/GTSuperText-BookItalic.otf') format('opentype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'GT Super Text';
+  src: url('../assets/fonts/GTSuperText-Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GT Super Text';
+  src: url('../assets/fonts/GTSuperText-MediumItalic.otf') format('opentype');
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'GT Super Text';
+  src: url('../assets/fonts/GTSuperText-Bold.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GT Super Text';
+  src: url('../assets/fonts/GTSuperText-BoldItalic.otf') format('opentype');
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'GT America';
+  src: url('../assets/fonts/GT-America-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GT America';
+  src: url('../assets/fonts/GT-America-Bold.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GT America';
+  src: url('../assets/fonts/GT-America-Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+
+
+
+.child {
+  width: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "GT America", "Helvetica", sans-serif;
+  color: #1D2632;
+}
+
+.current {
+  text-decoration: underline;
+}
+
+a {
+  color: #1D2632;
+}
+
+@media screen and (max-width: 30em) {
+  .f-mobileheadline {
+    font-size: 4rem;
+  }
+}
+
+::-webkit-input-placeholder {
+  color: #A7AFB9;
+}
+
+::-moz-placeholder {
+  color: #A7AFB9;
+}
+
+:-ms-input-placeholder {
+  color: #A7AFB9;
+}
+
+::-ms-input-placeholder {
+  color: #A7AFB9;
+}
+
+::placeholder {
+  color: #A7AFB9;
+}
+
+h1, h2, h3, h4 {
+  font-weight: normal;
+}
+
+.grey {
+  color: #667281
+}
+
+.black {
+  color: #1D2632;
+}
+
+.bg-black {
+  background-color: #1D2632;
+}
+
+.off-black {
+  color: #667281;
+}
+
+.bg-off-black {
+  background-color: #667281;
+}
+
+.obj-contain {
+  -o-object-fit: contain;
+  object-fit: contain;
+  -o-object-position: 0 0;
+  object-position: 0 0;
+}
+
+.calc-vh {
+  height: 100vh;
+  height: calc(var(--vh, 1vh) * 100);
+}
+
+button {
+  border-color: none;
+  border-width: 0px;
+  border-style: none;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: .5px;
+  line-height: 40px;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  font-family: "GT America", "Helvetica", sans-serif;
+  font-weight: 500;
+}
+
+.height-50 {
+  height: 50px;
+}
+
+.button {
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: .5px;
+  font-family: "GT America", "Helvetica", sans-serif;
+  font-weight: 500;
+}
+
+.right-links a {
+  font-weight: 500;
+  text-transform: uppercase;
+  font-size: 12px;
+  letter-spacing: .5px;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+.fontsize18 {
+  font-size: 18px;
+}
+
+@media screen and (min-width: 60em) {
+  .min-700 {
+    min-width: 800px;
+  }
+}
+
+.caslon {
+  font-family: "Big Caslon";
+}
+
+.super {
+  font-family: "GT Super", serif;
+}
+
+.america {
+    font-family: "GT America", "Helvetica", sans-serif;
+}
+
+.bg-blue {
+  background-color: #EAECF0;
+}
+
+.bg-white {
+  background-color: #fff;
+}
+
+.bg-green {
+  background-color: #69BF85;
+}
+
+.submit {
+  position: relative;
+}
+
+.submit {
+  width: 64px;
+  height: 64px;
+  position: absolute;
+  background-image: url(https://assets-global.website-files.com/583347ca8f6c7ee058111b3b/5b74866816d8f280d8c4abaf_arrow-large-white.svg);
+  background-position: 50% 50%;
+  background-size: 14px;
+  background-repeat: no-repeat;
+  font-size: 0.001px;
+}
+
+.grid {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (1fr)[3];
+  grid-template-columns: repeat(3, 1fr);
+  row-gap: 40px;
+}
+
+[class*="bar"] {
+  -ms-grid-row: 1;
+  grid-row-start: 1;
+  -ms-grid-row-span: 100;
+  grid-row-end: 101;
+  border-radius: 6px 6px 0 0;
+  text-align: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+  -ms-flex-pack: end;
+  justify-content: end;
+  -webkit-box-align: end;
+  -ms-flex-align: end;
+  align-items: flex-end;
+  position: relative;
+}
+
+.chart {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr 40px 1fr;
+  grid-template-columns: repeat(2, 1fr);
+  grid-column-gap: 40px;
+  height: 300px;
+  width: 100vw;
+  max-width: 600px;
+}
+
+.bar-2 {
+  -ms-grid-row: 50;
+  grid-row-start: 50;
+  background-color: #777D84;
+}
+
+.label {
+  position: absolute;
+  bottom: -32px;
+}
+
+.cantwell img {
+  width: 30%;
+  min-width: 260px;
+  max-width: 100%;
+  align-self: flex-start;
+  height: auto;
+  flex-shrink: 0;
+}
+
+/* Slick Stuff */
+.slick-dotted.slick-slider {
+  margin-bottom: 0px;
+}
+
+.slick-dots {
+  bottom: -25px;
+  left: -80px;
+  width: 60%;
+}
+
+.slick-dots li.slick-active button:before {
+  color: white;
+  opacity: 1;
+}
+
+.slick-dots li button:before {
+  color: white;
+}
+
+.slick-next {
+  right: 40px;
+}
+
+.slick-next:before {
+  content: ' ';
+  width: 20px;
+  height: 18px;
+  display: block;
+  background-image: url('../assets/next.svg');
+  background-size: 20px 18px;
+}
+
+.icon-hold {
+  position: relative;
+}
+
+.icon0:before {
+  content: ' ';
+  width: 32px;
+  height: 32px;
+  display: block;
+  background-image: url('../assets/trending_up.svg');
+  background-size: 32px 32px;
+  position: absolute;
+  left: -44px;
+  top: 0;
+}
+
+.icon1:before {
+  content: ' ';
+  width: 32px;
+  height: 32px;
+  display: block;
+  background-image: url('../assets/research.svg');
+  background-size: 32px 32px;
+  position: absolute;
+  left: -44px;
+  top: 0;
+}
+
+.icon2:before {
+  content: ' ';
+  width: 32px;
+  height: 32px;
+  display: block;
+  background-image: url('../assets/lowcost.svg');
+  background-size: 32px 32px;
+  position: absolute;
+  left: -44px;
+  top: 0;
+}
+
+@media screen and (max-width: 60em) {
+  .icon0:before {
+    display: none;
+  }
+
+  .icon1:before {
+    display: none;
+  }
+
+  .icon2:before {
+    display: none;
+  }
+}
+
+.subhead {
+  width: 100%;
+  top: 22px;
+  left: 0;
+  text-align: center;
+}
+
+.animated-hero {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  color: #fff;
+  background: -o-radial-gradient(76.12% 49.98%, 1440px, #FFFFFF 10%, rgba(231, 240, 250, 0) 100%), #E7E9ED;
+  background: radial-gradient(1440px at 76.12% 49.98%, #FFFFFF 10%, rgba(231, 240, 250, 0) 100%), #E7E9ED;
+  background-size: 400% 400%;
+  -webkit-animation: Gradient 15s ease infinite;
+  animation: Gradient 15s ease infinite;
+}
+
+@-webkit-keyframes Gradient {
+  0% {
+    background-position: 0% 50%
+  }
+
+  50% {
+    background-position: 100% 50%
+  }
+
+  100% {
+    background-position: 0% 50%
+  }
+}
+
+@keyframes Gradient {
+  0% {
+    background-position: 0% 50%
+  }
+
+  50% {
+    background-position: 100% 50%
+  }
+
+  100% {
+    background-position: 0% 50%
+  }
+}
+
+.small-links {
+  -ms-flex-item-align: end;
+  align-self: flex-end;
+}
+
+.fullscreenvideo {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  min-height: 100%;
+  min-width: 100%;
+  -webkit-transform-style: preserve-3d;
+}
+
+.fullscreenvideo video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  min-height: 100%;
+  min-width: 100%;
+  height: auto;
+  width: 100%;
+  object-fit: cover;
+}
+
+.bg-transparent {
+  background: transparent;
+}
+
+/* Header */
+nav {
+  -webkit-transition: all 250ms ease-out;
+  -o-transition: all 250ms ease-out;
+  transition: all 250ms ease-out;
+  transition-property: color, fill, stroke, background-color, box-shadow, -webkit-box-shadow;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+nav svg path {
+  fill: inherit;
+  transition-property: color, fill, stroke, background-color, box-shadow, -webkit-box-shadow;
+}
+
+nav a {
+  color: inherit;
+}
+
+.initial {
+  background-color: transparent;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  color: white;
+}
+
+.initial svg {
+  fill: white;
+}
+
+.scrolled {
+  -webkit-box-shadow: 0 2px 4px 0 rgba(76, 76, 75, .1);
+  box-shadow: 0 2px 4px 0 rgba(76, 76, 75, .1);
+  background-color: rgba(255, 255, 255, 0.99);
+  color: #1D2632;
+}
+
+.scrolled svg {
+  fill: #1D2632;
+}
+
+.bottom svg {
+  fill: #1D2632;
+}
+
+.bottom {
+  background-color: trans;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.right-links {
+  opacity: 1;
+  -webkit-transition: all 250ms ease-out;
+  -o-transition: all 250ms ease-out;
+  transition: all 250ms ease-out;
+}
+
+.arrowdown {
+  position: absolute;
+  bottom: 22px;
+}
+
+.Background-esq3f2-0.gbMXpc {
+  background-color: transparent !important;
+}
+
+#closebutton {
+  right: 40px;
+  top: 40px;
+  z-index: 999;
+}
+
+.formoverlay {
+  visibility: hidden;
+  opacity: 0;
+  -webkit-transition: 500ms all ease;
+  -o-transition: 500ms all ease;
+  transition: 500ms all ease;
+}
+
+.active {
+  visibility: visible;
+  opacity: 1;
+}
+
+#navbar {
+  opacity: 1;
+  -webkit-transition: 250ms all ease;
+  -o-transition: 250ms all ease;
+  transition: 250ms all ease;
+}
+
+.noscroll {
+  overflow: hidden;
+}
+
+.noscroll #navbar {
+  z-index: -1;
+}
+
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+  .initial svg {
+    fill: #1D2632;
+  }
+
+  #navbar {
+    box-shadow: 0 2px 4px 0 rgba(76, 76, 75, .1);
+    background-color: rgba(255, 255, 255, 0.99) !important;
+    color: #1D2632;
+  }
+}
+
+/* Mailchimp */
+#mc_embed_signup input {
+  border-radius: 0px;
+  border-width: 0px;
+}
+
+#mc_embed_signup {
+  background-color: transparent;
+}
+
+#mc-embedded-subscribe {
+  display: inline-block;
+  clear: none;
+}
+
+#mc_embed_signup div#mce-responses {
+  padding: .35em .75em .625em;
+}
+
+
+#mc_embed_signup #mc-embedded-subscribe-form input.mce_inline_error {
+  border: 1px solid #e85c41;
+}
+
+/* Blog */
+
+.blog-header {
+  font-size: 52px;
+}
+
+article {
+  color: #333333
+;
+}
+
+article p {
+  font-family:  "GT Super Text";
+  font-size: 21px;
+  line-height: 1.5;
+  margin-top: 0px;
+  margin-bottom: 1em;
+}
+
+article ul {
+  font-family: "GT Super Text", Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
+  font-size: 21px;
+  line-height: 33px;
+}
+
+article h1 {
+  font-size: 55px;
+}
+
+.image-head {
+    max-width: 680px;
+}
+
+article img {
+  width: 100%;
+  height: auto;
+}
+
+article ol, ul {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+article ol, ul {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+article ul li {
+  list-style-type: disc;
+  display: list-item;
+  margin-left: 30px;
+  margin-top: .5em;
+}
+
+article ol li {
+  list-style-type: decimal;
+  display: list-item;
+  margin-left: 30px;
+  margin-top: .5em;
+}
+
+@media screen and (max-width: 60em) {
+  article li, ol {
+    margin-left: 0px;
+    padding-left: 0px;
+  }
+
+}
+
+.post-content > p:first-of-type:first-letter {
+    color: #333333;
+    float: left;
+    font-family: "GT Super";
+    font-size: 66px;
+    line-height: 60px;
+    padding-top: 2px;
+    padding-right: 10px;
+    padding-left: 0px;
+}
+
+
+.mw {
+  max-width: 680px;
+}
+
+article strong {
+  font-weight: inherit !important;
+}
+
+
+article > h1, h2, h3, h4, h5 {
+  font-family: 'GT America';
+  font-weight: 500 !important;
+  margin-bottom: 0;
+  margin-top: 1.72em;
+  margin-bottom: 0.5em;
+}
+
+
+.vitals a {
+  text-decoration: none;
+}
+
+.smallcaps {
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: .5px;
+}
+
+#share-buttons {
+  margin-left: -10px;
+  margin-bottom: 16px;
+}
+
+.smallform {
+  width: 480px;
+  max-width: 100%;
+
+}
+
+.footerbody{
+  font-size: 2rem;
+}
+
+.post-content > p:first-child {
+  margin-top: 1.72em;
+}
