@@ -51,6 +51,6 @@ In the quarter, we supported two organizations to help those impacted:
 
 * **[Give2Asia](https://give2asia.org/donate-help-fight-coronavirus-outbreak-wuhan-china/):** China was the first to experience the virus and had the least amount of time to prep its hospitals; this organization helped to provide essential medical supplies.
 
-Please direct any questions to invest@upholdings.com. We reply to emails in the order we receive them, and do our best to follow-up with everyone.
+Please direct any questions to invest@upholdings.com.
 
 Robert
