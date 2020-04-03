@@ -1,5 +1,15 @@
 ---
+title: 'Pinterest: A Rare Bargain'
+date: 2020-03-02 18:10:00 Z
+image: "/uploads/Screen%20Shot%202020-02-12%20at%208.42.35%20PM.png"
+credit:
+- Pinterest
+- https://pinterest.com
+---
+
+---
 title: 1Q20 Letter to Shareholders
+published: true
 date: 2020-04-02 18:10:00 Z
 summary: In the first quarter of 2020, we returned -14%, compared to the S&P 500 of
   -20%.

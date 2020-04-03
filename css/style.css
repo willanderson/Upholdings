@@ -635,8 +635,18 @@ article ul {
   line-height: 33px;
 }
 
+article ol {
+  font-family: "GT Super Text", Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
+  font-size: 21px;
+  line-height: 33px;
+}
+
 article h1 {
   font-size: 55px;
+}
+
+article h2 {
+  font-size: 32px;
 }
 
 .image-head {
@@ -663,6 +673,8 @@ article ul li {
   display: list-item;
   margin-left: 30px;
   margin-top: .5em;
+  font-size: inherit;
+  font-family: inherit;
 }
 
 article ol li {
@@ -677,7 +689,11 @@ article ol li {
     margin-left: 0px;
     padding-left: 0px;
   }
+}
 
+article ol {
+  margin-left: 0px;
+  padding-left: 0px;
 }
 
 .post-content > p:first-of-type:first-letter {
