@@ -3,6 +3,7 @@ title: 1Q20 Letter to Shareholders
 date: 2020-04-02 18:10:00 Z
 summary: In the first quarter of 2020, we returned -14%, compared to the S&P 500 of
   -20%.
+image: "/uploads/markus-spiske-3Tf1J8q9bBA-unsplash.jpg"
 ---
 
 The spread of COVID-19 has disrupted many industries and livelihoods, creating record levels of equity volatility. Governments and central banks have already stepped in to help, and are likely to do more. While we expect conditions to eventually improve, in all of our models **we assume that we are in an 18-month worldwide recession**.
