@@ -7,46 +7,34 @@ credit:
 - https://pinterest.com
 ---
 
----
-title: 1Q20 Letter to Shareholders
-published: true
-date: 2020-04-02 18:10:00 Z
-summary: In the first quarter of 2020, we returned -14%, compared to the S&P 500 of
-  -20%.
----
+Pinterest was introduced to the public less than a year ago. Like most IPOs, the stock has been volatile while the public figures out whether the company is a keeper.
 
-The spread of COVID-19 has disrupted many industries and livelihoods, creating record levels of equity volatility. Governments and central banks have already stepped in to help, and are likely to do more. While we expect conditions to eventually improve, in all of our models **we assume that we are in an 18-month worldwide recession**.
+## Pinterest Is A Keeper
 
-# Crisis Management
-During the 2008 financial crisis, we learned that banks and homeowners were borrowing too much. The US government later put in place new borrowing limits to constrain speculative behaviors. It worked: today, banks and homeowners are in a strong position to help others. Our country is built to recover and learn from its mistakes.
+**If Google killed the library, Pinterest is killing the magazine.** It’s a place for planning - weddings, dinner parties, outfits, kitchen remodels, office parks, you name it.
 
-Over the last few months, we learned how unprepared we were for a global pandemic. A lack of protocols and protective equipment has resulted in on-the-fly decision-making. But, we are also beginning to see solutions form. Social distancing is being practiced widely, and many workers have figured out how to repurpose their roles remotely.
+The company has turned a high value destination for people into a high performing place for advertisers. Many digital advertisers are calling out Pinterest as the most important new platform to watch.
 
-Through this, **we are witnessing the expanding potential of the world’s online infrastructure**. The web is keeping us connected and informed, while also enabling essential businesses to function. Many companies will benefit from this acceleration of offline to online practices. But first they must survive a recession. Within our portfolio, we are focused on:
+## How Fast Is It Growing?
 
-1. **Leadership:** Are managers making difficult decisions while supporting those in need?
-1. **Liquidity:** Can the company afford at least two years of expenses if revenue falls 50% or more?
-1. **Sales Channels:** How is the company accessing customers when other channels close?
+We use two metrics to understand growth: Monthly Active Users and Gross Profit per Person. For example, Apple has an installed base of 1.5B that grew 8% in 2019, and generated $67.72 of gross profit per person, down -4%:
 
-# More Volatility = More Opportunities
-During the first quarter, we repurposed 25% of our portfolio. This compares to <10% in a typical quarter. Below is a breakdown of our actions:
+![first numbers-33c20e.png](/uploads/first%20numbers-33c20e.png)
 
-- Exited holdings w/ extreme pandemic exposure: Eventbrite, Booking.com, Vail
-- Trimmed holdings trading at all-time high multiples: Adobe, Adyen, Netflix
-- Held onto Airbnb in spite of a -70% shock to the travel sector
-- Added to quality holdings at depressed prices: Pinterest, Starbucks, Spotify
-- Initiated new positions in great growth companies: Square, Shake Shack, Etsy
+Pinterest is rapidly growing both the number of people on its platform and the profit per person. The company still has a long way to go to match the giants. **For a complete database of profit per person metrics across 50\+ companies, email us at invest@upholdings.com.**
 
-Exiting three positions while initiating three in a single quarter is a rare event. We liken the travel industry in 2020 to the banking industry in 2008. There will be changes, some of which will limit old business models from returning to peak profitability. The US consumer, on the other hand, always comes back in a big way. **People will once again eat Shack Burgers, furnish their homes on Etsy, and wave their phones at Square readers to pay for lattes.**
+## How To Value Their Growth
 
-# Upholdings Updates
-We continue to work towards making this fund available as an ETF. Our progress was slowed a little bit by this crisis, but we are continuing to lay the groundwork.
+Revenue is a bad metric for evaluating the success of new businesses. So instead, we use Margin = Gross Profit - Marketing to filter out revenue that’s brought in from excessive discounting or marketing spend. Here’s how a few recent IPOs stack up:
 
-In the quarter, we supported two organizations to help those impacted:
+![Screen Shot 2020-02-27 at 10.43.15 AM.png](/uploads/Screen%20Shot%202020-02-27%20at%2010.43.15%20AM.png)
 
-1. **[COREGives](https://coregives.org/):** Restaurants were the first industry in the US to abruptly lay off millions; this organization helps affected families with their essential expenses.
-1. **[Give2Asia](https://give2asia.org/donate-help-fight-coronavirus-outbreak-wuhan-china/):** China was the first to experience the virus and had the least amount of time to prep its hospitals; this organization helped to provide essential medical supplies.
+Pinterest is again in a rare position. The company is generating a lot of margin, while still available at a valuation supported by its 40%\+ growth rate. **For a complete database of Market Cap / Margin metrics across 50\+ companies, email us at invest@upholdings.com.**
 
-Please direct any questions to invest@upholdings.com. We reply to emails in the order we receive them, and do our best to follow-up with everyone.
+At Upholdings, we began buying Pinterest shares below $20, and believe that current market pricing still offers a double-digit return to investors with a long term approach (3\+ years).
 
-Robert
+## About Upholdings
+
+Upholdings is built for the next generation of investors. We manage a concentrated portfolio of the best public and private growth companies and transparently share our research along the way.
+
+*Credits: Public Filings, SimilarWeb, SensorTower*, valuation comparison updated from original analysis
