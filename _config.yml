@@ -5,14 +5,14 @@ url: www.upholdings.com
 description: Compound your capital faster by investing into the best companies building
   our future.
 collections:
-  posts:
-    title: Posts
-    output: true
   research:
-    title: Research
+    title: Posts
     output: true
     permalink: research
     layout: post
+  posts:
+    title: Posts
+    output: true
   uploads:
     title: Uploads
     output: true
