@@ -1,6 +1,7 @@
 ---
 title: 1Q20 Letter to Shareholders
 date: 2020-04-02 18:10:00 Z
+published: false
 summary: In the first quarter of 2020, we returned -14%, compared to the S&P 500 of
   -20%.
 image: "/uploads/markus-spiske-3Tf1J8q9bBA-unsplash.jpg"
