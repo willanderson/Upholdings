@@ -7,7 +7,7 @@ summary: In the first quarter of 2020, we returned -14%, compared to the S&P 500
 
 The spread of COVID-19 has disrupted many industries and livelihoods, creating record levels of equity volatility. Governments and central banks have already stepped in to help, and are likely to do more. While we expect conditions to eventually improve, in all of our models **we assume that we are in an 18-month worldwide recession**.
 
-# Crisis Management
+## Crisis Management
 
 During the 2008 financial crisis, we learned that banks and homeowners were borrowing too much. The US government later put in place new borrowing limits to constrain speculative behaviors. It worked: today, banks and homeowners are in a strong position to help others. Our country is built to recover and learn from its mistakes.
 
@@ -21,7 +21,7 @@ Through this, **we are witnessing the expanding potential of the world’s onlin
 
 3. **Sales Channels:** How is the company accessing customers when other channels close?
 
-# More Volatility = More Opportunities
+## More Volatility = More Opportunities
 
 During the first quarter, we repurposed 25% of our portfolio. This compares to <10% in a typical quarter. Below is a breakdown of our actions:
 
@@ -37,7 +37,7 @@ During the first quarter, we repurposed 25% of our portfolio. This compares to <
 
 Exiting three positions while initiating three in a single quarter is a rare event. We liken the travel industry in 2020 to the banking industry in 2008. There will be changes, some of which will limit old business models from returning to peak profitability. The US consumer, on the other hand, always comes back in a big way. **People will once again eat Shack Burgers, furnish their homes on Etsy, and wave their phones at Square readers to pay for lattes.**
 
-# Upholdings Updates
+## Upholdings Updates
 
 We continue to work towards making this fund available as an ETF. Our progress was slowed a little bit by this crisis, but we are continuing to lay the groundwork.
 
