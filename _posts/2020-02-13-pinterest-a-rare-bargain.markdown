@@ -1,6 +1,9 @@
 ---
 title: 'Pinterest: A Rare Bargain'
-date: 2020-03-02 18:10:00 Z
+date: 2020-02-13 18:10:00 Z
+summary: 'It operates a top 50 worldwide website and mobile app. Even better, it has
+  a great business model: high-value searches that deliver results with rich and relevant
+  advertising. Our analysis below.'
 image: "/uploads/Screen%20Shot%202020-02-12%20at%208.42.35%20PM.png"
 credit:
 - Pinterest

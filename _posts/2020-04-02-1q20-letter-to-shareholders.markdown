@@ -1,8 +1,8 @@
 ---
 title: 1Q20 Letter to Shareholders
 date: 2020-04-02 18:10:00 Z
-summary: In the first quarter of 2020, we returned -14%, compared to the S&P 500 of
-  -20%.
+summary: In the first quarter of 2020, we returned -14% compared to the S&P 500 of
+  -20%. Our take on the current crisis is below.
 image: "/uploads/markus-spiske-3Tf1J8q9bBA-unsplash.jpg"
 credit:
 - Unsplash
@@ -39,7 +39,7 @@ During the first quarter, we repurposed 25% of our portfolio. This compares to <
 
 * Initiated new positions in great growth companies: Square, Shake Shack, Etsy
 
-Exiting three positions while initiating three in a single quarter is a rare event. We liken the travel industry in 2020 to the banking industry in 2008. There will be changes, some of which will limit old business models from returning to peak profitability. The US consumer, on the other hand, always comes back in a big way. **People will once again eat Shack Burgers, furnish their homes on Etsy, and wave their phones at Square readers to pay for lattes.**
+Exiting three positions while initiating three in a single quarter is a rare event. We liken the travel industry in 2020 to the banking industry in 2008. There will be changes, some of which will limit old business models from returning to peak profitability. The US consumer, on the other hand, always comes back in a big way. **People will once again eat Shack Burgers, furnish their homes on Etsy, and wave their phones at Square readers.**
 
 ## Upholdings Updates
 
@@ -51,6 +51,6 @@ In the quarter, we supported two organizations to help those impacted:
 
 * **[Give2Asia](https://give2asia.org/donate-help-fight-coronavirus-outbreak-wuhan-china/):** China was the first to experience the virus and had the least amount of time to prep its hospitals; this organization helped to provide essential medical supplies.
 
-Please direct any questions to invest@upholdings.com. We reply to emails in the order we receive them, and do our best to follow-up with everyone.
+Please direct any questions to invest@upholdings.com.
 
 Robert
