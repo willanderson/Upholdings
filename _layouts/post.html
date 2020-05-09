@@ -9,10 +9,14 @@ footer: small
 <div class="w-100 pt5-l pt6 ph3">
   <article class="pa4-m pa5-ns mb5">
     <div class="vitals mw center">
-      <div class="f7 mb3 ttu tracked"><a href="/research/">Research</a> </div>
+      <div class="f7 mb3 ttu tracked fw5"><a href="/research/"><i  class="fa fa-chevron-left"></i> Back</a> </div>
       <h1 class="lh-headline mt0 mb3 super">{{page.title}}</h1>
       <p class="mb3 off-black america">{{page.summary}}</p>
-      {% include share-buttons.html %}
+      <div class="flex items-center w-100 justify-between">
+        <p class="mb3 off-black america f6 gray">{{page.date | date: "%B %d, %Y" }}</p>
+        {% include share-buttons.html %}
+      </div>
+
     </div>
 
     <div class="image-head center">
