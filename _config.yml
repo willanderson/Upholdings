@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  jobs:
+    title: Jobs
+    output: true
 defaults:
 - scope:
     path: ''
@@ -16,7 +19,7 @@ defaults:
     layout: post
     footer: small
     summary: Add a summary to your article here
-    image: 
+    image:
     credit:
     - Unsplash
     - https://unsplash.com/
@@ -27,6 +30,6 @@ description: Compound your capital faster by investing into the best companies b
 footer:
   headline: Learn More
   body: 'To see our current portfolio, email us below:'
-baseurl: 
+baseurl:
 markdown: kramdown
 homepage_mov: https://player.vimeo.com/external/350425045.hd.mp4?s=1e1710a8d0737b10b0ed2bb5991f5a0ae4a65b41&profile_id=175

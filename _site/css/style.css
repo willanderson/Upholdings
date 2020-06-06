@@ -90,6 +90,11 @@ a {
   color: #1D2632;
 }
 
+br {
+   display: block;
+   margin: 10px 0;
+}
+
 @media screen and (max-width: 30em) {
   .f-mobileheadline {
     font-size: 4rem;

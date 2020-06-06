@@ -1,0 +1,25 @@
+---
+layout: default
+---
+{% assign page.footer = small %}
+{% include header-dark.html %}
+
+
+<div class="w-100 pt5 ph5-ns ph3 ph3-m">
+  <div class="mw8 center pt4 bb b--light-gray">
+    <h1 class="black super f2">Jobs</h1>
+    <p class="f5 lh-copy">To apply, email <a href="mailto:jobs@upholdings.com">jobs@upholdings.com</a> with your resume and relevant work sample.</p>
+  </div>
+
+  {% for job in site.jobs %}
+  {% capture string_with_newlines %} {{ job.description }} {% endcapture %}
+  <div class="pv4 bb b--light-gray mw8 center">
+    <h2 class="super mt0">{{ job.title }}</h2>
+    <div class="measure-wide f5 lh-copy america mid-gray"> {{ string_with_newlines | newline_to_br }}</div>
+    <p class="measure-wide f5 lh-copy america mid-gray"><span class="fw5 black">Experience:</span> {{ job.experience }}</p>
+    <p class="measure-wide f5 lh-copy america mid-gray"><span class="fw5 black">Work Sample:</span> {{ job.sample }}</p>
+  </div>
+
+  {% endfor %}
+</div>
+{% include footer.html %}
