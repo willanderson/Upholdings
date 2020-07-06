@@ -2,7 +2,7 @@
 title: 2Q20 Letter to Shareholders
 date: 2020-07-06 00:58:00 Z
 summary: In the second quarter of 2020, we returned +42% vs. the S&P 500 at +20%.
-  Read below for why we're worried about the butterfly effect right now.
+  Why we're worried about the butterfly effect right now.
 image: "/uploads/david-clode-sD5xXDlBY7Y-unsplash%20--%20winner.jpg"
 credit:
 - Unsplash, David Clode
