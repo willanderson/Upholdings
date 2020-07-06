@@ -3,11 +3,14 @@ title: 2Q20 Letter to Shareholders
 date: 2020-07-06 00:58:00 Z
 summary: In the second quarter of 2020, we returned +42% vs. the S&P 500 at +20%.
   Our take on investing during a pandemic is below.
+image: "/uploads/david-clode-sD5xXDlBY7Y-unsplash%20--%20winner.jpg"
+credit:
+- Unsplash, David Clode
 ---
 
 Most of our outperformance can be attributed to getting in at good prices, along with investors’ recent excitement for digitally distributed products. But we’re not out of the woods yet.
 
-# The Butterfly Effect
+## # The Butterfly Effect
 130 years ago, Eugene Schieffelin released sixty European Starlings into New York’s Central Park. He wanted the city to enjoy this bird species from one of Shakespeare’s plays. Today, there are over 200 million of [these destructive little birds](https://en.wikipedia.org/wiki/European_starling) all over the US. Small decisions can have large, and unanticipated consequences. 
 
 Our country is working through health, social, and economic crises all at once. Remedies that improve our standing in these areas will also affect investment performance in unforeseen ways. Airlines and other rescued industries might become more regulated. And inflation, dormant for the last 30 years, could make a big comeback.
