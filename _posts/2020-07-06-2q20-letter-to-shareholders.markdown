@@ -6,6 +6,7 @@ summary: In the second quarter of 2020, we returned +42% vs. the S&P 500 at +20%
 image: "/uploads/david-clode-sD5xXDlBY7Y-unsplash%20--%20winner.jpg"
 credit:
 - Unsplash, David Clode
+- https://unsplash.com/
 ---
 
 Market volatility remains very high. Most of our outperformance can be attributed to getting in at good prices, along with investors’ recent excitement for digitally distributed products. But we’re not out of the woods yet.
@@ -15,9 +16,9 @@ Market volatility remains very high. Most of our outperformance can be attribute
 
 Our country is working through health, social, and economic crises all at once. Remedies that improve our standing in these areas will also affect investment performance in unforeseen ways. Airlines and other rescued industries might become more regulated. And inflation, dormant for the last 30 years, could make a big comeback.
 
-Rather than trying to predict exactly what will happen, we manage through the outcomes of what *is* happening. Some stock prices are falling, creating opportunities to own great businesses at good prices. Most businesses will have to adapt to new circumstances, and we're backing those that we believe can.
+Rather than trying to predict exactly what will happen, we manage through the outcomes of what *is* happening. Some stock prices are falling, creating opportunities to own great businesses at good prices. Most businesses will have to adapt to these new circumstances, and we're backing those that we believe can.
 
-## Rapidly Changing Prices
+## Market Swings
 We’ve now experienced four straight months of high market volatility. Online-first companies have performed particularly well, but in some cases, investor expectations have run ahead of what’s possible. On the other hand, the market is offering good prices on companies enabling real life experiences. Below is a recap of our recent activity.
 
 We doubled down on Airbnb in the depths of the first shutdowns. We also started two new positions: Ulta Beauty (ULTA) operates a 30+ million strong customer loyalty program for skincare and beauty customers, and Howard Hughes (HHC) is a developer and operator of Master Planned Communities, a real estate model designed for continued reinvestment.
