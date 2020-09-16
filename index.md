@@ -4,8 +4,8 @@ hero:
   headline: Modern Investing.
   body: We invest in the best companies building our future.
 manifesto: Upholdings is an investment manager for the next generation of investors.
-  We operate one global fund that makes investments into companies - public and private
-  - reshaping their industries.
+  We operate one global fund that makes investments into companies reshaping their
+  industries.
 differenceA_h3: Maximum Growth
 differenceA_p: We target double digit returns by buying-and-holding the world’s best
   growth companies. We use strict investment criteria to make investments that can
