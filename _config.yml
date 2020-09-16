@@ -1,0 +1,41 @@
+---
+title: Upholdings
+timezone: UTC
+collections:
+  jobs:
+    title: Jobs
+    output: true
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    footer: small
+    summary: Add a summary to your article here
+    image: 
+    credit:
+    - Unsplash
+    - https://unsplash.com/
+    alt: Add alt text to the above image
+- scope:
+    path: ''
+    type: jobs
+  values:
+    experience: Add Experience
+    sample: Add sample
+url: www.upholdings.com
+description: Compound your capital faster by investing into the best companies building
+  our future.
+footer:
+  headline: Learn More
+  body: 'For early access, email us below:'
+baseurl: 
+markdown: kramdown
+homepage_mov: https://player.vimeo.com/external/350425045.hd.mp4?s=1e1710a8d0737b10b0ed2bb5991f5a0ae4a65b41&profile_id=175

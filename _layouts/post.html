@@ -1,0 +1,36 @@
+---
+layout: default
+footer: small
+---
+
+{% assign page.footer = small %}
+
+{% include header-dark.html %}
+<div class="w-100 pt5-l pt6 ph3">
+  <article class="pa4-m pa5-ns mb5">
+    <div class="vitals mw center">
+      <div class="f7 mb3 ttu tracked fw5"><a href="/research/"><i  class="fa fa-chevron-left"></i> Back</a> </div>
+      <h1 class="lh-headline mt0 mb3 super">{{page.title}}</h1>
+      <p class="mb3 off-black america">{{page.summary}}</p>
+      <div class="flex items-center w-100 justify-between">
+        <p class="mb3 off-black america f6 gray">{{page.date | date: "%B %d, %Y" }}</p>
+        {% include share-buttons.html %}
+      </div>
+
+    </div>
+
+    <div class="image-head center">
+
+      <img class="db" src="{{ page.image }}"/>
+      {% if page.credit %}
+      <p class="f7 gray mt2 america">Photo via <a target="_blank" href="{{ page.credit[1] }}">{{ page.credit[0] }}</a></p>
+      {% endif %}
+    </div>
+
+    <div class="mw center post-content">
+      {{ page.content }}
+    </div>
+  </article>
+</div>
+
+{% include footer.html %}
