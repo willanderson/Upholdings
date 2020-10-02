@@ -33,6 +33,6 @@ We supported the below two organizations in the quarter:
 * American Red Cross: The pandemic is driving up the demand for blood, while simultaneously slowing our ability to collect it. Our team donated both blood and money.
 * California Fire Foundation: Fires are becoming a new part of life on the west coast. This organization provides support to firefighters making big sacrifices to keep up the fight.
 
-Please direct any questions to invest@upholdings.com.
+Please direct any questions to invest@upholdings.com
 
 Robert
