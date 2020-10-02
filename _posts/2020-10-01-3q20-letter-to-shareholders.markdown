@@ -7,6 +7,7 @@ image: "/uploads/Change%20-%20smaller.jpg"
 credit:
 - Unsplash, Ross Findon
 - https://unsplash.com/
+alt: changes 2020
 ---
 
 The early winners and losers of COVID-19 have been picked. But volatility remains high for companies waiting out a return to normal. While we expect a stabilization to occur, we are planning for it to take longer than most current forecasts.
@@ -33,6 +34,6 @@ We supported the below two organizations in the quarter:
 * American Red Cross: The pandemic is driving up the demand for blood, while simultaneously slowing our ability to collect it. Our team donated both blood and money.
 * California Fire Foundation: Fires are becoming a new part of life on the west coast. This organization provides support to firefighters making big sacrifices to keep up the fight.
 
-Please direct any questions to invest@upholdings.com.
+Please direct any questions to invest@upholdings.com
 
 Robert
