@@ -9,7 +9,7 @@ credit:
 - https://unsplash.com/
 ---
 
-The early winners and losers of COVID-19 have been picked. But volatility remains high for companies waiting out a return to normalcy. While we expect a stabilization will happen, we are planning for it to take longer than most current forecasts.
+The early winners and losers of COVID-19 have been picked. But volatility remains high for companies waiting out a return to normal. While we expect a stabilization to occur, we are planning for it to take longer than most current forecasts.
 
 ## Ch-Ch-Changes
 This year has stricken many of us with stress and uncertainty. Through it all, we’re listening closely to workers, customers, and colleagues to hear how they’re adapting. We’re studying how the many recent changes are having long term impacts on business models.
