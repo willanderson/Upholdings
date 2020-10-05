@@ -26,7 +26,6 @@ We doubled down on Airbnb in the depths of the first shutdowns. We also started 
 We also added to our holdings in China where prices lagged the US. Our largest position there is now Tencent — who holds leadership positions in game development, social media, and digital payments. Lastly, we sold portions of our holdings in cloud software and payments companies whose valuations passed our targets - Adyen, Square, and Servicenow.
 
 ## Upholdings Updates
-We continue to work towards making this fund available as an ETF. Recent market volatility has only strengthened the case for managing this fund through the more tax efficient ETF structure.
 
 We also supported two organizations in the quarter:
 
