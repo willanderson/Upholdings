@@ -9,7 +9,7 @@ credit:
 - https://unsplash.com/
 ---
 
-The early winners and losers of COVID-19 have been picked. But volatility remains high for companies waiting out a return to normal. While we expect a stabilization to happen, we are planning for it to take longer than most current forecasts.
+The early winners and losers of COVID-19 have been picked. But volatility remains high for companies waiting out a return to normal. While we expect a stabilization to occur, we are planning for it to take longer than most current forecasts.
 
 ## Ch-Ch-Changes
 This year has stricken many of us with stress and uncertainty. Through it all, we’re listening closely to workers, customers, and colleagues to hear how they’re adapting. We’re studying how the many recent changes are having long term impacts on business models.
@@ -26,7 +26,6 @@ We acquired more shares of Berkshire and Starbucks, and also made one large new 
 Our largest divestment in the quarter was half of our position in Apple. While we are excited about the company’s growth in new products, their reliance on slowing iPhone sales (50% of revenue) will continue pressuring long term performance. We also exited our position in Ulta Beauty after failing to find evidence of their large format stores profitably repurposing for a post-pandemic economy. 
 
 ## Upholdings Updates
-We have completed our first filing with the SEC for converting our fund into a publicly traded ETF, putting us on track to launch in December.
 
 We supported the below two organizations in the quarter:
 
