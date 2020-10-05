@@ -26,7 +26,6 @@ We acquired more shares of Berkshire and Starbucks, and also made one large new 
 Our largest divestment in the quarter was half of our position in Apple. While we are excited about the company’s growth in new products, their reliance on slowing iPhone sales (50% of revenue) will continue pressuring long term performance. We also exited our position in Ulta Beauty after failing to find evidence of their large format stores profitably repurposing for a post-pandemic economy. 
 
 ## Upholdings Updates
-We have completed our first filing with the SEC for converting our fund into a publicly traded ETF, putting us on track to launch in December.
 
 We supported the below two organizations in the quarter:
 
