@@ -7,7 +7,6 @@ image: "/uploads/Change%20-%20smaller.jpg"
 credit:
 - Unsplash, Ross Findon
 - https://unsplash.com/
-alt: changes 2020
 ---
 
 The early winners and losers of COVID-19 have been picked. But volatility remains high for companies waiting out a return to normal. While we expect a stabilization to happen, we are planning for it to take longer than most current forecasts.
