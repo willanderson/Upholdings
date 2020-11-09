@@ -1,6 +1,5 @@
 ---
 permalink: "/research/"
-layout: posts
+layout: pw
 footer: small
 ---
-

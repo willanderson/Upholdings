@@ -1,7 +1,6 @@
 ---
 title: Jobs
 permalink: "/jobs/"
-layout: jobs
+layout: pw
 footer: small
 ---
-
