@@ -43,8 +43,6 @@ Exiting three positions while initiating three in a single quarter is a rare eve
 
 ## Upholdings Updates
 
-We continue to work towards making this fund available as an ETF. Our progress was slowed a little bit by this crisis, but we are continuing to lay the groundwork.
-
 In the quarter, we supported two organizations to help those impacted:
 
 * **[COREGives](https://coregives.org/):** Restaurants were the first industry in the US to abruptly lay off millions; this organization helps affected families with their essential expenses.
